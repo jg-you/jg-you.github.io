@@ -1,0 +1,79 @@
+/* General font settings*/
+h1 {
+    font-family: 'Noticia Text', serif;
+}
+#title {
+    text-align: left;
+    font-size:80px;
+}
+h2#subtitle {
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-align: left;
+    font-size:25px;
+    color: #444444;
+}
+h3 {
+    font-family: 'Raleway', sans-serif;
+    font-size:30px;
+}
+h4, h5 {
+    font-family: 'Raleway', sans-serif;
+    font-size:20px;
+}
+
+p {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size:18px;
+}
+.licenseText {
+    font-size:16px;
+}
+a {
+    color:#5F8DD3;
+    text-decoration:none;
+}
+a:hover {
+    text-decoration: underline;
+}
+a.navigationLink {
+    color:#000000;
+    text-decoration:none;
+}
+a.navigationLink:hover {
+    text-decoration: underline;
+}
+span.foo {
+    color: #2C5AA0;
+}
+.notes {
+    color: #000000;
+}
+.emph {
+    font-weight: bold;
+}
+.pubTitle {
+    font-style: italic;
+    font-size: 20px;
+}
+/* Position specific settings */
+ul#navigationList {
+    font-family: 'Raleway';
+    font-size:20px;
+}
+ul.contentList {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size:18px;
+}
+ul.separatedList {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size:18px;
+}
+div.license {
+    text-align: center;
+}
+div.sidebar {
+    text-align:center;
+}
+div.content {
+    text-align:left;
+}

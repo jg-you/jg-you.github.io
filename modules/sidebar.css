@@ -1,0 +1,33 @@
+div.sidebar {
+    background-color:#F9F9F9;
+}
+.navigationDiv {
+    position: relative;
+    top: 100px;
+}
+.licence {
+    position: absolute;
+    bottom: 30px;
+    width: 96%;
+    left: 2%;
+}
+.license-img {
+    border-width: 0px;
+    width: 88px;
+    height: 31px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+img.portrait {
+    position: relative;
+    top: 30px;
+    border-width: 0px;
+    width: 130px;
+    height: 130px;
+    z-index: 2;
+}
