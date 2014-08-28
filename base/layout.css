@@ -46,3 +46,8 @@ ul.separatedList {
 li.separatedList {
     margin-bottom: 7px;
 }
+img.imgContact {
+    height: 20px;
+    width: 20px;
+    margin-left: 5px;
+}

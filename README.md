@@ -1,4 +1,4 @@
 foonotes
 ========
 
-Jean-Gabriel Young personnal page.
+Jean-Gabriel Young personal page.
