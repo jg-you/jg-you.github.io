@@ -2,16 +2,16 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>foonotes : Jean-Gabriel Young</title>
+        <title>foonotes: {% if TITLE is defined %}{{ TITLE }}{% else %} Jean-Gabriel Young{% endif %}</title>
         <meta name="description" content="Personal website for the research work and blog posts of Jean-Gabriel Young.">
         <meta name="author" content="Jean-Gabriel Young.">
-        <meta name="keywords" content="Jean-Gabriel Young, about, Networks, graphs, programming, maths, mathematics, c++, publications, codes, github">
+        <meta name="keywords" content="{% if SPECIAL_KEYWORDS is defined %}{% for item in SPECIAL_KEYWORDS %}{{ item }}, {% endfor %}{% endif %}{% for item in DEFAULT_KEYWORDS %}{{ item }}{%if loop.last %}{% else %}, {% endif %}{% endfor %}">
 
         <!-- OpenGraph (incomplete) -->
         <meta property="og:url" content="http://www.jgyoung.ca"/>
-        <meta property="og:title" content="foonotes: Jean-Gabriel Young"/>
+        <meta property="og:title" content="foonotes{% if TITLE is defined %}: {{ TITLE }}{% endif %}"/>
         <meta property="og:description" content="Research work and blog posts of Jean-Gabriel Young.">
-        <meta property="og:image" content="http://www.jgyoung.ca/img/share.jpg"/>
+        <meta property="og:image" content="http://www.jgyoung.ca/img/{% if SPECIAL_SHARE_IMAGE_URL is defined %}{{ SPECIAL_SHARE_IMAGE_URL }}{% else %}share.jpg{% endif %}"/>
         
         <!-- Mobile configuration -->
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -26,10 +26,11 @@
         <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Raleway|Noticia+Text' rel='stylesheet' type='text/css'> 
 
         <!-- Link stylesheets -->
-        <link rel="stylesheet" type="text/css" href="base/layout.css">
-        <link rel="stylesheet" type="text/css" href="base/typography.css">
-        <link rel="stylesheet" type="text/css" href="modules/header.css">
-        <link rel="stylesheet" type="text/css" href="modules/sidebar.css">
+        <link rel="stylesheet" type="text/css" href="{% if PATH_TO_BASE is defined %}{{ PATH_TO_BASE }}{% endif %}base/layout.css">
+        <link rel="stylesheet" type="text/css" href="{% if PATH_TO_BASE is defined %}{{ PATH_TO_BASE }}{% endif %}base/typography.css">
+        <link rel="stylesheet" type="text/css" href="{% if PATH_TO_BASE is defined %}{{ PATH_TO_BASE }}{% endif %}modules/header.css">
+        <link rel="stylesheet" type="text/css" href="{% if PATH_TO_BASE is defined %}{{ PATH_TO_BASE }}{% endif %}modules/sidebar.css">
+        <link rel="stylesheet" type="text/css" href="{% if PATH_TO_BASE is defined %}{{ PATH_TO_BASE }}{% endif %}modules/footer.css">
 
         <!-- Google analytics -->
         <script>
@@ -51,19 +52,19 @@
     </div>
     <!-- Sidebar -->
     <div class="sidebar">
-        <img class="portrait" src="img/jgyoung.png"></img>
+        <img class="portrait" src="{% if PATH_TO_BASE is defined %}{{ PATH_TO_BASE }}{% endif %}img/jgyoung.png"></img>
         <div class="navigationDiv">
             <ul id="navigationList">
-                <li><a href="index.html" class="navigationLink">Home</a></li>
-                <li><a rel="author" href="about.html" class="navigationLink">About</a></li>
-                <li><a href="publications.html" class="navigationLink">Publications</a></li>
-                <li><a href="code.html" class="navigationLink">Code</a></li>
-                <li><a rel="author" href="contact.html" class="navigationLink">Contact</a></li>
+                <li><a href="{% if PATH_TO_BASE is defined %}{{ PATH_TO_BASE }}{% endif %}index.html" class="navigationLink">Home</a></li>
+                <li><a rel="author" href="{% if PATH_TO_BASE is defined %}{{ PATH_TO_BASE }}{% endif %}about.html" class="navigationLink">About</a></li>
+                <li><a href="{% if PATH_TO_BASE is defined %}{{ PATH_TO_BASE }}{% endif %}publications.html" class="navigationLink">Publications</a></li>
+                <li><a href="{% if PATH_TO_BASE is defined %}{{ PATH_TO_BASE }}{% endif %}code.html" class="navigationLink">Code</a></li>
+                <li><a rel="author" href="{% if PATH_TO_BASE is defined %}{{ PATH_TO_BASE }}{% endif %}contact.html" class="navigationLink">Contact</a></li>
             </ul>
         </div>
         <div class="licence">
         <p><a rel="License" href="http://creativecommons.org/licenses/by-sa/4.0/">
-          <img alt="Creative Commons License" class="license-img" src="img/by-sa.png" />
+          <img alt="Creative Commons License" class="license-img" src="{% if PATH_TO_BASE is defined %}{{ PATH_TO_BASE }}{% endif %}img/by-sa.png" />
         </a></p>
         <p class="licenseText">This work is licensed under a <br/><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike International License</a></p>
         </div>
@@ -71,26 +72,9 @@
 
     <!-- Content -->
     <div class="content">
-        <h3>About</h3>
-        <div class="regularContent">
-            <p>
-                I am a Ph.D candidate working under the guidance of <a href="http://www.dynamica.phy.ulaval.ca">Prof. Louis J. Dub&eacute</a> at Universit&eacute Laval, Quebec City, Canada.
-                We study both the classical theory of complex systems (e.g. stochastic growth processes) and modern subjects such as complex networks. I focus on the spectral theory of complex networks / graphs, it's connection with random matrix theory, and community detection.
-            </p>
+        {% block CONTENT %}
 
-            <p>
-                While my current research is mostly confined to complex network theory, I also have a strong interest in theoretical computer science, cryptography, chess, music, and their connexion to modern science. 
-            </p>
-
-            <p>
-                I will gather essays about both my ongoing research and unrelated projects on this website. 
-                Learn by doing.
-            </p>
-<!-- 
-            <p> 
-                You can learn more about me by reading my curriculum vitae or by visiting one of my <a href="contact.html">online profiles</a>.
-            </p> -->
-        </div>
+        {% endblock %}
     </div>
   </body>
 </html>

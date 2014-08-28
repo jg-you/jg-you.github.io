@@ -28,6 +28,17 @@ p {
 .licenseText {
     font-size:16px;
 }
+.postinfo {
+    position: relative;
+    top: -30px;
+    font-size:16px;
+}
+.tags {
+    position: relative;
+    top: -68px;
+    left: 140px;
+    font-size:16px;
+}
 a {
     color:#5F8DD3;
     text-decoration:none;
@@ -48,8 +59,12 @@ span.foo {
 .notes {
     color: #000000;
 }
-.emph {
+.bold {
     font-weight: bold;
+}
+.emph,
+.italic {
+    font-style: italic;
 }
 .pubTitle {
     font-style: italic;
