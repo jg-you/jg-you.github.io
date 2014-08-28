@@ -13,8 +13,8 @@
     </p>
     <div class="regularContent">
     {{ PREVIEW_TEXT }}
-    {{ FULL_TEXT }}
+    {% if FULL_TEXT is defined %}{{ FULL_TEXT }}{% endif %}
+    </div>
     {% if PREVIOUS_URL is defined %}<a href="{{ PREVIOUS_URL }}" class="previous">Previous</a>{% endif %}
     {% if NEXT_URL is defined %}<a href="{{ NEXT_URL }}" class="next">Next</a>{% endif %}
-    </div>
 {% endblock %}

@@ -18,7 +18,7 @@ database = json.load(open('database/db.json'))
 # Read content and produce posts pages
 for postId in range(0,len(database["posts"])) :
     post = database["posts"][postId]
-    templateVariables = dict()
+    templateVariables = post
     templateVariables["DEFAULT_KEYWORDS"] = defaultKeywords
     templateVariables["PATH_TO_BASE"] = "../"
     # URL management 
@@ -28,29 +28,16 @@ for postId in range(0,len(database["posts"])) :
     if postId < len(database["posts"]) - 1 :
         templateVariables["NEXT_URL"] = str(postId+1)+".html"
     # Omission of the following fields raise an exception
-    if "title" in post :
-        templateVariables["TITLE"] = post["title"]
-    else :
+    if "TITLE" not in post :
         raise("Untitled post (id="+str(postId)+")")
-    if "date" in post :
-        templateVariables["DATE"] = post["date"]
-    else :
+    if "DATE" not in post :
         raise("Undated post (id="+str(postId)+")")
-    if "preview_text" in post :
-        templateVariables["PREVIEW_TEXT"] = post["preview_text"]
-    else :
+    if "PREVIEW_TEXT" not in post :
         raise("No preview for post id="+str(postId))
 
     # Omission of the following fields cause defaulted behavior
-    if "tags" in post :
-        templateVariables["TAGS"] = post["tags"]
-        templateVariables["SPECIAL_KEYWORDS"] = post["tags"]
-    if "full_text" in post :
-        templateVariables["FULL_TEXT"]  = post["full_text"]
-    else :
-        templateVariables["FULL_TEXT"] = ""
-    if "special_share_img" in post :
-        templateVariables["SPECIAL_SHARE_IMAGE_URL"] = post["special_share_img"]
+    if "TAGS" in post :
+        templateVariables["SPECIAL_KEYWORDS"] = post["TAGS"]
 
     htmlOutput = fullPostTemplate.render(templateVariables)
     fid = open("../posts/"+templateVariables["URL"],"w")
