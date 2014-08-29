@@ -5,7 +5,7 @@
         <title>foonotes: {% if TITLE is defined %}{{ TITLE }}{% else %} Jean-Gabriel Young{% endif %}</title>
         <meta name="description" content="Personal website for the research work and blog posts of Jean-Gabriel Young.">
         <meta name="author" content="Jean-Gabriel Young.">
-        <meta name="keywords" content="{% if SPECIAL_KEYWORDS is defined %}{% for item in SPECIAL_KEYWORDS %}{{ item }}, {% endfor %}{% endif %}{% for item in DEFAULT_KEYWORDS %}{{ item }}{%if loop.last %}{% else %}, {% endif %}{% endfor %}">
+        <meta name="keywords" content="{% if DEFAULT_KEYWORDS is defined %}{% for item in DEFAULT_KEYWORDS %}{{ item }}{%if loop.last %}{% else %}, {% endif %}{% endfor %}{% endif %}{% if SPECIAL_KEYWORDS is defined %}{% for item in SPECIAL_KEYWORDS %}, {{ item }}{% endfor %}{% endif %}">
 
         <!-- OpenGraph (incomplete) -->
         <meta property="og:url" content="http://www.jgyoung.ca"/>

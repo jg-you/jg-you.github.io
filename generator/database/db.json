@@ -1,25 +1,35 @@
 {
-    "posts" : [
+    "number_of_generated_posts": 3, 
+    "posts": [
         {
-            "TITLE" : "Sample Post I",
-            "DATE" : "Aug. 27th 2014",
-            "TAGS" : ["news", "networks"],
-            "PREVIEW_TEXT" : "<p> Blabha éé aàdfa adfoiuaerl jaà & \"adfkljadf\" </p>",
-            "FULL_TEXT" : "<p> This is after the break </p><p> This is another paragraph </p>",
-            "SPECIAL_SHARE_IMAGE_URL" : "test.jpg"
-        },
+            "DATE": "Aug. 27th 2014", 
+            "FULL_TEXT": "<p> This is after the break </p><p> This is another paragraph </p>", 
+            "PREVIEW_TEXT": "<p> Blabha \u00e9\u00e9 a\u00e0dfa adfoiuaerl ja\u00e0 & \"adfkljadf\" </p>", 
+            "SPECIAL_SHARE_IMAGE_URL": "test.jpg", 
+            "TAGS": [
+                "news", 
+                "networks"
+            ], 
+            "TITLE": "Sample Post I", 
+            "generated": true
+        }, 
         {
-            "TITLE" : "Sample Post II",
-            "DATE" : "Aug. 28th 2014",
-            "TAGS" : ["news", "networks", "test"],
-            "PREVIEW_TEXT" : "<p> This one has no full text uaeadfadfa kjlafakldjf lafklasjdhf kljashf <a href=\"alink\".html>link</a>rl jaà & \"adfkljadf\"</p>"
-        },
+            "DATE": "Aug. 28th 2014", 
+            "PREVIEW_TEXT": "<p> This one has no full text uaeadfadfa kjlafakldjf lafklasjdhf kljashf <a href=\"alink\".html>link</a>rl ja\u00e0 & \"adfkljadf\"</p>", 
+            "TAGS": [
+                "news", 
+                "networks", 
+                "test"
+            ], 
+            "TITLE": "Sample Post II", 
+            "generated": true
+        }, 
         {
-            "TITLE" : "Sample Post III",
-            "DATE" : "Aug. 29th 2014",
-            "PREVIEW_TEXT" : "<p> This one has no tags</p>",
-            "FULL_TEXT" : "<p> This is after the break </p><p> This is another paragraph </p>"
+            "DATE": "Aug. 29th 2014", 
+            "FULL_TEXT": "<p> This is after the break </p><p> This is another paragraph </p>", 
+            "PREVIEW_TEXT": "<p> This one has no tags</p>", 
+            "TITLE": "Sample Post III", 
+            "generated": true
         }
     ]
 }
-
