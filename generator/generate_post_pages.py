@@ -20,10 +20,10 @@ fullPostTemplate = env.get_template( fullPostTemplatePath )
 database = json.load(open('database/db.json'))
 
 # Read content and produce posts pages
-totalNumberOfGeneratedPosts = 0;
+totalNumberOfPublishedPosts = 0;
 for postId in range(0,len(database["posts"])) :
     post = database["posts"][postId]
-    if not post["generated"] or args.eval > 0 :
+    if not post["published"] or args.eval > 0 :
         # Omission of the following fields raise an exception
         if "TITLE" not in post :
             raise("Untitled post")
@@ -34,7 +34,7 @@ for postId in range(0,len(database["posts"])) :
 
         # If all tests are passed, we produce a set of fitting pahts
         paths = dict()
-        paths["PATH_TO_BASE"] = "../"
+        paths["PATH_TO_BASE"] = "../../"
         # URL management 
         paths["URL"] = str(postId)+".html"
         if postId > 0 :
@@ -52,16 +52,16 @@ for postId in range(0,len(database["posts"])) :
         htmlOutput = fullPostTemplate.render(dict(keywords.items()+paths.items()+post.items()))
         
         # Output html file
-        fid = open("../posts/"+paths["URL"],"w")
+        fid = open("../archive/posts/"+paths["URL"],"w")
         fid.write(htmlOutput.encode('utf8'))
         fid.close()
 
         # Update databse
-        database["posts"][postId]["generated"] = True
-        totalNumberOfGeneratedPosts += 1
+        database["posts"][postId]["published"] = True
+        totalNumberOfPublishedPosts += 1
 
 # update database
-database["number_of_generated_posts"] = totalNumberOfGeneratedPosts
+database["number_of_published_posts"] = totalNumberOfPublishedPosts
 with open('database/db.json', 'w') as fid :
     json.dump(database, fid, indent = 4, sort_keys = True)
 fid.close()
