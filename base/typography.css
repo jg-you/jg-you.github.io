@@ -22,10 +22,11 @@ h4, h5 {
 }
 
 p {
-    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Slabo 27px', serif;
     font-size:18px;
 }
 .licenseText {
+    font-family: 'Open Sans Condensed', sans-serif;
     font-size:16px;
 }
 .postinfo {
@@ -76,12 +77,12 @@ ul#navigationList {
     font-size:20px;
 }
 ul.contentList {
-    font-family: 'Open Sans Condensed', sans-serif;
-    font-size:18px;
+    font-family: 'Slabo 27px', serif;
+    font-size:17px;
 }
 ul.separatedList {
-    font-family: 'Open Sans Condensed', sans-serif;
-    font-size:18px;
+    font-family: 'Slabo 27px', serif;
+    font-size:17px;
 }
 div.license {
     text-align: center;
