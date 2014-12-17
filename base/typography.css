@@ -71,7 +71,7 @@ span.foo {
 }
 .pubTitle {
     font-family: 'Noticia Text', serif;
-    font-style: italic;
+    /*font-style: italic;*/
     font-size: 17px;
 }
 /* Position specific settings */
