@@ -4,6 +4,7 @@ html, body {
 }
 
 body {
+    font-family: 'Slabo 27px', serif;
     text-align:center;
     background-color:#FFFFFF;
 }
