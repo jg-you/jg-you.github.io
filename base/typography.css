@@ -70,8 +70,9 @@ span.foo {
     font-style: italic;
 }
 .pubTitle {
+    font-family: 'Noticia Text', serif;
     font-style: italic;
-    font-size: 20px;
+    font-size: 17px;
 }
 /* Position specific settings */
 ul#navigationList {
