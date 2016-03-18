@@ -103,12 +103,26 @@
                 To streamline this process, I developed a minimal markdown file interpreter (with <span class="emph">no input cleansing</span> whatsoever... after all I do not wish to attack my own website) that parses a markdown file and produces the correct JSON structure.
             </p>
         </div> -->
-<!--         <h4>Structural Preferential Attachment (SPA*)</h4>
+        <h4><a href="https://github.com/spa-networks/spa/">Structural Preferential Attachment (SPA+)</a></h4>
         <div class="regularContent">
             <p>
-                SPA* is stochastic growth process that produces realistic networks with a modular structure. A minimal version was initially introduced by <a href="https://sites.google.com/site/laurenthebertdufresne/home">Laurent H&eacutebert-Dufresne</a> et al. in a <a href="http://arxiv.org/abs/1105.5980">series</a> of <a href="http://arxiv.org/abs/1109.0034">papers</a> back in 2011-2012. While this initial version, dubbed SPA, reproduced most mesoscopic properties of real networks accurately, it made strong assumptions about the <span class="emph">structure of the communities</span> of a network: namely that real communities are formed by fully connected cliques of nodes (a hypothesis reminiscent of the work of <a href="http://arxiv.org/abs/physics.soc-ph/0506133.pdf"> Palla et al. [2005]</a>, for example). Most modern detection algorithm fail to recover these fully connected communities, which prompted the development of an extend model (SPA*) that accounts for the heterogeneous nature of community density in real networks.
+                SPA+ is stochastic growth process that produces realistic networks with a modular structure.
+                A minimal version was initially introduced by <a href="https://sites.google.com/site/laurenthebertdufresne/home">Laurent H&eacutebert-Dufresne</a> et al. in a <a href="http://arxiv.org/abs/1105.5980">series</a> of <a href="http://arxiv.org/abs/1109.0034">papers</a> back in 2011-2012.
+                While this initial version, dubbed SPA, reproduced most mesoscopic properties of real networks accurately, it made strong assumptions about the <span class="emph">structure of the communities</span> of a network: namely that real communities are formed by fully connected cliques of nodes (a hypothesis reminiscent of the work of <a href="http://arxiv.org/abs/physics.soc-ph/0506133.pdf"> Palla et al. [2005]</a>, for example).
+                This often not the case.
+                This observation prompted the development of an extended model (SPA+) that accounts for the heterogeneous nature of community density in real networks.
+                See my <a href="publications.html">publications</a> page for more information.</p>
+            <p>
+                The hyper-linked repository contains a robust C++ implementation of both the simple model (SPA) and the extended model (SPA+).
             </p>
-        </div> -->
+        </div>
+        <h4><a href="https://github.com/spa-networks/hpa/">Hierarchical Preferential Attachment</a></h4>
+        <div class="regularContent">
+            <p>
+                The Hierarchical Preferential Attachment model (HPA) is a direct extension of SPA, and contains the latter as a special case. It is described in length in our <a href="http://dx.doi.org/10.1103/PhysRevE.92.062809">Phys. Rev. E. paper</a>.
+                The hyper-linked repository <span class="emph">does not</span> contain a full implementation of the model (yet?), but provides useful analytical tools to play around with the mean-field equations.
+            </p>
+        </div>
     </div>
   </body>
 </html>
