@@ -1,0 +1,15 @@
+<header class="site-header" role="banner">
+        <div class="portrait">
+            <a href="{{site.url}}" class="no-decoration"><img src="/img/jgyoung.png"></img></a>
+        </div>
+        <div class="about">
+            <h1><a href="{{site.url}}" class="no-decoration">Jean-Gabriel Young</a></h1>
+            <p>Ph.D candidate in <b>Physics & Network Science</b> at Universit&eacute Laval, Qu&eacutebec, (QC) Canada</p>
+        </div>
+        <nav class="site-nav">
+            <a href="/index.html"><div class="nav-button-left" {% if page.title == "News" or page.layout == "post" %}id="active-nav"{% endif %}> News </div></a>
+            <a href="/code.html"><div class="nav-button" {% if page.title == "Code" %}id="active-nav"{% endif %}> Code </div></a>
+            <a href="/publications.html"><div class="nav-button" {% if page.title == "Publications" %}id="active-nav"{% endif %}> Publications </div></a>
+            <a href="/about.html#"><div class="nav-button-right" {% if page.title == "About" %}id="active-nav"{% endif %}> About </div></a>
+        </nav>
+    </header>

@@ -1,4 +1,4 @@
-foonotes
-========
+jg-you.github.io
+================
 
-Jean-Gabriel Young personal page.
+[My personal website](http://www.jgyoung.ca)

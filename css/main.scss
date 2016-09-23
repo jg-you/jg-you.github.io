@@ -1,0 +1,295 @@
+---
+---
+@import "/bootstrap/css/bootstrap.css";
+body {
+    padding:0;
+    margin:0;
+    background-attachment:fixed;
+    text-align:center;
+    background-color: #a6bddb;
+    background-image: url("/img/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+html {
+    overflow: scroll;
+}
+/******************/
+/* Header styling */
+/******************/
+    div.portrait {
+        margin: auto;
+        border-radius: 50%;
+        border: 11px #FAFAFA solid;
+        background-size: 0%;
+        height: 200px;
+        width: 200px;
+        margin-bottom: -50px;
+        margin-top: 20px;
+        overflow: hidden;
+    }
+    div.about {
+        margin: auto;
+        width: 90%;
+        max-width: 800px;
+        background-color: #FAFAFA;
+        margin-bottom: 20px;
+        border-radius: 5px;
+        padding-bottom: 5px;
+    }
+    /* Nav styling [in header] */
+    nav.site-nav {
+        margin: auto;
+        width: 90%;
+        max-width: 800px;
+        padding-bottom: 10px;
+    }
+    div.nav-button {
+        line-height: 50px;
+        color: #034e7b;
+        height: 50px;
+        float: left;
+        margin: auto;
+        background-color: #DDDDDD;
+        width: 25%;
+        font-size: 16;
+        border-top: 4px #0570b0 solid;
+        -webkit-transition: 0.2s; /* Safari */
+        transition: 0.2s;
+    }
+    div.nav-button-left {
+        @extend .nav-button;
+        border-radius: 5px 0px 0px 0px;
+    }
+    div.nav-button-right {
+        @extend .nav-button;
+        border-radius: 0px 5px 0px 0px;
+    }
+    // Special states
+    div.nav-button:hover {
+        border-top: 4px #0570b0 solid;
+        background-color: #FAFAFA;
+        /* Transitions */
+        -webkit-transition: 0.2s; /* Safari */
+        transition: 0.2s;
+    }
+    div.nav-button#active-nav{
+        background-color: #FAFAFA;
+        border-top: 4px #034e7b solid;
+    }
+
+/*******************/
+/* Content styling */
+/*******************/
+    main.page-content {
+        border-radius: 2px 2px 0px 0px;
+        background-color: #FAFAFA;
+        padding-top: 50px;
+        margin: auto;
+        width: 90%;
+        max-width: 800px;
+    }
+    ul.post-list {
+        list-style-type: none;
+        padding-left:0;
+        margin-top: -10px;
+    }
+    li.post, div.post-content {
+        padding: 10px 30px;
+    }
+    div.end-of-post {
+        height: 2px;
+        background-color: #DDDDDD;
+        margin-top: 40px;
+        margin-bottom: -20px;
+        border-radius: 2px;
+        width: 100%;
+/*         margin-left: 10%;
+        margin-right: 10%; */
+    }
+    div#disqus_thread {
+        padding: 10px 30px;
+    }
+    div.code-links {
+        margin: auto;
+        font-size: 12px;
+        height: 40px;
+    }
+    img {
+        vertical-align:middle;
+    }
+    ul.contact-list {
+        list-style-type: none;
+        text-align: left;
+        padding: 0px;
+    }
+    li.contact-list-item {
+        margin-bottom: 3px;
+    }
+    li {
+        margin-bottom: -10px;
+    }
+
+
+/******************/
+/* Footer styling */
+/******************/
+    footer {
+        line-height: 70px;
+        padding-top: 10px;
+        height: 60px;
+        background-color: #FAFAFA;
+        margin: auto;
+        width: 90%;
+        font-size: 8px;
+        max-width: 800px;
+        margin-bottom: 30px;
+        margin-top: -20px;
+        border-radius: 0px 0px 5px 5px;
+    }
+
+/**************/
+/* Typography */
+/**************/
+    h1 {
+        font-family: 'Open Sans Condensed', sans-serif;
+        color: #034e7b;
+        font-size: 40px;
+        padding-top: 20px;
+        margin-bottom: -1px;
+
+    }    
+    h2 {
+        font-family: 'Open Sans Condensed', sans-serif;
+        font-weight: bold;
+        font-size: 35px;
+        display: block;
+        margin-bottom: 3px;
+        text-decoration: none;
+    }
+    h3 {
+        font-family: 'Open Sans Condensed', sans-serif;
+        font-weight: bold;
+        font-size: 25px;
+        display: block;
+        margin-bottom: 3px;
+        margin-top: 50px;
+        text-decoration: none;
+    }
+    div.about > p {
+        text-align: center;
+    }
+    p {
+        font-family: 'Slabo 27px', serif;
+        font-size: 18px;
+        text-align: left;
+    }
+    a:link {
+        color: #0570b0;
+        text-decoration: none;
+        -webkit-transition: 0.3s; /* Safari */
+        transition: 0.3s;
+    }
+    a:visited {
+        color: #0570b0;
+    }
+    a:hover {
+        color: #74a9cf;
+        -webkit-transition: 0.3s; /* Safari */
+        transition: 0.3s;
+    }
+    a:active {
+        color: #0570b0;
+    }
+    span.post-meta {
+        display: block;
+        font-size: 30;
+        padding: 5px;
+    }
+    span.post-tags:after{content:"]";}
+    span.post-tags:before{content:"[";} 
+    a.no-decoration{
+        text-decoration: none;
+        color: #0570b0;
+    }
+
+/******************/
+/* Code highlight */
+/******************/
+    code.highlighter-rouge 
+    {
+        padding: 0;
+        padding-top: 0.2em;
+        padding-bottom: 0.2em;
+        margin: 0;
+        font-size: 85%;
+        background-color: rgba(0,0,0,0.04);
+        border-radius: 3px;
+    }
+    .highlight {
+        text-align: left;
+    }
+    highlight pre, pre, .highlight .hll { background-color: #f8f8f8; border: 1px solid #ccc; padding: 6px 10px; border-radius: 3px; }
+    .highlight .c { color: #999988; font-style: italic; }
+    .highlight .err { color: #a61717; background-color: #e3d2d2; }
+    .highlight .k { font-weight: bold; }
+    .highlight .o { font-weight: bold; }
+    .highlight .cm { color: #999988; font-style: italic; }
+    .highlight .cp { color: #999999; font-weight: bold; }
+    .highlight .c1 { color: #999988; font-style: italic; }
+    .highlight .cs { color: #999999; font-weight: bold; font-style: italic; }
+    .highlight .gd { color: #000000; background-color: #ffdddd; }
+    .highlight .gd .x { color: #000000; background-color: #ffaaaa; }
+    .highlight .ge { font-style: italic; }
+    .highlight .gr { color: #aa0000; }
+    .highlight .gh { color: #999999; }
+    .highlight .gi { color: #000000; background-color: #ddffdd; }
+    .highlight .gi .x { color: #000000; background-color: #aaffaa; }
+    .highlight .go { color: #888888; }
+    .highlight .gp { color: #555555; }
+    .highlight .gs { font-weight: bold; }
+    .highlight .gu { color: #800080; font-weight: bold; }
+    .highlight .gt { color: #aa0000; }
+    .highlight .kc { font-weight: bold; }
+    .highlight .kd { font-weight: bold; }
+    .highlight .kn { font-weight: bold; }
+    .highlight .kp { font-weight: bold; }
+    .highlight .kr { font-weight: bold; }
+    .highlight .kt { color: #445588; font-weight: bold; }
+    .highlight .m { color: #009999; }
+    .highlight .s { color: #dd1144; }
+    .highlight .n { color: #333333; }
+    .highlight .na { color: teal; }
+    .highlight .nb { color: #0086b3; }
+    .highlight .nc { color: #445588; font-weight: bold; }
+    .highlight .no { color: teal; }
+    .highlight .ni { color: purple; }
+    .highlight .ne { color: #990000; font-weight: bold; }
+    .highlight .nf { color: #990000; font-weight: bold; }
+    .highlight .nn { color: #555555; }
+    .highlight .nt { color: navy; }
+    .highlight .nv { color: teal; }
+    .highlight .ow { font-weight: bold; }
+    .highlight .w { color: #bbbbbb; }
+    .highlight .mf { color: #009999; }
+    .highlight .mh { color: #009999; }
+    .highlight .mi { color: #009999; }
+    .highlight .mo { color: #009999; }
+    .highlight .sb { color: #dd1144; }
+    .highlight .sc { color: #dd1144; }
+    .highlight .sd { color: #dd1144; }
+    .highlight .s2 { color: #dd1144; }
+    .highlight .se { color: #dd1144; }
+    .highlight .sh { color: #dd1144; }
+    .highlight .si { color: #dd1144; }
+    .highlight .sx { color: #dd1144; }
+    .highlight .sr { color: #009926; }
+    .highlight .s1 { color: #dd1144; }
+    .highlight .ss { color: #990073; }
+    .highlight .bp { color: #999999; }
+    .highlight .vc { color: teal; }
+    .highlight .vg { color: teal; }
+    .highlight .vi { color: teal; }
+    .highlight .il { color: #009999; }
+    .highlight .gc { color: #999; background-color: #EAF2F5; }

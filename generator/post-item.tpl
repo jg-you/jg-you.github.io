@@ -1,1 +1,0 @@
-<span class="bold">{{ DATE }}:</span> <a href="{{ URL }}"> {{ TITLE }} </a>
