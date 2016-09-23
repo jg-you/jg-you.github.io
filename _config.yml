@@ -26,3 +26,4 @@ gems: ['jekyll/scholar']
 # Build settings
 markdown: kramdown
 theme: minima
+google_analytics: true
