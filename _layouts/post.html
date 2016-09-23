@@ -16,10 +16,10 @@ layout: default
             </div>
             
             {% if page.comments and jekyll.environment == 'production'  %}
+            {% assign full_base_url = custom_url | default: site.github.url %}
             <div id="disqus_thread"></div>
             <script type="text/javascript">
                 /* * * CONFIGURATION VARIABLES * * */
-                 {% assign full_base_url = custom_url | default: site.github.url %}
                 var disqus_shortname = 'foonotes';
                 var disqus_identifier = '{{ page.title | handleize }}';
                 var disqus_title = '{{page.title | escape}}';
