@@ -21,7 +21,7 @@ layout: default
                 /* * * CONFIGURATION VARIABLES * * */
                  {% assign full_base_url = custom_url | default: site.github.url %}
                 var disqus_shortname = 'foonotes';
-                var disqus_identifier = 'posts/{{ page.title | handleize }}';
+                var disqus_identifier = '{{ page.title | handleize }}';
                 var disqus_title = '{{page.title | escape}}';
                 var disqus_url = '{{page.url | prepend: full_base_url}}';
 
