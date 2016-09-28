@@ -1,8 +1,8 @@
 <footer class="site-footer">{% assign d = site.time | date: "%-d" %}{% assign m = site.time | date: "%B" %}
-        Generated on {% case m %}{% when 'April' or 'May' or 'June' or 'July' %}{{ m }}{% when 'September' %}Sept.{% else %}{{ site.time | date: "%b" }}.{% endcase %} {% case d %} {% when '1' or '21' or '31' %}{{ d }}st {% when '2' or '22' %}{{ d }}nd {% when '3' or '23' %}{{ d }}rd {% else %}{{ d }}th {% endcase %}, {{ site.time | date: "%Y" }}.
+        Generated on {% case m %}{% when 'April' or 'May' or 'June' or 'July' %}{{ m }}{% when 'September' %}Sept.{% else %}{{ site.time | date: "%b" }}.{% endcase %} {% case d %} {% when '1' or '21' or '31' %}{{ d }}st {% when '2' or '22' %}{{ d }}nd {% when '3' or '23' %}{{ d }}rd {% else %}{{ d }}th{% endcase %}, {{ site.time | date: "%Y" }}.
         Powered by <a href="https://jekyllrb.com">Jekyll</a>.
         Hosted on <a href="https://github.com/jg-you/jg-you.github.io">github</a>.
-        Themed by <a href="https://twitter.com/_jgyou">@_jgyou</a>
+        Themed by <a href="https://twitter.com/_jgyou">@_jgyou</a>.
     </footer>
     <script data-turbolinks-eval="false" src="https://cdnjs.cloudflare.com/ajax/libs/turbolinks/5.0.0/turbolinks.min.js"></script>
     <script data-turbolinks-eval="false">if (typeof Turbolinks !== 'undefined') Turbolinks.start();</script>
