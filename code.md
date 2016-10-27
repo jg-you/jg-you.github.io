@@ -20,9 +20,9 @@ Download the code from:
 
 
 SPA+ is stochastic growth process that produces realistic networks with a modular structure.
-A minimal version was initially introduced by [L. Hébert-Dufresne](https://sites.google.com/site/laurenthebertdufresne/home) _et al._ in a series of [two](http://arxiv.org/abs/1105.5980) [papers](http://arxiv.org/abs/1109.0034),back in 2011-2012.
+The first version of the model was introduced by [L. Hébert-Dufresne](http://laurenthebertdufresne.github.io/) _et al._ in a series of [two](http://arxiv.org/abs/1105.5980) [papers](http://arxiv.org/abs/1109.0034),back in 2011-2012.
 While this initial version, dubbed SPA, reproduced most mesoscopic properties of real networks accurately, it made strong assumptions about the _structure of the communities_ of a network: Namely that real communities are formed by fully connected cliques of nodes (a hypothesis reminiscent of the work of [Palla et al](http://arxiv.org/abs/physics.soc-ph/0506133) [2005], for instance).
-This often not the case.
+This strong hypothesis can of course be relaxed, but not in a straightforward and natural way.
 This observation prompted the development of an extended model (SPA+) that accounts for the heterogeneous nature of community density in real networks.
 See the associated  [publication](http://dx.doi.org/10.1103/PhysRevE.94.022317) for more information.
 The repository contains a fast and robust C++ implementation of both the simple model (SPA) and the extended model (SPA+).
