@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 comments: true
 ---
 I'm very happy to announce that my M.Sc. thesis has been been accepted by the review committee, and is now officially [available online](http://www.dynamica.phy.ulaval.ca/fileadmin/theses/young14_master.pdf)
-While the thesis is mostly written in French, you will find two English chapters, namely a chapter on cascading detection (see [this arXiv paper](http://arxiv.org/abs/1211.1364)), and a chapter that contains preliminary results taken from a paper that I'm currently writing with [L. Hébert-Dufresne](https://sites.google.com/site/laurenthebertdufresne/home) (now a James S. McDonnell Postdoctoral Fellow at the Santa Fe Institute). In that chapter, we propose that the _internal_ structure of communities arises from the juxtaposition of two simple stochastic processes.
+While the thesis is mostly written in French, you will find two English chapters, namely a chapter on cascading detection (see [this arXiv paper](http://arxiv.org/abs/1211.1364)), and a chapter that contains preliminary results taken from a paper that I'm currently writing with [L. Hébert-Dufresne](http://laurenthebertdufresne.github.io/) (now a James S. McDonnell Postdoctoral Fellow at the Santa Fe Institute). In that chapter, we propose that the _internal_ structure of communities arises from the juxtaposition of two simple stochastic processes.
 [**September 22nd, 2016 update**: A much improved version of the paper now appears in [Phys. Rev. E.](http://dx.doi.org/10.1103/physreve.94.022317)]
 <!--more-->
 My thesis investigates the **mesoscopic structure** of complex networks, a structure that is crucial to the modeling of the dynamical processes _on_ and _of_ networks.
