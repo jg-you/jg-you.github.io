@@ -13,9 +13,8 @@ What follows is a non-exhaustive list of the most useful software I developed ov
 ### Structural Preferential Attachment (SPA+)
 
 <div class="code-links">
-Download the code from: 
+<a href="https://github.com/spa-networks/spa/"><i class="fa fa-github fa-2x" aria-hidden="true"></i> github</a>
 <a href="http://dx.doi.org/10.5281/zenodo.47775"><img src="https://zenodo.org/badge/doi/10.5281/zenodo.47775.svg" alt="10.5281/zenodo.47775"></a>
-<a href="https://github.com/spa-networks/spa/"><img src="/img/glyphicons-social/png/glyphicons-social-22-github.png"> github</a>
 </div>
 
 
@@ -32,9 +31,8 @@ The repository contains a fast and robust C++ implementation of both the simple 
           
 ### Hierarchical Preferential Attachment (HPA)
 <div class="code-links">
-Download the code from: 
+<a href="https://github.com/spa-networks/hpa/"><i class="fa fa-github fa-2x" aria-hidden="true"></i> github</a>
 <a href="http://dx.doi.org/10.5281/zenodo.47369"><img src="https://zenodo.org/badge/doi/10.5281/zenodo.47369.svg" alt="10.5281/zenodo.47369"></a>
-<a href="https://github.com/spa-networks/hpa/"><img src="/img/glyphicons-social/png/glyphicons-social-22-github.png">github</a>
 </div>
 The Hierarchical Preferential Attachment model (HPA) is a direct extension of SPA, and contains the latter as a special case. 
 It is described in length in our [Physical Review E](http://dx.doi.org/10.1103/PhysRevE.92.062809) paper.
@@ -45,9 +43,8 @@ The hyper-linked repository _does not_ contain a full implementation of the mode
 ### cascading_detection
 
 <div class="code-links">
-Download the code from: 
+<a href="https://github.com/jg-you/cascading_detection"><i class="fa fa-github fa-2x" aria-hidden="true"></i> github</a>
 <a href="http://dx.doi.org/10.5281/zenodo.31510" ><img src="https://zenodo.org/badge/doi/10.5281/zenodo.31510.svg" alt="10.5281/zenodo.31510"></a>
-<a href="https://github.com/jg-you/cascading_detection"><img src="/img/glyphicons-social/png/glyphicons-social-22-github.png"> github</a>
 </div>
 
 This repository contains a python implementation of the [cascading detection algorithm](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0140133).
@@ -59,8 +56,7 @@ The wrapper handles [CFinder](http://www.cfinder.org/) (Palla et al.), [link clu
           
 ### gists
 <div class="code-links">
-Download the code from: 
-<a href="https://gist.github.com/jg-you"><img src="/img/glyphicons-social/png/glyphicons-social-22-github.png"> github</a>
+<a href="https://gist.github.com/jg-you"><i class="fa fa-github fa-2x" aria-hidden="true"></i> github</a>
 </div>
 I wrote _a lot_ of small and self-contained examples to teach myself new languages and features.
 The most successful outcomes of these experiments are gathered in on _github gist_.
@@ -70,7 +66,6 @@ This includes C/C++ interface for `hdf5`, `boost::MPI`, and python snippets for 
           
 ### cli-stats
 <div class="code-links">
-Download the code from: 
-<a href="https://github.com/jg-you/cli-stats"><img src="/img/glyphicons-social/png/glyphicons-social-22-github.png"> github</a>
+<a href="https://github.com/jg-you/cli-stats"><i class="fa fa-github fa-2x" aria-hidden="true"></i> github</a>
 </div>
 _cli-stats_ is a (small) bundle of small and fast `c++` applications that replace some `R` command line calls. 

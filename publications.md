@@ -32,7 +32,7 @@ Phys. Rev. E **94**, 022317 (2016)<br/>
 * _Constrained growth of complex scale-independent systems_<br/> 
 L. Hébert-Dufresne, A. Allard, **J.-G. Young** and L. J. Dubé<br/>
 Phys. Rev. E **93**, 032304 (2016)<br/>
-<span class="glyphicon glyphicon-star"></span>_Editors' Suggestion_<br/>
+<i class="fa fa-star" aria-hidden="true"></i>_Editors' Suggestion_<br/>
 [arXiv.org](http://arxiv.org/abs/1310.0112) | [Journal](http://dx.doi.org/10.1103/PhysRevE.93.032304)
 
 * _Complex networks as an emerging property of hierarchical preferential attachment_<br/> 
@@ -53,7 +53,7 @@ PLoS ONE **10**, e0140133 (2015)<br/>
 * _Coexistence of phases and the observability of random graphs_<br/> 
 A. Allard, L. Hébert-Dufresne, **J.-G. Young** and L. J. Dubé<br/>
 Phys. Rev. E, **89**, 022801 (2014)<br/>
-<span class="glyphicon glyphicon-star"></span>_Editors' Suggestion_<br/>
+<i class="fa fa-star" aria-hidden="true"></i>_Editors' Suggestion_<br/>
 [arXiv.org](http://arxiv.org/abs/1309.7983) | [Journal](http://dx.doi.org/10.1103/PhysRevE.89.022801)
 
 * _Percolation on random networks with arbitrary k-core structure_<br/> 
@@ -79,9 +79,9 @@ Sci. Rep., **3**, 2171 (2013)<br/>
 
 * _Finite size analysis of the detectability limit of the stochastic block model_ (2016)<br/> 
 **J.-G. Young***, P. Desrosiers, L. Hébert-Dufresne, E. Laurence and L. J. Dubé<br/>
-<span class="glyphicon glyphicon-menu-right"></span> 11th International School and Conference on Network Science, Seoul, Korea<br/>
-<span class="glyphicon glyphicon-menu-right"></span> Statistical Inference for Network Models, Seoul, Korea<br/>
-<span class="glyphicon glyphicon-menu-right"></span> ISI Foundation, Torino, Italy<br/>
+<i class="fa fa-angle-right"></i> 11th International School and Conference on Network Science, Seoul, Korea<br/>
+<i class="fa fa-angle-right"></i> Statistical Inference for Network Models, Seoul, Korea<br/>
+<i class="fa fa-angle-right"></i> ISI Foundation, Torino, Italy<br/>
 [Abstract](http://www.dynamica.phy.ulaval.ca/fileadmin/abs/netsci2016_abs_jg.pdf) | Slides
 
 * _Structural preferential attachment: scale-free benchmark graphs for overlapping community detection algorithms_ (2015)<br/> 
@@ -97,7 +97,7 @@ International School and Conference on Network Science, Berkeley, California <br
 * _Complex networks are an emerging property of hierarchical preferential attachment_  (2014)  <br/> 
 L. Hébert-Dufresne*, E. Laurence, A. Allard, **J.-G. Young** and L. J. Dubé<br/>
 International School and Conference on Network Science, Berkeley, California<br/>
-<span class="glyphicon glyphicon-star"></span> _Outstanding Poster Award_<br/>
+<i class="fa fa-star" aria-hidden="true"></i> _Outstanding Poster Award_<br/>
 [Abstract](files/netsci2014_LHDAbstract.pdf) |
 [Poster](files/netsci2014_LHDPoster.pdf) | 
 [Printer friendly poster](files/netsci2014_LHDPoster_printer.pdf)
