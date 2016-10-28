@@ -13,7 +13,7 @@ What follows is a non-exhaustive list of the most useful software I developed ov
 ### Structural Preferential Attachment (SPA+)
 
 <div class="code-links">
-<a href="https://github.com/spa-networks/spa/"><i class="fa fa-github fa-2x" aria-hidden="true"></i> github</a>
+<a href="https://github.com/spa-networks/spa/"><i class="fa fa-github fa-2x" aria-hidden="true"></i> github</a><br/>
 <a href="http://dx.doi.org/10.5281/zenodo.47775"><img src="https://zenodo.org/badge/doi/10.5281/zenodo.47775.svg" alt="10.5281/zenodo.47775"></a>
 </div>
 
@@ -31,7 +31,7 @@ The repository contains a fast and robust C++ implementation of both the simple 
           
 ### Hierarchical Preferential Attachment (HPA)
 <div class="code-links">
-<a href="https://github.com/spa-networks/hpa/"><i class="fa fa-github fa-2x" aria-hidden="true"></i> github</a>
+<a href="https://github.com/spa-networks/hpa/"><i class="fa fa-github fa-2x" aria-hidden="true"></i> github</a><br/>
 <a href="http://dx.doi.org/10.5281/zenodo.47369"><img src="https://zenodo.org/badge/doi/10.5281/zenodo.47369.svg" alt="10.5281/zenodo.47369"></a>
 </div>
 The Hierarchical Preferential Attachment model (HPA) is a direct extension of SPA, and contains the latter as a special case. 
@@ -43,7 +43,7 @@ The hyper-linked repository _does not_ contain a full implementation of the mode
 ### cascading_detection
 
 <div class="code-links">
-<a href="https://github.com/jg-you/cascading_detection"><i class="fa fa-github fa-2x" aria-hidden="true"></i> github</a>
+<a href="https://github.com/jg-you/cascading_detection"><i class="fa fa-github fa-2x" aria-hidden="true"></i> github</a><br/>
 <a href="http://dx.doi.org/10.5281/zenodo.31510" ><img src="https://zenodo.org/badge/doi/10.5281/zenodo.31510.svg" alt="10.5281/zenodo.31510"></a>
 </div>
 
