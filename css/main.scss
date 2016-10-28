@@ -1,6 +1,5 @@
 ---
 ---
-@import "/bootstrap/css/bootstrap.css";
 body {
     padding:0;
     margin:0;
@@ -82,6 +81,11 @@ html {
 /*******************/
 /* Content styling */
 /*******************/
+    .center-image
+    {
+        margin: 0 auto;
+        display: block;
+    }
     main.page-content {
         border-radius: 2px 2px 0px 0px;
         background-color: #FAFAFA;

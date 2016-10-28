@@ -21,7 +21,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.jgyoung.ca" # the base hostname & protocol for your site
 twitter_username: _jgyou
 github_username:  jg-you
-gems: ['jekyll/scholar']
 
 # Build settings
 markdown: kramdown
