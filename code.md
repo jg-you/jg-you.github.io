@@ -20,7 +20,7 @@ aria-hidden="true"></i> github</a><br/>
 Basic sampling tool for the canonical SBM. Implements the Metropolis Hasting algorithm, both for sampling from the 
 posterior distribution of the model, and maximizing its likelihood (through simulated annealing).
 The algorithm is not as efficient as Belief Propagation, but it works on dense graphs.
-See the Supplemntal Material of [this paper](https://arxiv.org/abs/1701.00062) for more information.
+See the Supplemental Material of [this paper](https://arxiv.org/abs/1701.00062) for more information.
 
 ### Structural Preferential Attachment (SPA+)
 
