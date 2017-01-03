@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-### In Preparation
+### Preprints
 
 * _Strategic tradeoffs in competitor dynamics on adaptive networks_<br/> 
 L. Hébert-Dufresne, A. Allard, P.-A. Noël, **J.-G. Young**,  and E. Libby<br/>
@@ -12,11 +12,8 @@ L. Hébert-Dufresne, A. Allard, P.-A. Noël, **J.-G. Young**,  and E. Libby<br/>
 
 * _Finite size analysis of the detectability limit of the stochastic block model_<br/> 
 **J.-G. Young**, P. Desrosiers, L. Hébert-Dufresne, E. Laurence and L. J. Dubé<br/>
-(in perparation)<br/>
-
-* _Structural preferential attachment: scale-free benchmark graphs for overlapping community detection algorithms_<br/> 
-**J.-G. Young**,  G. St-Onge, C. Murphy, L. Hébert-Dufresne, E. Laurence and L. J. Dubé<br/>
-(in preparation)<br/>
+(in submission)<br/>
+[arXiv.org](https://arxiv.org/abs/1701.00062)
 
 <div class="end-of-post"></div>
 
