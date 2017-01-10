@@ -7,13 +7,15 @@ title: Publications
 
 * _Strategic tradeoffs in competitor dynamics on adaptive networks_<br/> 
 L. Hébert-Dufresne, A. Allard, P.-A. Noël, **J.-G. Young**,  and E. Libby<br/>
-(in submission) <br/>
 [arXiv.org](http://arxiv.org/abs/1607.04632)
 
 * _Finite size analysis of the detectability limit of the stochastic block model_<br/> 
 **J.-G. Young**, P. Desrosiers, L. Hébert-Dufresne, E. Laurence and L. J. Dubé<br/>
-(in submission)<br/>
 [arXiv.org](https://arxiv.org/abs/1701.00062)
+
+* _Susceptible-infected-susceptible dynamics on conguration model :  a rewiring network approach_<br/>
+G. St-Onge, **J.-G. Young**, E. Laurence, C. Murphy, L. J. Dubé<br/>
+[arXiv.org](https://arxiv.org/abs/1701.01740)
 
 <div class="end-of-post"></div>
 
