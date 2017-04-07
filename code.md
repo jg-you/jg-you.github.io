@@ -22,6 +22,8 @@ posterior distribution of the model, and maximizing its likelihood (through simu
 The algorithm is not as efficient as Belief Propagation, but it works on dense graphs.
 See the Supplemental Material of [this paper](https://arxiv.org/abs/1701.00062) for more information.
 
+<div class="end-of-post"></div>
+
 ### Structural Preferential Attachment (SPA+)
 
 <div class="code-links">
