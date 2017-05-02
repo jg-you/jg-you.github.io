@@ -3,9 +3,6 @@ layout: page
 title: Publications
 ---
 
-<a href="#nav-preprints">Preprints</a> | <a href="#nav-journals">Research Publications</a> | <a href="#nav-talks">Presentations</a> | <a href="#nav-others">Other Publications</a>
-
-
 <span id="nav-preprints"></span> 
 ### Preprints
 
