@@ -3,6 +3,10 @@ layout: page
 title: Publications
 ---
 
+<a href="#nav-preprints">Preprints</a> | <a href="#nav-journals">Research Publications</a> | <a href="#nav-talks">Presentations</a> | <a href="#nav-others">Other Publications</a>
+
+
+<span id="nav-preprints"></span> 
 ### Preprints
 
 * _Strategic tradeoffs in competitor dynamics on adaptive networks_ <br/>
@@ -19,6 +23,7 @@ G. St-Onge, **J.-G. Young**, E. Laurence, C. Murphy, L. J. Dubé<br/>
 
 <div class="end-of-post"></div>
 
+<span id="nav-journals"></span>
 ### In Peer-Reviewed Journals
 
 <p>(listed in inverse chronological order)</p>
@@ -67,6 +72,7 @@ Sci. Rep., **3**, 2171 (2013)<br/>
 
 <div class="end-of-post"></div>
 
+<span id="nav-talks"></span>
 ### Selected Conference Presentations
 
 <p>(listed in inverse chronological order;  presenter denoted by *)</p>
@@ -103,6 +109,7 @@ International School and Conference on Network Science, Berkeley, California<br/
 
 <div class="end-of-post"></div>
 
+<span id="nav-others"></span>
 ### M.Sc. Thesis (french)
 
 _De la détection de la structure communautaire des réseaux complexes_<br/> 
