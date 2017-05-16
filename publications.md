@@ -6,6 +6,10 @@ title: Publications
 <span id="nav-preprints"></span> 
 ### Preprints
 
+* _Construction of and efficient sampling from the simplicial configuration model_<br/>
+**J.-G. Young**, G. Petri, F. Vaccarino, and A. Patania<br/>
+*Coming soon*
+
 * _Strategic tradeoffs in competitor dynamics on adaptive networks_ <br/>
 L. Hébert-Dufresne, A. Allard, P.-A. Noël, **J.-G. Young**,  and E. Libby<br/>
 [arXiv.org](http://arxiv.org/abs/1607.04632)
