@@ -11,7 +11,7 @@ What follows is a non-exhaustive list of the most useful software I developed ov
 ### MCMC sampling of the Simplicial Configuration Model (SCM)
 
 <div class="code-links">
-<a href="https://github.com/jg-you/sc,/"><i class="fa fa-github fa-2x"
+<a href="https://github.com/jg-you/scm/"><i class="fa fa-github fa-2x"
 aria-hidden="true"></i> github</a><br/>
 </div>
 
