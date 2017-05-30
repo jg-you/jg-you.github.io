@@ -14,10 +14,6 @@ title: Publications
 L. Hébert-Dufresne, A. Allard, P.-A. Noël, **J.-G. Young**,  and E. Libby<br/>
 [arXiv.org](http://arxiv.org/abs/1607.04632)
 
-* _Finite size analysis of the detectability limit of the stochastic block model_ <br/>
-**J.-G. Young**, P. Desrosiers, L. Hébert-Dufresne, E. Laurence and L. J. Dubé<br/>
-[arXiv.org](https://arxiv.org/abs/1701.00062) | [Software](https://github.com/jg-you/sbm_canonical_mcmc)
-
 * _Susceptible-infected-susceptible dynamics on the rewired configuration model_ <br/>
 G. St-Onge, **J.-G. Young**, E. Laurence, C. Murphy, L. J. Dubé<br/>
 [arXiv.org](https://arxiv.org/abs/1701.01740)
@@ -28,6 +24,11 @@ G. St-Onge, **J.-G. Young**, E. Laurence, C. Murphy, L. J. Dubé<br/>
 ### In Peer-Reviewed Journals
 
 <p>(listed in inverse chronological order)</p>
+
+* _Finite size analysis of the detectability limit of the stochastic block model_ <br/>
+**J.-G. Young**, P. Desrosiers, L. Hébert-Dufresne, E. Laurence and L. J. Dubé<br/>
+*In press*, Phys. Rev. E (2017)<br/>
+[arXiv.org](https://arxiv.org/abs/1701.00062) | Journal | [Software](https://github.com/jg-you/sbm_canonical_mcmc)
 
 * _Growing networks of overlapping communities with internal structure_<br/>
 **J.-G. Young**, L. Hébert-Dufresne, A. Allard and L. J. Dubé<br/>
