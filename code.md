@@ -6,11 +6,24 @@ title: Code
 Most of my code is directly available on [github](https://github.com/jg-you/), either on my personal page or on the pages of my collaborator.
 What follows is a non-exhaustive list of the most useful software I developed over the past few years.
 
+<div class="end-of-post"></div>
+
+### MCMC sampling of the Simplicial Configuration Model (SCM)
+
+<div class="code-links">
+<a href="https://github.com/jg-you/sc,/"><i class="fa fa-github fa-2x"
+aria-hidden="true"></i> github</a><br/>
+</div>
+
+The Simplicial Configuration Model is random null model for simplicial complexes, mathematical objects which can be seen as 
+high-order generalizations of simple graphs (they incorporate multi-node interactions). This C++ program (and 
+library) is the reference implementation for the Markov chain Monte Carlo (MCMC) sampler discussed in [this 
+paper](https://arxiv.org/abs/1705.10298).
 
 
 <div class="end-of-post"></div>
 
-### MCMC sampling of the Stochastic Block Model
+### MCMC sampling of the Stochastic Block Model (SBM)
 
 <div class="code-links">
 <a href="https://github.com/jg-you/sbm_canonical_mcmc/"><i class="fa fa-github fa-2x" 

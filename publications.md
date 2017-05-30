@@ -8,7 +8,7 @@ title: Publications
 
 * _Construction of and efficient sampling from the simplicial configuration model_<br/>
 **J.-G. Young**, G. Petri, F. Vaccarino, and A. Patania<br/>
-*Coming soon*
+[arXiv.org](https://arxiv.org/abs/1705.10298) | [Software](https://github.com/jg-you/scm)
 
 * _Strategic tradeoffs in competitor dynamics on adaptive networks_ <br/>
 L. Hébert-Dufresne, A. Allard, P.-A. Noël, **J.-G. Young**,  and E. Libby<br/>
@@ -16,7 +16,7 @@ L. Hébert-Dufresne, A. Allard, P.-A. Noël, **J.-G. Young**,  and E. Libby<br/>
 
 * _Finite size analysis of the detectability limit of the stochastic block model_ <br/>
 **J.-G. Young**, P. Desrosiers, L. Hébert-Dufresne, E. Laurence and L. J. Dubé<br/>
-[arXiv.org](https://arxiv.org/abs/1701.00062)
+[arXiv.org](https://arxiv.org/abs/1701.00062) | [Software](https://github.com/jg-you/sbm_canonical_mcmc)
 
 * _Susceptible-infected-susceptible dynamics on the rewired configuration model_ <br/>
 G. St-Onge, **J.-G. Young**, E. Laurence, C. Murphy, L. J. Dubé<br/>
@@ -32,7 +32,8 @@ G. St-Onge, **J.-G. Young**, E. Laurence, C. Murphy, L. J. Dubé<br/>
 * _Growing networks of overlapping communities with internal structure_<br/>
 **J.-G. Young**, L. Hébert-Dufresne, A. Allard and L. J. Dubé<br/>
 Phys. Rev. E **94**, 022317 (2016)<br/>
-[arXiv.org](http://arxiv.org/abs/1603.05566) | [Journal](http://dx.doi.org/10.1103/physreve.94.022317)
+[arXiv.org](http://arxiv.org/abs/1603.05566) | [Journal](http://dx.doi.org/10.1103/physreve.94.022317) | 
+[Software](https://github.com/spa-networks/spa)
 
 * _Constrained growth of complex scale-independent systems_<br/> 
 L. Hébert-Dufresne, A. Allard, **J.-G. Young** and L. J. Dubé<br/>
@@ -43,7 +44,8 @@ Phys. Rev. E **93**, 032304 (2016)<br/>
 * _Complex networks as an emerging property of hierarchical preferential attachment_<br/> 
  L. Hébert-Dufresne, E. Laurence, A. Allard, **J.-G. Young** and L. J. Dubé<br/>
 Phys. Rev. E, **92**, 062809 (2015)<br/>
-[arXiv.org](http://arxiv.org/abs/1312.0171) | [Journal](http://dx.doi.org/10.1103/PhysRevE.92.062809)
+[arXiv.org](http://arxiv.org/abs/1312.0171) | [Journal](http://dx.doi.org/10.1103/PhysRevE.92.062809) | 
+[Software](https://github.com/spa-networks/hpa)
 
 * _General and exact approach to percolation on random graphs_<br/> 
  A. Allard, L. Hébert-Dufresne, **J.-G. Young** and L. J. Dubé<br/>
@@ -53,7 +55,9 @@ Phys. Rev. E, **92**, 062807 (2015)<br/>
 * _A Shadowing Problem in the Detection of Overlapping Communities: Lifting the Resolution Limit through a Cascading Procedure_<br/> 
 **J.-G. Young**, A. Allard, L. Hébert-Dufresne and L. J. Dubé<br/>
 PLoS ONE **10**, e0140133 (2015)<br/>
-[arXiv.org](http://arxiv.org/abs/1211.1364) | [Journal (open-access)](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0140133) 
+[arXiv.org](http://arxiv.org/abs/1211.1364) | [Journal 
+(open-access)](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0140133) | 
+[Software](https://github.com/jg-you/cascading_detection)
 
 * _Coexistence of phases and the observability of random graphs_<br/> 
 A. Allard, L. Hébert-Dufresne, **J.-G. Young** and L. J. Dubé<br/>
