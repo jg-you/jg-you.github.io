@@ -27,8 +27,8 @@ G. St-Onge, **J.-G. Young**, E. Laurence, C. Murphy, L. J. Dubé<br/>
 
 * _Finite size analysis of the detectability limit of the stochastic block model_ <br/>
 **J.-G. Young**, P. Desrosiers, L. Hébert-Dufresne, E. Laurence and L. J. Dubé<br/>
-*In press*, Phys. Rev. E (2017)<br/>
-[arXiv.org](https://arxiv.org/abs/1701.00062) | Journal | [Software](https://github.com/jg-you/sbm_canonical_mcmc)
+Phys. Rev. E **95**, 062304 (2017)<br/>
+[arXiv.org](https://arxiv.org/abs/1701.00062) | [Journal](http://dx.doi.org/10.1103/PhysRevE.95.062304) | [Software](https://github.com/jg-you/sbm_canonical_mcmc)
 
 * _Growing networks of overlapping communities with internal structure_<br/>
 **J.-G. Young**, L. Hébert-Dufresne, A. Allard and L. J. Dubé<br/>
