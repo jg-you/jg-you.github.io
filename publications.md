@@ -86,7 +86,8 @@ Sci. Rep., **3**, 2171 (2013)<br/>
 * _Construction of and efficient sampling from the simplicial configuration model_ (2017)<br/>
 **J.-G. Young**, G. Petri, F. Vaccarino, and A. Patania<br/>
 High-Oder Models in Network Science (HONS 2017), Indianapolis, IN, USA<br/>
-[Abstract](files/hons2017_abstract.pdf)
+[Abstract](files/hons2017_abstract.pdf) |
+[Slides](https://speakerdeck.com/jgyou/construction-of-and-efficient-sampling-from-the-simplicial-configuration-model)
 
 * _Statistical mechanics of mesoscopic structure extraction_ (2017)<br/>
 **J.-G. Young**, G. St-Onge, P. Desrosiers, L. J. Dubé<br/>
