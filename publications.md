@@ -10,10 +10,6 @@ title: Publications
 **J.-G. Young**, G. Petri, F. Vaccarino, and A. Patania<br/>
 [arXiv.org](https://arxiv.org/abs/1705.10298) | [Software](https://github.com/jg-you/scm)
 
-* _Strategic tradeoffs in competitor dynamics on adaptive networks_ <br/>
-L. Hébert-Dufresne, A. Allard, P.-A. Noël, **J.-G. Young**,  and E. Libby<br/>
-[arXiv.org](http://arxiv.org/abs/1607.04632)
-
 * _Susceptible-infected-susceptible dynamics on the rewired configuration model_ <br/>
 G. St-Onge, **J.-G. Young**, E. Laurence, C. Murphy, L. J. Dubé<br/>
 [arXiv.org](https://arxiv.org/abs/1701.01740)
@@ -24,6 +20,11 @@ G. St-Onge, **J.-G. Young**, E. Laurence, C. Murphy, L. J. Dubé<br/>
 ### In Peer-Reviewed Journals
 
 <p>(listed in inverse chronological order)</p>
+
+* _Strategic tradeoffs in competitor dynamics on adaptive networks_ <br/>
+L. Hébert-Dufresne, A. Allard, P.-A. Noël, **J.-G. Young**,  and E. Libby<br/>
+Sci. Rep., *In press* (2017)<br/>
+[arXiv.org](http://arxiv.org/abs/1607.04632) | Journal (open access)
 
 * _Finite size analysis of the detectability limit of the stochastic block model_ <br/>
 **J.-G. Young**, P. Desrosiers, L. Hébert-Dufresne, E. Laurence and L. J. Dubé<br/>
@@ -74,7 +75,7 @@ Phys. Rev. E, **88**, 062820 (2013)<br/>
 * _Global efficiency of local immunization on complex networks_<br/> 
 L. Hébert-Dufresne, A. Allard, **J.-G. Young** and L. J. Dubé<br/>
 Sci. Rep., **3**, 2171 (2013)<br/>
-[arXiv.org](http://arxiv.org/abs/1208.5768) | [Journal (open-access)](http://dx.doi.org/10.1038/srep02171)
+[arXiv.org](http://arxiv.org/abs/1208.5768) | [Journal (open access)](http://dx.doi.org/10.1038/srep02171)
 
 <div class="end-of-post"></div>
 
