@@ -4,8 +4,8 @@ title: About
 ---
 
 
-I am a Ph.D candidate working under the guidance of [Prof. Louis J. Dubé](http://www.dynamica.phy.ulaval.ca) at Université Laval, Québec, (QC), Canada.
-We study both the classical theory of complex systems (e.g. stochastic growth processes) and complex networks.
+I am a Ph.D candidate working under the guidance of [Prof. Louis J. Dubé](http://www.dynamica.phy.ulaval.ca) and [Prof. Patrick Desrosiers](http://patrickdesrosier4.wixsite.com/patrickdesrosiers) at Université Laval, Québec, (QC), Canada.
+We study the classical theory of complex systems (e.g. stochastic growth processes), complex networks, and their intersection with statistics.
 I focus on inference and generative models for complex networks.
 
 <div class="end-of-post"></div>
