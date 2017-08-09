@@ -21,10 +21,10 @@ G. St-Onge, **J.-G. Young**, E. Laurence, C. Murphy, L. J. Dubé<br/>
 
 <p>(listed in inverse chronological order)</p>
 
-* _Strategic tradeoffs in competitor dynamics on adaptive networks_ <br/>
+* _Strategic tradeoffs in competitor dynamics on adaptive networks_  <br/>
 L. Hébert-Dufresne, A. Allard, P.-A. Noël, **J.-G. Young**,  and E. Libby<br/>
 Sci. Rep., **7**, 7576 (2017)<br/>
-[arXiv.org](http://arxiv.org/abs/1607.04632) | [Journal](http://dx.doi.org/10.1038/s41598-017-07621-x) (open access)
+[arXiv.org](http://arxiv.org/abs/1607.04632) | [Journal  <i class="ai ai-open-access" aria-hidden="true"></i>](http://dx.doi.org/10.1038/s41598-017-07621-x) 
 
 * _Finite size analysis of the detectability limit of the stochastic block model_ <br/>
 **J.-G. Young**, P. Desrosiers, L. Hébert-Dufresne, E. Laurence and L. J. Dubé<br/>
@@ -72,10 +72,10 @@ L. Hébert-Dufresne, A. Allard, **J.-G. Young** and L. J. Dubé<br/>
 Phys. Rev. E, **88**, 062820 (2013)<br/>
 [arXiv.org](http://arxiv.org/abs/1308.6537) | [Journal](http://dx.doi.org/10.1103/PhysRevE.88.062820)
 
-* _Global efficiency of local immunization on complex networks_<br/> 
+* _Global efficiency of local immunization on complex networks_ <br/> 
 L. Hébert-Dufresne, A. Allard, **J.-G. Young** and L. J. Dubé<br/>
 Sci. Rep., **3**, 2171 (2013)<br/>
-[arXiv.org](http://arxiv.org/abs/1208.5768) | [Journal (open access)](http://dx.doi.org/10.1038/srep02171)
+[arXiv.org](http://arxiv.org/abs/1208.5768) | [Journal <i class="ai ai-open-access" aria-hidden="true"></i>](http://dx.doi.org/10.1038/srep02171) 
 
 <div class="end-of-post"></div>
 

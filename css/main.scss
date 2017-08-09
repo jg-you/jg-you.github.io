@@ -128,9 +128,22 @@ html {
     ul.contact-list {
         list-style-type: none;
         text-align: left;
-        padding: 0px;
+    }
+    ul.contact-list-top {
+        margin-top: -5px;
+        list-style-type: none;
+        text-align: center;
+    }
+    ul.collab-list {
+        text-align: left;
     }
     li.contact-list-item {
+        display: inline;
+        margin-right: 10px;
+        // margin-bottom: 3px;
+    }
+    li.collab-list-item {
+        // margin-right: 10px;
         margin-bottom: 3px;
     }
     li {
