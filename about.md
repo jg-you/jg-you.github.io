@@ -14,10 +14,10 @@ I focus on inference and generative models for complex networks.
 
 <ul class="contact-list">
 <li class="contact-list-item"> 
-<a href="mailto:jean-gabriel.young.1@ulaval.ca"><i class="fa fa-envelope-o" aria-hidden="true"></i> Email </a>  
+<a href="mailto:jean-gabriel.young.1@ulaval.ca"><i class="fa fa-envelope-o" aria-hidden="true"></i> jean-gabriel.young.1@ulaval.ca </a>  
 </li> 
 <li class="contact-list-item"> 
-<a href="http://www.twitter.com/_jgyou"><i class="fa fa-twitter" aria-hidden="true"></i> Twitter</a>
+<a href="http://www.twitter.com/_jgyou"><i class="fa fa-twitter" aria-hidden="true"></i> @_jgyou</a>
 </li>
 <li class="contact-list-item"> 
 <a href="https://scholar.google.ca/citations?user=qmKcNSoAAAAJ&hl=en"><i class="ai ai-google-scholar" aria-hidden="true"></i>  Google Scholar </a>
@@ -27,15 +27,11 @@ I focus on inference and generative models for complex networks.
 <li class="contact-list-item"> 
 <a href="http://orcid.org/0000-0002-4464-2692"><i class="ai ai-orcid" aria-hidden="true"></i>  ORCid</a>
 </li>
-</ul>
-
-
-<ul class="contact-list">
 <li class="contact-list-item"> 
-<a href="https://github.com/jg-you/"><i class="fa fa-github" aria-hidden="true"></i> GitHub </a>
+<a href="https://github.com/jg-you/"><i class="fa fa-github" aria-hidden="true"></i> jg-you </a>
 </li>
 <li class="contact-list-item"> 
-<a href="http://stackexchange.com/users/2079477/jgyou?tab=accounts"><i class="fa fa-stack-exchange" aria-hidden="true"></i> StackExchange </a>
+<a href="http://stackexchange.com/users/2079477/jgyou?tab=accounts"><i class="fa fa-stack-exchange" aria-hidden="true"></i> jgyou </a>
 </li>
 <li class="contact-list-item"> 
 <a href="http://www.linkedin.com/pub/jean-gabriel-young/59/577/698"><i class="fa fa-linkedin" aria-hidden="true"></i> Linkedin </a>
