@@ -23,8 +23,8 @@ G. St-Onge, **J.-G. Young**, E. Laurence, C. Murphy, L. J. Dubé<br/>
 
 * _Strategic tradeoffs in competitor dynamics on adaptive networks_ <br/>
 L. Hébert-Dufresne, A. Allard, P.-A. Noël, **J.-G. Young**,  and E. Libby<br/>
-Sci. Rep., *In press* (2017)<br/>
-[arXiv.org](http://arxiv.org/abs/1607.04632) | Journal (open access)
+Sci. Rep., **7**, 7576 (2017)<br/>
+[arXiv.org](http://arxiv.org/abs/1607.04632) | [Journal](http://dx.doi.org/10.1038/s41598-017-07621-x) (open access)
 
 * _Finite size analysis of the detectability limit of the stochastic block model_ <br/>
 **J.-G. Young**, P. Desrosiers, L. Hébert-Dufresne, E. Laurence and L. J. Dubé<br/>
