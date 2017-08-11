@@ -98,7 +98,6 @@ html {
     ul.post-list {
         list-style-type: none;
         padding-left:0;
-        margin-left: -10px;
         margin-top: -10px;
     }
     li.post, div.post-content {
@@ -232,6 +231,7 @@ html {
         display: block;
         font-size: 30;
         padding: 5px;
+        margin-left: -5px;
     }
     span.faded {
         color: #778899;

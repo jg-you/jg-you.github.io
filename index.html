@@ -7,11 +7,12 @@ title: News
     {% for post in site.posts %}
       <li class="post">
         <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a></h2>
-        <span class="post-meta">{% assign d = post.date | date: "%-d" %}{% assign m = post.date | date: "%B" %}{% case m %}{% when 'April' or 'May' or 'June' or 'July' %}{{ m }}{% when 'September' %}Sept.{% else %}{{ post.date | date: "%b" }}.{% endcase %} {% case d %} {% when '1' or '21' or '31' %}{{ d }}st{% when '2' or '22' %}{{ d }}nd{% when '3' or '23' %}{{ d }}rd{% else %}{{ d }}th{% endcase %}, {{ post.date | date: "%Y" }}</span>
+        <span class="post-meta">{% assign d = post.date | date: "%-d" %}{% assign m = post.date | date: "%B" %}{% case m %}{% when 'April' or 'May' or 'June' or 'July' %}{{ m }}{% when 'September' %}Sept.{% else %}{{ post.date | date: "%b" }}.{% endcase %} {% case d %} {% when '1' or '21' or '31' %}{{ d }}st{% when '2' or '22' %}{{ d }}nd{% when '3' or '23' %}{{ d }}rd{% else %}{{ d }}th{% endcase %}, {{ post.date | date: "%Y" }}<br/>
         Categories:
         {% for category in post.categories %}
          <a href="/post_index.html#{{ category }}"><span class="post-tags">{{ category }}</span></a>
         {% endfor %}
+        </span>
         <span class="post-excerpt">{{ post.excerpt }}</span>
         {% if forloop.last == false %}
           <div class="end-of-post"></div>
