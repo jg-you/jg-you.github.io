@@ -15,8 +15,6 @@ I'm glad to see it through!
 Our coolest result are, I believe, **1.** the symmetry group of the SBM and **2.** our approximation solution of the hypersurface equations.
 The first tells us what transformations of the parameters maintain the difficulty of the detectability/recovery problem, while the second determines the surface of constant detectability in the parameter space.
 
-![(a) Plane of constant density in the two block SBM (b-c) Detectability phase space of the two block SBM (all possible values of the mixing matrix) at fixed density. The central circle highlight the undetectable region (nearly ER networks).]({{ site.url }}/assets/post_figures/sbm_finite.jpg){: .center-image}
-
 Second news: I'll be giving an extra talk at NetSci, during the satellite sessions [**tomorrow**](http://complexdata.businesscatalyst.com/program.html) (I've already announced this earlier [on Twitter](https://twitter.com/_jgyou/status/874687304065011712)). I'll present the [Simplicial Configuration Model](https://arxiv.org/abs/1705.10298) and some recent related work done with [Alice Patania](http://apatania.altervista.org/), [Giovanni Petri](https://lordgrilo.github.io/) and Franseco Vaccarino. 
  <!--more-->
  The slides should be up on [speakerdeck](https://speakerdeck.com/jgyou/) by the end of the talk!
