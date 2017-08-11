@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: Publications
-title: Voter model on an adaptive SBM
+title: Voter model on the adaptive SBM
 excerpt_separator: <!--more-->
 comments: true
 ---
