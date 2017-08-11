@@ -10,7 +10,7 @@ I focus on inference and generative models for complex networks.
 
 <div class="end-of-post"></div>
 
-## Contact Information
+## Contact
 
 <ul class="contact-list">
 <li class="contact-list-item"> 
@@ -23,9 +23,9 @@ I focus on inference and generative models for complex networks.
 <a href="https://scholar.google.ca/citations?user=qmKcNSoAAAAJ&hl=en"><i class="ai ai-google-scholar" aria-hidden="true"></i>  Google Scholar </a>
 </li>
 <li class="contact-list-item"> 
-<a href="https://www.researchgate.net/profile/Jean_Gabriel_Young"><i class="ai ai-researchgate" aria-hidden="true"></i>  Researchgate  </a></li>
+<a href="https://www.researchgate.net/profile/Jean_Gabriel_Young"><i class="ai ai-researchgate" aria-hidden="true"></i>  ResearchGate  </a></li>
 <li class="contact-list-item"> 
-<a href="http://orcid.org/0000-0002-4464-2692"><i class="ai ai-orcid" aria-hidden="true"></i>  ORCid</a>
+<a href="http://orcid.org/0000-0002-4464-2692"><i class="ai ai-orcid" aria-hidden="true"></i>  ORCID</a>
 </li>
 <li class="contact-list-item"> 
 <a href="https://github.com/jg-you/"><i class="fa fa-github" aria-hidden="true"></i> jg-you </a>
@@ -41,7 +41,6 @@ I focus on inference and generative models for complex networks.
 <div class="end-of-post"></div>
 
 ## Collaborators
-
 
 <ul class="collab-list">
 <li class="collab-list-item"><a href="http://antoineallard.github.io/"> Antoine Allard </a></li>

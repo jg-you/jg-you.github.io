@@ -83,6 +83,7 @@ html {
 /*******************/
     .center-image
     {
+        width: 90%;
         margin: 0 auto;
         display: block;
     }
@@ -130,6 +131,7 @@ html {
         text-align: left;
     }
     ul.contact-list-top {
+        margin-left: -40px;
         margin-top: -5px;
         list-style-type: none;
         text-align: center;
@@ -229,6 +231,9 @@ html {
         display: block;
         font-size: 30;
         padding: 5px;
+    }
+    span.faded {
+        color: #778899;
     }
     span.post-tags:after{content:"]";}
     span.post-tags:before{content:"[";} 
