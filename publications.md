@@ -40,7 +40,7 @@ Phys. Rev. E **94**, 022317 (2016)<br/>
 * Constrained growth of complex scale-independent systems<br/> 
 L. Hébert-Dufresne, A. Allard, **J.-G. Young** and L. J. Dubé<br/>
 Phys. Rev. E **93**, 032304 (2016)<br/>
-<i class="fa fa-star" aria-hidden="true"></i>_Editors' Suggestion<br/>
+<i class="fa fa-star" aria-hidden="true"></i>Editors' Suggestion<br/>
 [arXiv.org](http://arxiv.org/abs/1310.0112) | [Journal](http://dx.doi.org/10.1103/PhysRevE.93.032304)
 
 * Complex networks as an emerging property of hierarchical preferential attachment<br/> 
@@ -64,7 +64,7 @@ PLoS ONE **10**, e0140133 (2015)<br/>
 * Coexistence of phases and the observability of random graphs<br/> 
 A. Allard, L. Hébert-Dufresne, **J.-G. Young** and L. J. Dubé<br/>
 Phys. Rev. E, **89**, 022801 (2014)<br/>
-<i class="fa fa-star" aria-hidden="true"></i>_Editors' Suggestion<br/>
+<i class="fa fa-star" aria-hidden="true"></i>Editors' Suggestion<br/>
 [arXiv.org](http://arxiv.org/abs/1309.7983) | [Journal](http://dx.doi.org/10.1103/PhysRevE.89.022801)
 
 * Percolation on random networks with arbitrary k-core structure<br/> 
@@ -130,7 +130,7 @@ High-Oder Models in Network Science (HONS 2017)<br/>
 L. Hébert-Dufresne*, E. Laurence, A. Allard, **J.-G. Young** and L. J. Dubé<br/>
 9th International School and Conference on Network Science (NetSci 2014)<br/>
 <span class="faded">Berkeley, CA, USA<br/></span>
-<i class="fa fa-star" aria-hidden="true"></i> _Outstanding Poster Award<br/>
+<i class="fa fa-star" aria-hidden="true"></i> Outstanding Poster Award<br/>
 [Abstract](files/netsci2014_LHDAbstract.pdf) |
 [Poster](files/netsci2014_LHDPoster.pdf) | 
 [Printer friendly poster](files/netsci2014_LHDPoster_printer.pdf)
