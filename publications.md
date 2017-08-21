@@ -57,8 +57,7 @@ Phys. Rev. E, **92**, 062807 (2015)<br/>
 * A shadowing problem in the detection of overlapping communities: lifting the resolution limit through a cascading procedure<br/> 
 **J.-G. Young**, A. Allard, L. Hébert-Dufresne and L. J. Dubé<br/>
 PLoS ONE **10**, e0140133 (2015)<br/>
-[arXiv.org](http://arxiv.org/abs/1211.1364) | [Journal 
-(open-access)](http://dx.doi.org/10.1371/journal.pone.0140133) | 
+[arXiv.org](http://arxiv.org/abs/1211.1364) | [Journal <i class="ai ai-open-access" aria-hidden="true"></i>](http://dx.doi.org/10.1371/journal.pone.0140133) | 
 [Software](https://github.com/jg-you/cascading_detection)
 
 * Coexistence of phases and the observability of random graphs<br/> 
