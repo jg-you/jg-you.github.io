@@ -233,8 +233,10 @@ html {
         color: #0570b0;
     }
     span.post-meta {
+        font-family: "Open Sans", sans-serif;
         display: block;
-        font-size: 30;
+        font-size: 16px;
+        // font-weight: bold;
         padding: 5px;
         margin-left: -5px;
     }
