@@ -3,12 +3,9 @@ layout: page
 title: Code
 ---
 
-Most of my code is directly available on [github](https://github.com/jg-you/), either on my personal page or on the pages of my collaborators.
-What follows is a non-exhaustive list of the most useful software I developed over the past few years.
 
-<div class="end-of-post"></div>
 
-### MCMC sampling of the Simplicial Configuration Model (SCM)
+## MCMC sampling of the Simplicial Configuration Model (SCM)
 
 <div class="code-links">
 <a href="https://github.com/jg-you/scm/"><i class="fa fa-github fa-2x"
@@ -23,7 +20,7 @@ paper](https://arxiv.org/abs/1705.10298).
 
 <div class="end-of-post"></div>
 
-### MCMC sampling of the Stochastic Block Model (SBM)
+## MCMC sampling of the Stochastic Block Model (SBM)
 
 <div class="code-links">
 <a href="https://github.com/jg-you/sbm_canonical_mcmc/"><i class="fa fa-github fa-2x" 
@@ -37,7 +34,7 @@ See the Supplemental Material of [this paper](https://arxiv.org/abs/1701.00062) 
 
 <div class="end-of-post"></div>
 
-### Structural Preferential Attachment (SPA+)
+## Structural Preferential Attachment (SPA+)
 
 <div class="code-links">
 <a href="https://github.com/spa-networks/spa/"><i class="fa fa-github fa-2x" aria-hidden="true"></i> github</a><br/>
@@ -56,7 +53,7 @@ The repository contains a fast and robust C++ implementation of both the simple 
 
 <div class="end-of-post"></div>
           
-### Hierarchical Preferential Attachment (HPA)
+## Hierarchical Preferential Attachment (HPA)
 <div class="code-links">
 <a href="https://github.com/spa-networks/hpa/"><i class="fa fa-github fa-2x" aria-hidden="true"></i> github</a><br/>
 <a href="http://dx.doi.org/10.5281/zenodo.47369"><img src="https://zenodo.org/badge/doi/10.5281/zenodo.47369.svg" alt="10.5281/zenodo.47369"></a>
@@ -67,7 +64,7 @@ This repository _does not_ contain a full implementation of the model (yet?), bu
 
 <div class="end-of-post"></div>
           
-### cascading_detection
+## cascading_detection
 
 <div class="code-links">
 <a href="https://github.com/jg-you/cascading_detection"><i class="fa fa-github fa-2x" aria-hidden="true"></i> github</a><br/>
@@ -81,7 +78,7 @@ The wrapper currently handles [CFinder](http://www.cfinder.org/) (Palla et al.),
 
 <div class="end-of-post"></div>
           
-### gists
+## gists
 <div class="code-links">
 <a href="https://gist.github.com/jg-you"><i class="fa fa-github fa-2x" aria-hidden="true"></i> github</a>
 </div>
@@ -91,7 +88,7 @@ This currently includes C/C++ interface for `hdf5`, `boost::MPI`, and python sni
       
 <div class="end-of-post"></div>
           
-### cli-stats
+## cli-stats
 <div class="code-links">
 <a href="https://github.com/jg-you/cli-stats"><i class="fa fa-github fa-2x" aria-hidden="true"></i> github</a>
 </div>
