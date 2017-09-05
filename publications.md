@@ -6,10 +6,6 @@ title: Publications
 <span id="nav-preprints"></span> 
 ## Preprints
 
-* <span class="pub-title">Construction of and efficient sampling from the simplicial configuration model</span><br/>
-**J.-G. Young**, G. Petri, F. Vaccarino, and A. Patania<br/>
-[arXiv.org](https://arxiv.org/abs/1705.10298) | [Software](https://github.com/jg-you/scm)
-
 * <span class="pub-title">Susceptible-infected-susceptible dynamics on the rewired configuration model</span><br/>
 G. St-Onge, **J.-G. Young**, E. Laurence, C. Murphy, L. J. Dubé<br/>
 [arXiv.org](https://arxiv.org/abs/1701.01740)
@@ -20,6 +16,11 @@ G. St-Onge, **J.-G. Young**, E. Laurence, C. Murphy, L. J. Dubé<br/>
 ## In Peer-Reviewed Journals
 
 <p>(listed in inverse chronological order)</p>
+
+* <span class="pub-title">Construction of and efficient sampling from the simplicial configuration model</span><br/>
+**J.-G. Young**, G. Petri, F. Vaccarino, and A. Patania<br/>
+PRE Rapid Communication, *In press* (2017)<br/>
+[arXiv.org](https://arxiv.org/abs/1705.10298) | [Software](https://github.com/jg-you/scm)
 
 * <span class="pub-title">Strategic tradeoffs in competitor dynamics on adaptive networks</span><br/>
 L. Hébert-Dufresne, A. Allard, P.-A. Noël, **J.-G. Young**,  and E. Libby<br/>
