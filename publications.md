@@ -6,9 +6,11 @@ title: Publications
 <span id="nav-preprints"></span> 
 ## Preprints
 
-* <span class="pub-title">Susceptible-infected-susceptible dynamics on the rewired configuration model</span><br/>
+
+<span class="pub-title">Susceptible-infected-susceptible dynamics on the rewired configuration model</span><br/>
 G. St-Onge, **J.-G. Young**, E. Laurence, C. Murphy, L. J. Dubé<br/>
 [arXiv.org](https://arxiv.org/abs/1701.01740)
+
 
 <div class="end-of-post"></div>
 
