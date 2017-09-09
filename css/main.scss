@@ -102,6 +102,7 @@ html {
     }
     li.post, div.post-content {
         padding: 10px 30px;
+        text-align: center;
     }
     div.end-of-post {
         height: 2px;
@@ -152,6 +153,13 @@ html {
         // margin-right: 10px;
         margin-bottom: 3px;
     }
+    li {
+        text-align: left;
+        margin-bottom: 20px;
+        font-family: 'Roboto', sans-serif;
+        font-size: 16px;
+    }
+
 
 
 /******************/
