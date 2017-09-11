@@ -21,7 +21,7 @@ G. St-Onge, **J.-G. Young**, E. Laurence, C. Murphy, L. J. Dubé<br/>
 
 * <span class="pub-title">Construction of and efficient sampling from the simplicial configuration model</span><br/>
 **J.-G. Young**, G. Petri, F. Vaccarino, and A. Patania<br/>
-PRE Rapid Communication, *In press* (2017)<br/>
+Phys. Rev. E, *In press* (2017)<br/>
 [arXiv.org](https://arxiv.org/abs/1705.10298) | [Software](https://github.com/jg-you/scm)
 * <span class="pub-title">Strategic tradeoffs in competitor dynamics on adaptive networks</span><br/>
 L. Hébert-Dufresne, A. Allard, P.-A. Noël, **J.-G. Young**,  and E. Libby<br/>
