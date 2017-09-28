@@ -7,9 +7,9 @@ title: Publications
 ## Preprints
 
 
-* <span class="pub-title">Susceptible-infected-susceptible dynamics on the rewired configuration model</span><br/>
+* <span class="pub-title">Phase transition of the susceptible-infected-susceptible dynamics on time-varying configuration model networks</span><br/>
 G. St-Onge, **J.-G. Young**, E. Laurence, C. Murphy, L. J. Dubé<br/>
-[arXiv.org](https://arxiv.org/abs/1701.01740)
+[arXiv.org](https://arxiv.org/abs/1709.09257)
 
 
 <div class="end-of-post"></div>
