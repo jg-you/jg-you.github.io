@@ -26,6 +26,8 @@ I focus on [inference](https://en.m.wikipedia.org/wiki/Statistical_inference) an
 <li class="contact-list-item"> 
 <a href="https://www.researchgate.net/profile/Jean_Gabriel_Young"><i class="ai ai-researchgate" aria-hidden="true"></i>  ResearchGate  </a></li>
 <li class="contact-list-item"> 
+<a href="https://impactstory.org/u/0000-0002-4464-2692"><i class="ai ai-impactstory" aria-hidden="true"></i>  Impactstory  </a></li>
+<li class="contact-list-item"> 
 <a href="http://orcid.org/0000-0002-4464-2692"><i class="ai ai-orcid" aria-hidden="true"></i>  ORCID</a>
 </li>
 <li class="contact-list-item"> 
