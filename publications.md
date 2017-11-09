@@ -11,6 +11,10 @@ title: Publications
 G. St-Onge, **J.-G. Young**, E. Laurence, C. Murphy, L. J. Dubé<br/>
 [arXiv.org](https://arxiv.org/abs/1709.09257)
 
+* <span class="pub-title">Exact analytical solution of irreversible binary dynamics on networks</span><br/>
+E. Laurence,  **J.-G. Young**, S. Melnik and L. J. Dubé<br/>
+[arXiv.org](https://arxiv.org/abs/1711.02721)
+
 
 <div class="end-of-post"></div>
 
@@ -20,7 +24,7 @@ G. St-Onge, **J.-G. Young**, E. Laurence, C. Murphy, L. J. Dubé<br/>
 <p>(listed in inverse chronological order)</p>
 
 * <span class="pub-title">Construction of and efficient sampling from the simplicial configuration model</span><br/>
-**J.-G. Young**, G. Petri, F. Vaccarino, and A. Patania<br/>
+**J.-G. Young**, G. Petri, F. Vaccarino and A. Patania<br/>
 Phys. Rev. E, **96**, 032312 (2017)<br/>
 [arXiv.org](https://arxiv.org/abs/1705.10298) | [Journal](https://doi.org/10.1103/PhysRevE.96.032312) | [Software](https://github.com/jg-you/scm)
 * <span class="pub-title">Strategic tradeoffs in competitor dynamics on adaptive networks</span><br/>
@@ -78,7 +82,7 @@ Sci. Rep., **3**, 2171 (2013)<br/>
 <p>(listed in inverse chronological order;  presenter denoted by *)</p>
 
 * <span class="pub-title">Construction of and efficient sampling from the simplicial configuration model</span><br/>
-**J.-G. Young**, G. Petri, F. Vaccarino, and A. Patania<br/>
+**J.-G. Young**, G. Petri, F. Vaccarino and A. Patania<br/>
 High-Oder Models in Network Science (HONS 2017)<br/>
 <span class="faded">Indianapolis, IN, USA<br/></span>
 [Abstract](files/hons2017_abstract.pdf) |
