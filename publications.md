@@ -13,7 +13,8 @@ G. St-Onge, **J.-G. Young**, E. Laurence, C. Murphy and L. J. Dubé<br/>
 
 * <span class="pub-title">Exact analytical solution of irreversible binary dynamics on networks</span><br/>
 E. Laurence,  **J.-G. Young**, S. Melnik and L. J. Dubé<br/>
-[arXiv.org](https://arxiv.org/abs/1711.02721)
+[arXiv.org](https://arxiv.org/abs/1711.02721) | 
+[Software](https://github.com/laurencee9/exact_binary_dynamics)
 
 
 <div class="end-of-post"></div>
