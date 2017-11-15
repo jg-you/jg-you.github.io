@@ -80,7 +80,7 @@ Sci. Rep., **3**, 2171 (2013)<br/>
 <span id="nav-talks"></span>
 ## Selected Conference Presentations
 
-<p>(listed in inverse chronological order;  presenter denoted by *)</p>
+<p>(listed in inverse chronological order)</p>
 
 * <span class="pub-title">Construction of and efficient sampling from the simplicial configuration model</span><br/>
 **J.-G. Young**, G. Petri, F. Vaccarino and A. Patania<br/>
@@ -118,7 +118,7 @@ High-Oder Models in Network Science (HONS 2017)<br/>
 [Abstract](files/netsci2014_JGYAbstract.pdf) |
 [Slides](https://speakerdeck.com/jgyou/structural-preferential-attachment-of-community-structure-and-its-relation-to-dunbars-number)
 * <span class="pub-title">Complex networks are an emerging property of hierarchical preferential attachment</span><br/>
-L. Hébert-Dufresne*, E. Laurence, A. Allard, **J.-G. Young** and L. J. Dubé<br/>
+L. Hébert-Dufresne, E. Laurence, A. Allard, **J.-G. Young** and L. J. Dubé<br/>
 9th International School and Conference on Network Science (NetSci 2014)<br/>
 <span class="faded">Berkeley, CA, USA<br/></span>
 <i class="fa fa-star" aria-hidden="true"></i> Outstanding Poster Award<br/>
