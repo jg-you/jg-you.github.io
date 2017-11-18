@@ -19,3 +19,6 @@ But one could use the method to investigate different property; this will be dic
 
 The next step will be to develop correlated variant of the ensemble (think of the degree-correlated CM) and to delve into combinatorial results (e.g., rigorously prove the traversability of the associated simplicial complex space).
 
+<!--more-->
+
+**Added on November 18th, 2017:** [Kendra Redmonnd](https://www.facebook.com/KRStories/) wrote [a nice blog post](http://physicsbuzz.physicscentral.com/2017/10/the-shape-of-randomness.html) about our paper, over at APS's Physics Central. Check it out!
