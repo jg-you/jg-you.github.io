@@ -21,4 +21,4 @@ The next step will be to develop correlated variant of the ensemble (think of th
 
 <!--more-->
 
-**Added on November 18th, 2017:** [Kendra Redmonnd](https://www.facebook.com/KRStories/) wrote [a nice blog post](http://physicsbuzz.physicscentral.com/2017/10/the-shape-of-randomness.html) about our paper, over at APS's Physics Central. Check it out!
+**Added on November 18th, 2017:** [Kendra Redmond](https://www.facebook.com/KRStories/) wrote [a nice blog post](http://physicsbuzz.physicscentral.com/2017/10/the-shape-of-randomness.html) about our paper, over at the APS's Physics Central. Check it out!
