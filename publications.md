@@ -7,10 +7,6 @@ title: Publications
 ## Preprints
 
 
-* <span class="pub-title">Phase transition of the susceptible-infected-susceptible dynamics on time-varying configuration model networks</span><br/>
-G. St-Onge, **J.-G. Young**, E. Laurence, C. Murphy and L. J. Dubé<br/>
-[arXiv.org](https://arxiv.org/abs/1709.09257)
-
 * <span class="pub-title">Exact analytical solution of irreversible binary dynamics on networks</span><br/>
 E. Laurence,  **J.-G. Young**, S. Melnik and L. J. Dubé<br/>
 [arXiv.org](https://arxiv.org/abs/1711.02721) | 
@@ -23,6 +19,11 @@ E. Laurence,  **J.-G. Young**, S. Melnik and L. J. Dubé<br/>
 ## In Peer-Reviewed Journals
 
 <p>(listed in inverse chronological order)</p>
+
+* <span class="pub-title">Phase transition of the susceptible-infected-susceptible dynamics on time-varying configuration model networks</span><br/>
+G. St-Onge, **J.-G. Young**, E. Laurence, C. Murphy and L. J. Dubé<br/>
+Phys. Rev. E (in press)<br/>
+[arXiv.org](https://arxiv.org/abs/1709.09257)
 
 * <span class="pub-title">Construction of and efficient sampling from the simplicial configuration model</span><br/>
 **J.-G. Young**, G. Petri, F. Vaccarino and A. Patania<br/>
