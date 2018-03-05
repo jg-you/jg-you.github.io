@@ -3,22 +3,15 @@ layout: page
 title: Publications
 ---
 
-<span id="nav-preprints"></span> 
-## Preprints
-
-
-* <span class="pub-title">Exact analytical solution of irreversible binary dynamics on networks</span><br/>
-E. Laurence,  **J.-G. Young**, S. Melnik and L. J. Dubé<br/>
-[arXiv.org](https://arxiv.org/abs/1711.02721) | 
-[Software](https://github.com/laurencee9/exact_binary_dynamics)
-
-
-<div class="end-of-post"></div>
-
 <span id="nav-journals"></span>
 ## In Peer-Reviewed Journals
 
 <p>(listed in inverse chronological order)</p>
+
+* <span class="pub-title">Exact analytical solution of irreversible binary dynamics on networks</span><br/>
+E. Laurence,  **J.-G. Young**, S. Melnik and L. J. Dubé<br/>
+Phys. Rev. E, **97**, 032302 (2018)<br/>
+[arXiv.org](https://arxiv.org/abs/1711.02721) | [Journal](https://doi.org/10.1103/PhysRevE.97.032302) | [Software](https://github.com/laurencee9/exact_binary_dynamics)
 
 * <span class="pub-title">Phase transition of the susceptible-infected-susceptible dynamics on time-varying configuration model networks</span><br/>
 G. St-Onge, **J.-G. Young**, E. Laurence, C. Murphy and L. J. Dubé<br/>
