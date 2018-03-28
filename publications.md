@@ -3,6 +3,16 @@ layout: page
 title: Publications
 ---
 
+<span id="nav-preprints"></span>
+## Preprints
+
+* <span class="pub-title">Network archaeology: phase transition in the recoverability of network history</span><br/>
+**J.-G. Young**, L. Hébert-Dufresne, E. Laurence, C. Murphy, G. St-Onge and P. Desrosiers<br/>
+[arXiv.org](https://arxiv.org/abs/1803.09191)
+
+
+<div class="end-of-post"></div>
+
 <span id="nav-journals"></span>
 ## In Peer-Reviewed Journals
 
