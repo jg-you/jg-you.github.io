@@ -91,7 +91,13 @@ Sci. Rep., **3**, 2171 (2013)<br/>
 <div class="end-of-post"></div>
 
 <span id="nav-others"></span>
+
 ## Theses
+
+* Inférence et réseaux complexes (french)<br/> 
+(Infrence and complex networks)<br/>
+Ph.D. Thesis, Université Laval (2018)<br/>
+Full text 
 
 * De la détection de la structure communautaire des réseaux complexes (french)<br/> 
 (Of community structure detection on complex networks)<br/>
