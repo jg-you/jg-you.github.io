@@ -57,8 +57,7 @@ Phys. Rev. E **93**, 032304 (2016)<br/>
 * <span class="pub-title">Complex networks as an emerging property of hierarchical preferential attachment</span><br/>
  L. Hébert-Dufresne, E. Laurence, A. Allard, **J.-G. Young** and L. J. Dubé<br/>
 Phys. Rev. E, **92**, 062809 (2015)<br/>
-[arXiv.org](http://arxiv.org/abs/1312.0171) | [Journal](http://dx.doi.org/10.1103/PhysRevE.92.062809) | [Poster](files/netsci2014_LHDPoster.pdf) |  
-[Software](https://github.com/spa-networks/hpa)
+[arXiv.org](http://arxiv.org/abs/1312.0171) | [Journal](http://dx.doi.org/10.1103/PhysRevE.92.062809) | [Poster](files/netsci2014_LHDPoster.pdf) |  [Software](https://github.com/spa-networks/hpa)
 
 * <span class="pub-title">General and exact approach to percolation on random graphs</span><br/>
  A. Allard, L. Hébert-Dufresne, **J.-G. Young** and L. J. Dubé<br/>
