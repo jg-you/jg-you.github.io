@@ -95,7 +95,7 @@ Sci. Rep., **3**, 2171 (2013)<br/>
 ## Theses
 
 * Inférence et réseaux complexes (french)<br/> 
-(Infrence and complex networks)<br/>
+(Inference and complex networks)<br/>
 Ph.D. Thesis, Université Laval (2018)<br/>
 Full text 
 
