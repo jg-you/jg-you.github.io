@@ -26,7 +26,7 @@ Phys. Rev. E, **97**, 032302 (2018)<br/>
 * <span class="pub-title">Phase transition of the susceptible-infected-susceptible dynamics on time-varying configuration model networks</span><br/>
 G. St-Onge, **J.-G. Young**, E. Laurence, C. Murphy and L. J. Dubé<br/>
 Phys. Rev. E, **97**, 022305 (2018)<br/>
-[arXiv.org](https://arxiv.org/abs/1709.09257) | [Journal](https://doi.org/10.1103/PhysRevE.97.022305)
+[arXiv.org](https://arxiv.org/abs/1709.09257) | [Journal](https://doi.org/10.1103/PhysRevE.97.022305) | [Short note](https://arxiv.org/abs/1701.01740)
 
 * <span class="pub-title">Construction of and efficient sampling from the simplicial configuration model</span><br/>
 **J.-G. Young**, G. Petri, F. Vaccarino and A. Patania<br/>
