@@ -5,7 +5,7 @@ title: About
 
 ## About
 
-I am a Ph.D candidate working under the guidance of [Prof. Louis J. Dubé](http://www.dynamica.phy.ulaval.ca) and [Prof. Patrick Desrosiers](http://patrickdesrosier4.wixsite.com/patrickdesrosiers) at Université Laval, Québec, (QC), Canada.
+I am a Ph.D candidate working under the guidance of [Prof. Louis J. Dubé](http://www.dynamica.phy.ulaval.ca) and [Prof. Patrick Desrosiers](https://scholar.google.ca/citations?user=YAqE0O0AAAAJ&hl=en) at Université Laval, Québec, (QC), Canada.
 We study the classical theory of complex systems as well as complex networks.
 I focus on [inference](https://en.m.wikipedia.org/wiki/Statistical_inference) and [generative models](https://en.m.wikipedia.org/wiki/Generative_model) for complex systems.
 
@@ -47,7 +47,7 @@ I focus on [inference](https://en.m.wikipedia.org/wiki/Statistical_inference) an
 
 <ul class="collab-list">
 <li class="collab-list-item"><a href="http://antoineallard.github.io/"> Antoine Allard </a></li>
-<li class="collab-list-item"><a href="http://patrickdesrosier4.wixsite.com/patrickdesrosiers"> Patrick Desrosiers </a></li>
+<li class="collab-list-item"><a href="https://scholar.google.ca/citations?user=YAqE0O0AAAAJ&hl=en"> Patrick Desrosiers </a></li>
 <li class="collab-list-item"><a href="http://www.dynamica.phy.ulaval.ca/"> Louis J. Dubé </a></li>
 <li class="collab-list-item"><a href="http://laurenthebertdufresne.github.io/"> Laurent Hébert-Dufrense </a></li>
 <li class="collab-list-item"><a href="http://edwardlaurence.me/"> Edward Laurence </a></li>
