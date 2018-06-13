@@ -6,6 +6,10 @@ title: Publications
 <span id="nav-preprints"></span>
 ## Preprints
 
+* <span class="pub-title">On the universality of the stochastic block model</span><br/>
+**J.-G. Young**, G. St-Onge, P. Desrosiers and L. J. Dubé<br/>
+[arXiv.org](http://arxiv.org/abs/1806.04214)
+
 * <span class="pub-title">Network archaeology: phase transition in the recoverability of network history</span><br/>
 **J.-G. Young**, L. Hébert-Dufresne, E. Laurence, C. Murphy, G. St-Onge and P. Desrosiers<br/>
 [arXiv.org](https://arxiv.org/abs/1803.09191)
