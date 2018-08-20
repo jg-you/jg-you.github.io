@@ -6,13 +6,18 @@ title: Publications
 <span id="nav-preprints"></span>
 ## Preprints
 
+* <span class="pub-title">Efficient sampling of spreading processes on complex networks using a composition and rejection algorithm</span><br/>
+G. St-Onge, **J.-G. Young**, L. Hébert-Dufresne and L. J. Dubé<br/>
+[arXiv.org](https://arxiv.org/abs/1808.05859) | [Software](https://github.com/gstonge/spreading_CR)
+
+
 * <span class="pub-title">On the universality of the stochastic block model</span><br/>
 **J.-G. Young**, G. St-Onge, P. Desrosiers and L. J. Dubé<br/>
 [arXiv.org](http://arxiv.org/abs/1806.04214)
 
 * <span class="pub-title">Network archaeology: phase transition in the recoverability of network history</span><br/>
 **J.-G. Young**, L. Hébert-Dufresne, E. Laurence, C. Murphy, G. St-Onge and P. Desrosiers<br/>
-[arXiv.org](https://arxiv.org/abs/1803.09191) | [Slides](https://speakerdeck.com/jgyou/network-archaeology-phase-transition-in-the-recoverability-of-network-history)
+[arXiv.org](https://arxiv.org/abs/1803.09191) | [Software](https://github.com/jg-you/network-archaeology) | [Slides](https://speakerdeck.com/jgyou/network-archaeology-phase-transition-in-the-recoverability-of-network-history)
 
 
 <div class="end-of-post"></div>
