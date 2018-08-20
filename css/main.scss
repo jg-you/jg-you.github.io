@@ -56,6 +56,7 @@ html {
         border-top: 4px #0570b0 solid;
         -webkit-transition: 0.2s; /* Safari */
         transition: 0.2s;
+        font-family: sans-serif;
     }
     div.nav-button-left {
         @extend .nav-button;
@@ -177,6 +178,7 @@ html {
         margin-bottom: 30px;
         margin-top: -20px;
         border-radius: 0px 0px 5px 5px;
+        font-family: sans-serif;
     }
 
 /**************/
