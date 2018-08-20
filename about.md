@@ -52,6 +52,8 @@ I focus on [inference](https://en.m.wikipedia.org/wiki/Statistical_inference) an
 <li class="collab-list-item"><a href="http://laurenthebertdufresne.github.io/"> Laurent Hébert-Dufrense </a></li>
 <li class="collab-list-item"><a href="http://edwardlaurence.me/"> Edward Laurence </a></li>
 <li class="collab-list-item"><a href="http://ericlibby.github.io/"> Eric Libby </a></li>
+<li class="collab-list-item"><a href="http://www-personal.umich.edu/~mejn/"> Mark Newman </a></li>
 <li class="collab-list-item"><a href="http://apatania.altervista.org/"> Alice Patania </a></li>
 <li class="collab-list-item"><a href="https://lordgrilo.github.io/"> Giovanni Petri </a></li>
+<li class="collab-list-item"><a href="https://gstonge.github.io/"> Guillaume St-Onge </a></li>
 </ul>
