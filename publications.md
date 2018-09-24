@@ -111,4 +111,4 @@ Full text
 * De la détection de la structure communautaire des réseaux complexes (french)<br/> 
 (Of community structure detection on complex networks)<br/>
 M.Sc. Thesis, Université Laval (2014)<br/>
-[Full text](http://www.dynamica.phy.ulaval.ca/fileadmin/theses/young14_master.pdf) 
+[Corpus](https://corpus.ulaval.ca/jspui/handle/20.500.11794/25472) | [PDF](http://www.dynamica.phy.ulaval.ca/fileadmin/theses/young14_master.pdf) 
