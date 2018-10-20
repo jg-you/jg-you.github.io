@@ -106,7 +106,7 @@ Sci. Rep., **3**, 2171 (2013)<br/>
 * Inférence et réseaux complexes (french)<br/> 
 (Inference and complex networks)<br/>
 Ph.D. Thesis, Université Laval (2018)<br/>
-Corpus | [PDF](https://www.dynamica.phy.ulaval.ca/fileadmin/theses/young18_thesis.pdf) 
+[Corpus](https://corpus.ulaval.ca/jspui/handle/20.500.11794/31824) | [PDF](https://www.dynamica.phy.ulaval.ca/fileadmin/theses/young18_thesis.pdf) 
 
 * De la détection de la structure communautaire des réseaux complexes (french)<br/> 
 (Of community structure detection on complex networks)<br/>
