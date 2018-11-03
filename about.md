@@ -18,7 +18,7 @@ I obtained my PhD in Physics from  Université Laval, where I was advised by [Pr
 <a href="mailto:jean-gabriel.young.1@ulaval.ca"><i class="fa fa-envelope-o" aria-hidden="true"></i> jgyou@umich.edu </a>  
 </li> 
 <li class="contact-list-item"> 
-<a href="http://www.twitter.com/_jgyou"><i class="fa fa-twitter" aria-hidden="true"></i> @_jgyou</a>
+<a href="http://www.twitter.com/_jgyou"><i class="fa fa-twitter" aria-hidden="true"></i> Twitter </a>
 </li>
 <li class="contact-list-item"> 
 <a href="https://scholar.google.ca/citations?user=qmKcNSoAAAAJ&hl=en"><i class="ai ai-google-scholar" aria-hidden="true"></i>  Google Scholar </a>
@@ -31,10 +31,13 @@ I obtained my PhD in Physics from  Université Laval, where I was advised by [Pr
 <a href="http://orcid.org/0000-0002-4464-2692"><i class="ai ai-orcid" aria-hidden="true"></i>  ORCID</a>
 </li>
 <li class="contact-list-item"> 
-<a href="https://github.com/jg-you/"><i class="fa fa-github" aria-hidden="true"></i> jg-you </a>
+<a href="https://github.com/jg-you/"><i class="fa fa-github" aria-hidden="true"></i> github </a>
 </li>
 <li class="contact-list-item"> 
-<a href="http://stackexchange.com/users/2079477/jgyou?tab=accounts"><i class="fa fa-stack-exchange" aria-hidden="true"></i> jgyou </a>
+<a href="http://stackexchange.com/users/2079477/jgyou?tab=accounts"><i class="fa fa-stack-exchange" aria-hidden="true"></i> StackExchange </a>
+</li>
+<li class="contact-list-item"> 
+<a href="https://aur.archlinux.org/account/jg-you/"><i class="fa fa-linux" aria-hidden="true"></i> AUR  </a>
 </li>
 <li class="contact-list-item"> 
 <a href="http://www.linkedin.com/pub/jean-gabriel-young/59/577/698"><i class="fa fa-linkedin" aria-hidden="true"></i> Linkedin </a>
