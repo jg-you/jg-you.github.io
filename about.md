@@ -37,6 +37,9 @@ I obtained my PhD in Physics from  Université Laval, where I was advised by [Pr
 <a href="http://stackexchange.com/users/2079477/jgyou?tab=accounts"><i class="fa fa-stack-exchange" aria-hidden="true"></i> StackExchange </a>
 </li>
 <li class="contact-list-item"> 
+<a href="https://publons.com/author/1643175/jean-gabriel-young"><i class="fa fa-publons" aria-hidden="true"></i> Publons </a>
+</li>
+<li class="contact-list-item"> 
 <a href="https://aur.archlinux.org/account/jg-you/"><i class="fa fa-linux" aria-hidden="true"></i> AUR  </a>
 </li>
 <li class="contact-list-item"> 
