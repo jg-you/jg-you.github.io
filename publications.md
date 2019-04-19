@@ -20,7 +20,7 @@ title: Publications
 * <span class="pub-title">Efficient sampling of spreading processes on complex networks using a composition and rejection algorithm</span><br/>
 G. St-Onge, **J.-G. Young**, L. Hébert-Dufresne and L. J. Dubé<br/>
 Computer Physics Communications (in press)<br/>
-[arXiv.org](https://arxiv.org/abs/1808.05859) | [Full text](https://doi.org/10.1016/j.cpc.2019.02.008) | [Software](https://github.com/gstonge/spreading_CR)
+[arXiv.org](https://arxiv.org/abs/1808.05859) | [Journal](https://doi.org/10.1016/j.cpc.2019.02.008) | [Software](https://github.com/gstonge/spreading_CR)
 
 * <span class="pub-title">Universality of the stochastic block model</span><br/>
 **J.-G. Young**, G. St-Onge, P. Desrosiers and L. J. Dubé<br/>
