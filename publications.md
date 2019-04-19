@@ -6,15 +6,9 @@ title: Publications
 <span id="nav-preprints"></span>
 ## Preprints
 
-* <span class="pub-title">Efficient sampling of spreading processes on complex networks using a composition and rejection algorithm</span><br/>
-G. St-Onge, **J.-G. Young**, L. Hébert-Dufresne and L. J. Dubé<br/>
-[arXiv.org](https://arxiv.org/abs/1808.05859) | [Software](https://github.com/gstonge/spreading_CR)
-
-
 * <span class="pub-title">Network archaeology: phase transition in the recoverability of network history</span><br/>
-**J.-G. Young**, L. Hébert-Dufresne, E. Laurence, C. Murphy, G. St-Onge and P. Desrosiers<br/>
-[arXiv.org](https://arxiv.org/abs/1803.09191) | [Software](https://github.com/jg-you/network-archaeology) | [Slides](https://speakerdeck.com/jgyou/network-archaeology-phase-transition-in-the-recoverability-of-network-history)
-
+**J.-G. Young**, G. St-Onge, E. Laurence, C. Murphy, L. Hébert-Dufresne and P. Desrosiers<br/>
+[arXiv.org](https://arxiv.org/abs/1803.09191) | [Supplementary Information](files/SI_archaeology_v2.pdf) | [Software](https://github.com/jg-you/network-archaeology) | [Slides](https://speakerdeck.com/jgyou/network-archaeology-phase-transition-in-the-recoverability-of-network-history)
 
 <div class="end-of-post"></div>
 
@@ -22,6 +16,11 @@ G. St-Onge, **J.-G. Young**, L. Hébert-Dufresne and L. J. Dubé<br/>
 ## In Peer-Reviewed Journals
 
 <p>(listed in inverse chronological order)</p>
+
+* <span class="pub-title">Efficient sampling of spreading processes on complex networks using a composition and rejection algorithm</span><br/>
+G. St-Onge, **J.-G. Young**, L. Hébert-Dufresne and L. J. Dubé<br/>
+Computer Physics Communications (in press)<br/>
+[arXiv.org](https://arxiv.org/abs/1808.05859) | [Full text](https://doi.org/10.1016/j.cpc.2019.02.008) | [Software](https://github.com/gstonge/spreading_CR)
 
 * <span class="pub-title">Universality of the stochastic block model</span><br/>
 **J.-G. Young**, G. St-Onge, P. Desrosiers and L. J. Dubé<br/>
