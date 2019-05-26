@@ -25,7 +25,7 @@ Computer Physics Communications (in press)<br/>
 * <span class="pub-title">Universality of the stochastic block model</span><br/>
 **J.-G. Young**, G. St-Onge, P. Desrosiers and L. J. Dubé<br/>
 Phys. Rev. E, **98**, 032309 (2018)<br/>
-[arXiv.org](http://arxiv.org/abs/1806.04214) | [Journal](https://doi.org/10.1103/PhysRevE.98.032309)
+[arXiv.org](http://arxiv.org/abs/1806.04214) | [Journal](https://doi.org/10.1103/PhysRevE.98.032309) | [Slides](https://speakerdeck.com/jgyou/on-the-universality-of-the-stochastic-block-model) 
 
 * <span class="pub-title">Exact analytical solution of irreversible binary dynamics on networks</span><br/>
 E. Laurence,  **J.-G. Young**, S. Melnik and L. J. Dubé<br/>
