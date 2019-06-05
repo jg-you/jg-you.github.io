@@ -21,6 +21,9 @@ I obtained my PhD in Physics from  Université Laval, where I was advised by [Pr
 <a href="http://www.twitter.com/_jgyou"><i class="fa fa-twitter" aria-hidden="true"></i> Twitter </a>
 </li>
 <li class="contact-list-item"> 
+<a href="https://arxiv.org/a/young_j_1.html"><i class="ai ai-arxiv" aria-hidden="true"></i>  arXiv.org </a>
+</li>
+<li class="contact-list-item"> 
 <a href="https://scholar.google.ca/citations?user=qmKcNSoAAAAJ&hl=en"><i class="ai ai-google-scholar" aria-hidden="true"></i>  Google Scholar </a>
 </li>
 <li class="contact-list-item"> 
@@ -58,8 +61,9 @@ I obtained my PhD in Physics from  Université Laval, where I was advised by [Pr
 <li class="collab-list-item"><a href="http://laurenthebertdufresne.github.io/"> Laurent Hébert-Dufrense </a></li>
 <li class="collab-list-item"><a href="http://edwardlaurence.me/"> Edward Laurence </a></li>
 <li class="collab-list-item"><a href="http://ericlibby.github.io/"> Eric Libby </a></li>
-<li class="collab-list-item"><a href="http://www-personal.umich.edu/~mejn/"> Mark Newman </a></li>
+<li class="collab-list-item"><a href="http://www-personal.umich.edu/~mejn/"> Mark E. J. Newman </a></li>
 <li class="collab-list-item"><a href="https://alpatania.github.io/"> Alice Patania </a></li>
 <li class="collab-list-item"><a href="https://lordgrilo.github.io/"> Giovanni Petri </a></li>
+<li class="collab-list-item"><a href="http://scarpino.github.io/"> Samuel V. Scarpino</a></li>
 <li class="collab-list-item"><a href="https://gstonge.github.io/"> Guillaume St-Onge </a></li>
 </ul>
