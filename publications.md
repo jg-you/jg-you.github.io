@@ -6,6 +6,10 @@ title: Publications
 <span id="nav-preprints"></span>
 ## Preprints
 
+* <span class="pub-title">Improved mutual information measure for classification and community detection</span><br/>
+M. E. J. Newman, G. T. Cantwell and **J.-G. Young** <br/>
+[arXiv.org](https://arxiv.org/abs/1907.12581)
+
 * <span class="pub-title">Interacting contagions are indistinguishable from social reinforcement</span><br/>
 L. Hébert-Dufresne, S. V. Scarpino and **J.-G. Young** <br/>
 [arXiv.org](https://arxiv.org/abs/1906.01147) | [Supplementary Information](https://arxiv.org/src/1906.01147v1/anc/LHD18_ComplexCoinfection_SM.pdf) | [Software](https://github.com/jg-you/complex-coinfection-inference/) | [Slides](https://speakerdeck.com/jgyou/bayesian-inference-of-effective-contagion-models-from-population-level-data)
