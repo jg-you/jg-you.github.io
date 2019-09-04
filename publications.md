@@ -6,6 +6,11 @@ title: Publications
 <span id="nav-preprints"></span>
 ## Preprints
 
+
+* <span class="pub-title">Improved mutual information measure for classification and community detection</span><br/>
+**J.-G. Young**, Fernanda S. Valdovinos and M. E. J. Newman <br/>
+[bioRxiv.org](https://www.biorxiv.org/content/10.1101/754077v1) |  [Software](https://github.com/jg-you/plant-pollinator-inference) 
+
 * <span class="pub-title">Improved mutual information measure for classification and community detection</span><br/>
 M. E. J. Newman, G. T. Cantwell and **J.-G. Young** <br/>
 [arXiv.org](https://arxiv.org/abs/1907.12581)
