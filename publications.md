@@ -8,7 +8,7 @@ title: Publications
 
 
 * <span class="pub-title">Reconstruction of plant–pollinator networks from observational data</span><br/>
-**J.-G. Young**, Fernanda S. Valdovinos and M. E. J. Newman <br/>
+**J.-G. Young**, F. S. Valdovinos and M. E. J. Newman <br/>
 [bioRxiv.org](https://www.biorxiv.org/content/10.1101/754077v1) |  [Software](https://github.com/jg-you/plant-pollinator-inference) 
 
 * <span class="pub-title">Improved mutual information measure for classification and community detection</span><br/>
