@@ -6,6 +6,9 @@ title: Publications
 <span id="nav-preprints"></span>
 ## Preprints
 
+* <span class="pub-title">Recovering the past states of growing trees</span><br/>
+G. T. Cantwell, G. St-Onge and **J.-G. Young** <br/>
+[arXiv.org](https://arxiv.org/abs/1910.04788)
 
 * <span class="pub-title">Reconstruction of plant–pollinator networks from observational data</span><br/>
 **J.-G. Young**, F. S. Valdovinos and M. E. J. Newman <br/>
