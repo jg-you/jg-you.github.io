@@ -22,16 +22,18 @@ M. E. J. Newman, G. T. Cantwell and **J.-G. Young** <br/>
 L. Hébert-Dufresne, S. V. Scarpino and **J.-G. Young** <br/>
 [arXiv.org](https://arxiv.org/abs/1906.01147) | [Supplementary Information](https://arxiv.org/src/1906.01147v1/anc/LHD18_ComplexCoinfection_SM.pdf) | [Software](https://github.com/jg-you/complex-coinfection-inference/) | [Slides](https://speakerdeck.com/jgyou/bayesian-inference-of-effective-contagion-models-from-population-level-data)
 
-* <span class="pub-title">Network archaeology: phase transition in the recoverability of network history</span><br/>
-**J.-G. Young**, G. St-Onge, E. Laurence, C. Murphy, L. Hébert-Dufresne and P. Desrosiers<br/>
-[arXiv.org](https://arxiv.org/abs/1803.09191) | [Supplementary Information](files/SI_archaeology_v2.pdf) | [Software](https://github.com/jg-you/network-archaeology) | [Slides](https://speakerdeck.com/jgyou/network-archaeology-phase-transition-in-the-recoverability-of-network-history)
-
 <div class="end-of-post"></div>
 
 <span id="nav-journals"></span>
 ## In Peer-Reviewed Journals
 
 <p>(listed in inverse chronological order)</p>
+
+
+* <span class="pub-title">Phase transition in the recoverability of network history</span><br/>
+**J.-G. Young**, G. St-Onge, E. Laurence, C. Murphy, L. Hébert-Dufresne and P. Desrosiers<br/>
+Phys. Rev. X, *in press*.
+[arXiv.org](https://arxiv.org/abs/1803.09191) | Journal | [Supplementary Information](files/SI_archaeology_v2.pdf) | [Software](https://github.com/jg-you/network-archaeology) | [Slides](https://speakerdeck.com/jgyou/network-archaeology-phase-transition-in-the-recoverability-of-network-history)
 
 * <span class="pub-title">Efficient sampling of spreading processes on complex networks using a composition and rejection algorithm</span><br/>
 G. St-Onge, **J.-G. Young**, L. Hébert-Dufresne and L. J. Dubé<br/>
