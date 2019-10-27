@@ -56,12 +56,13 @@ I obtained my PhD in Physics from  Université Laval, where I was advised by [Pr
 
 <ul class="collab-list">
 <li class="collab-list-item"><a href="http://antoineallard.github.io/"> Antoine Allard </a></li>
-<li class="collab-list-item"><a href="https://scholar.google.ca/citations?user=YAqE0O0AAAAJ&hl=en"> Patrick Desrosiers </a></li>
-<li class="collab-list-item"><a href="http://www.dynamica.phy.ulaval.ca/"> Louis J. Dubé </a></li>
+<li class="collab-list-item"><a href="https://www.george-cantwell.com/"> George Cantwell </a></li>
+<li class="collab-list-item"><a href="https://dynamicalab.github.io/members.html"> Patrick Desrosiers </a></li>
+<li class="collab-list-item"><a href="https://dynamicalab.github.io/members.html"> Louis J. Dubé </a></li>
 <li class="collab-list-item"><a href="http://laurenthebertdufresne.github.io/"> Laurent Hébert-Dufrense </a></li>
 <li class="collab-list-item"><a href="http://edwardlaurence.me/"> Edward Laurence </a></li>
 <li class="collab-list-item"><a href="http://ericlibby.github.io/"> Eric Libby </a></li>
-<li class="collab-list-item"><a href="http://www-personal.umich.edu/~mejn/"> Mark E. J. Newman </a></li>
+<li class="collab-list-item"><a href="http://www-personal.umich.edu/~mejn/"> Mark Newman </a></li>
 <li class="collab-list-item"><a href="https://alpatania.github.io/"> Alice Patania </a></li>
 <li class="collab-list-item"><a href="https://lordgrilo.github.io/"> Giovanni Petri </a></li>
 <li class="collab-list-item"><a href="http://scarpino.github.io/"> Samuel V. Scarpino</a></li>
