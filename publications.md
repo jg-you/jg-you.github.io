@@ -32,8 +32,8 @@ L. Hébert-Dufresne, S. V. Scarpino and **J.-G. Young** <br/>
 
 * <span class="pub-title">Phase transition in the recoverability of network history</span><br/>
 **J.-G. Young**, G. St-Onge, E. Laurence, C. Murphy, L. Hébert-Dufresne and P. Desrosiers<br/>
-Phys. Rev. X, *in press*. <br/>
-[arXiv.org](https://arxiv.org/abs/1803.09191) | Journal | [Supplementary Information](files/SI_archaeology_v2.pdf) | [Software](https://github.com/jg-you/network-archaeology) | [Slides](https://speakerdeck.com/jgyou/network-archaeology-phase-transition-in-the-recoverability-of-network-history)
+Phys. Rev. X, **9**, 041056 (2019) <br/>
+[arXiv.org](https://arxiv.org/abs/1803.09191) | [Journal <i class="ai ai-open-access" aria-hidden="true"></i>](https://doi.org/10.1103/PhysRevX.9.041056) | [Supplementary Information](files/SI_archaeology_v2.pdf) | [Software](https://github.com/jg-you/network-archaeology) | [Slides](https://speakerdeck.com/jgyou/network-archaeology-phase-transition-in-the-recoverability-of-network-history)
 
 * <span class="pub-title">Efficient sampling of spreading processes on complex networks using a composition and rejection algorithm</span><br/>
 G. St-Onge, **J.-G. Young**, L. Hébert-Dufresne and L. J. Dubé<br/>
