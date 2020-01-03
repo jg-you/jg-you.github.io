@@ -25,10 +25,9 @@ L. Hébert-Dufresne, S. V. Scarpino and **J.-G. Young** <br/>
 <div class="end-of-post"></div>
 
 <span id="nav-journals"></span>
-## In Peer-Reviewed Journals
+## Peer-Reviewed Journals
 
 <p>(listed in inverse chronological order)</p>
-
 
 * <span class="pub-title">Phase transition in the recoverability of network history</span><br/>
 **J.-G. Young**, G. St-Onge, E. Laurence, C. Murphy, L. Hébert-Dufresne and P. Desrosiers<br/>
@@ -116,8 +115,20 @@ Sci. Rep., **3**, 2171 (2013)<br/>
 
 <div class="end-of-post"></div>
 
-<span id="nav-others"></span>
+<span id="nav-proceedings"></span>
 
+## Conference proceedings
+
+<p>(listed in inverse chronological order)</p>
+
+* <span class="pub-title">Connected graphs with a given degree sequence: efficient sampling, correlations, community detection and robustness</span><br/>
+J. H. Ring IV, **J.-G. Young** and Laurent Hébert-Dufresne <br/>
+Proceedings of NetSci-X 2020 (in press) 
+
+
+<div class="end-of-post"></div>
+
+<span id="nav-others"></span>
 ## Theses
 
 * Inférence et réseaux complexes (french)<br/> 
