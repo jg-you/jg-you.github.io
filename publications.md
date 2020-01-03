@@ -117,9 +117,8 @@ Sci. Rep., **3**, 2171 (2013)<br/>
 
 <span id="nav-proceedings"></span>
 
-## Conference proceedings
+## Conference Proceedings
 
-<p>(listed in inverse chronological order)</p>
 
 * <span class="pub-title">Connected graphs with a given degree sequence: efficient sampling, correlations, community detection and robustness</span><br/>
 J. H. Ring IV, **J.-G. Young** and Laurent Hébert-Dufresne <br/>
