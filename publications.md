@@ -18,9 +18,6 @@ G. T. Cantwell, G. St-Onge and **J.-G. Young** <br/>
 M. E. J. Newman, G. T. Cantwell and **J.-G. Young** <br/>
 [arXiv.org](https://arxiv.org/abs/1907.12581)
 
-* <span class="pub-title">Interacting contagions are indistinguishable from social reinforcement</span><br/>
-L. Hébert-Dufresne, S. V. Scarpino and **J.-G. Young** <br/>
-[arXiv.org](https://arxiv.org/abs/1906.01147) | [Supplementary Information](https://arxiv.org/src/1906.01147v1/anc/LHD18_ComplexCoinfection_SM.pdf) | [Software](https://github.com/jg-you/complex-coinfection-inference/) | [Slides](https://speakerdeck.com/jgyou/bayesian-inference-of-effective-contagion-models-from-population-level-data)
 
 <div class="end-of-post"></div>
 
@@ -28,6 +25,12 @@ L. Hébert-Dufresne, S. V. Scarpino and **J.-G. Young** <br/>
 ## Peer-Reviewed Journals
 
 <p>(listed in inverse chronological order)</p>
+
+
+* <span class="pub-title">Macroscopic patterns of interacting contagions are indistinguishable from social reinforcement</span><br/>
+L. Hébert-Dufresne, S. V. Scarpino and **J.-G. Young** <br/>
+Nature Physics (in press)<br/>
+[arXiv.org](https://arxiv.org/abs/1906.01147) | [Supplementary Information](https://arxiv.org/src/1906.01147v1/anc/LHD18_ComplexCoinfection_SM.pdf) | [Software](https://github.com/jg-you/complex-coinfection-inference/) | [Slides](https://speakerdeck.com/jgyou/bayesian-inference-of-effective-contagion-models-from-population-level-data)
 
 * <span class="pub-title">Phase transition in the recoverability of network history</span><br/>
 **J.-G. Young**, G. St-Onge, E. Laurence, C. Murphy, L. Hébert-Dufresne and P. Desrosiers<br/>
