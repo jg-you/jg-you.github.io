@@ -21,4 +21,4 @@ Our manuscript is currently on the arXiv as a [preprint](https://arxiv.org/abs/1
 
 (Part of) the team at our 2016 retreat.
 
-![](/assets/post_figures/rezoo2016.jpg =250x)
+![](/assets/post_figures/rezoo2016.jpg)
