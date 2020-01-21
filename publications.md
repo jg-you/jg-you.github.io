@@ -125,7 +125,8 @@ Sci. Rep., **3**, 2171 (2013)<br/>
 
 * <span class="pub-title">Connected graphs with a given degree sequence: efficient sampling, correlations, community detection and robustness</span><br/>
 J. H. Ring IV, **J.-G. Young** and Laurent Hébert-Dufresne <br/>
-Proceedings of NetSci-X 2020 (in press) 
+Proceedings of NetSci-X 2020 <br/>
+[PDF](assets/CCM.pdf) | [Journal](https://link.springer.com/chapter/10.1007%2F978-3-030-38965-9_3)
 
 
 <div class="end-of-post"></div>
