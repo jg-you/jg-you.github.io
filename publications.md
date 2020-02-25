@@ -29,8 +29,8 @@ M. E. J. Newman, G. T. Cantwell and **J.-G. Young** <br/>
 
 * <span class="pub-title">Macroscopic patterns of interacting contagions are indistinguishable from social reinforcement</span><br/>
 L. Hébert-Dufresne, S. V. Scarpino and **J.-G. Young** <br/>
-Nature Physics (in press)<br/>
-[arXiv.org](https://arxiv.org/abs/1906.01147) | [Supplementary Information](https://arxiv.org/src/1906.01147v1/anc/LHD18_ComplexCoinfection_SM.pdf) | [Software](https://github.com/jg-you/complex-coinfection-inference/) | [Slides](https://speakerdeck.com/jgyou/bayesian-inference-of-effective-contagion-models-from-population-level-data)
+Nature Physics (2020)<br/>
+[arXiv.org](https://arxiv.org/abs/1906.01147) | [Journal](https://doi.org/10.1038/s41567-020-0791-2) | [Supplementary Information](https://static-content.springer.com/esm/art%3A10.1038%2Fs41567-020-0791-2/MediaObjects/41567_2020_791_MOESM1_ESM.pdf) | [PDF](http://scarpino.github.io/files/s41567-020-0791-2.pdf) | [Software](https://github.com/jg-you/complex-coinfection-inference/) | [Slides](https://speakerdeck.com/jgyou/bayesian-inference-of-effective-contagion-models-from-population-level-data)
 
 * <span class="pub-title">Phase transition in the recoverability of network history</span><br/>
 **J.-G. Young**, G. St-Onge, E. Laurence, C. Murphy, L. Hébert-Dufresne and P. Desrosiers<br/>
