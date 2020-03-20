@@ -18,6 +18,9 @@ G. T. Cantwell, G. St-Onge and **J.-G. Young** <br/>
 M. E. J. Newman, G. T. Cantwell and **J.-G. Young** <br/>
 [arXiv.org](https://arxiv.org/abs/1907.12581)
 
+* <span class="pub-title">Changes in group size during resource shifts reveal drivers of sociality across the tree of life</span><br/>
+A. B. Kao, A. K. Hund, F. P. Santos, **J.-G. Young**, D. Bhat, J. Garland, R. A. Oomen and H. F. McCreery<br/>
+[bioRxiv.org](https://doi.org/10.1101/2020.03.17.994343)
 
 <div class="end-of-post"></div>
 
