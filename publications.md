@@ -13,11 +13,6 @@ G. T. Cantwell, G. St-Onge and **J.-G. Young** <br/>
 * <span class="pub-title">Reconstruction of plant–pollinator networks from observational data</span><br/>
 **J.-G. Young**, F. S. Valdovinos and M. E. J. Newman <br/>
 [bioRxiv.org](https://www.biorxiv.org/content/10.1101/754077v1) | [Software](https://github.com/jg-you/plant-pollinator-inference) 
-
-* <span class="pub-title">Improved mutual information measure for classification and community detection</span><br/>
-M. E. J. Newman, G. T. Cantwell and **J.-G. Young** <br/>
-[arXiv.org](https://arxiv.org/abs/1907.12581)
-
 * <span class="pub-title">Changes in group size during resource shifts reveal drivers of sociality across the tree of life</span><br/>
 A. B. Kao, A. K. Hund, F. P. Santos, **J.-G. Young**, D. Bhat, J. Garland, R. A. Oomen and H. F. McCreery<br/>
 [bioRxiv.org](https://doi.org/10.1101/2020.03.17.994343)
@@ -28,6 +23,12 @@ A. B. Kao, A. K. Hund, F. P. Santos, **J.-G. Young**, D. Bhat, J. Garland, R. A.
 ## Peer-Reviewed Journals
 
 <p>(listed in inverse chronological order)</p>
+
+
+* <span class="pub-title">Improved mutual information measure for classification and community detection</span><br/>
+M. E. J. Newman, G. T. Cantwell and **J.-G. Young** <br/>
+Phys. Rev. E, **101**, 042304 (2020)<br/>
+[arXiv.org](https://arxiv.org/abs/1907.12581) | [Journal](https://doi.org/10.1103/PhysRevE.101.042304)
 
 
 * <span class="pub-title">Macroscopic patterns of interacting contagions are indistinguishable from social reinforcement</span><br/>
