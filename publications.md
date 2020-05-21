@@ -18,7 +18,7 @@ G. T. Cantwell, G. St-Onge and **J.-G. Young** <br/>
 A. B. Kao, A. K. Hund, F. P. Santos, **J.-G. Young**, D. Bhat, J. Garland, R. A. Oomen and H. F. McCreery<br/>
 [bioRxiv.org](https://doi.org/10.1101/2020.03.17.994343)
 
-* <span class="pub-title">A Clarified Typology of Core-Periphery Structure in Networks</span><br/>
+* <span class="pub-title">A clarified typology of core-periphery structure in networks</span><br/>
 R. J. Gallagher, **J.-G. Young**, B. Foucault Welles<br/>
 [arXiv.org](https://arxiv.org/abs/2005.10191) | [Software](https://github.com/ryanjgallagher/core_periphery_sbm) 
 
