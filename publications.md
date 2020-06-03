@@ -30,6 +30,14 @@ R. J. Gallagher, **J.-G. Young** and B. Foucault Welles<br/>
 <p>(listed in inverse chronological order)</p>
 
 
+
+
+* <span class="pub-title">Networks beyond pairwise interactions: structure and dynamics</span><br/>
+F. Battiston, G. Cencetti, I. Iacopini, V. Latora, M. Lucas, A. Patania, **J.-G. Young** and G. Petri <br/>
+Phys. Rep., in press (2020)<br/>
+[arXiv.org](https://arxiv.org/abs/2006.01764)
+
+
 * <span class="pub-title">Improved mutual information measure for classification and community detection</span><br/>
 M. E. J. Newman, G. T. Cantwell and **J.-G. Young** <br/>
 Phys. Rev. E, **101**, 042304 (2020)<br/>
