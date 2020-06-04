@@ -6,13 +6,13 @@ title: Publications
 <span id="nav-preprints"></span>
 ## Preprints
 
-* <span class="pub-title">Recovering the past states of growing trees</span><br/>
-G. T. Cantwell, G. St-Onge and **J.-G. Young** <br/>
-[arXiv.org](https://arxiv.org/abs/1910.04788) | [Software](https://github.com/gcant/temporal-recovery-tree-py) 
-
 * <span class="pub-title">Reconstruction of plant–pollinator networks from observational data</span><br/>
 **J.-G. Young**, F. S. Valdovinos and M. E. J. Newman <br/>
 [bioRxiv.org](https://www.biorxiv.org/content/10.1101/754077v1) | [Software](https://github.com/jg-you/plant-pollinator-inference) 
+
+* <span class="pub-title">Recovering the past states of growing trees</span><br/>
+G. T. Cantwell, G. St-Onge and **J.-G. Young** <br/>
+[arXiv.org](https://arxiv.org/abs/1910.04788) | [Software](https://github.com/gcant/temporal-recovery-tree-py) 
 
 * <span class="pub-title">Changes in group size during resource shifts reveal drivers of sociality across the tree of life</span><br/>
 A. B. Kao, A. K. Hund, F. P. Santos, **J.-G. Young**, D. Bhat, J. Garland, R. A. Oomen and H. F. McCreery<br/>
@@ -21,6 +21,11 @@ A. B. Kao, A. K. Hund, F. P. Santos, **J.-G. Young**, D. Bhat, J. Garland, R. A.
 * <span class="pub-title">A clarified typology of core-periphery structure in networks</span><br/>
 R. J. Gallagher, **J.-G. Young** and B. Foucault Welles<br/>
 [arXiv.org](https://arxiv.org/abs/2005.10191) | [Software](https://github.com/ryanjgallagher/core_periphery_sbm) 
+
+* <span class="pub-title">Countering hate on social media: Large scale classification of hate and counter speech</span><br/>
+J. Garland, K. Ghazi-Zahedi, **J.-G. Young**, L. Hébert-Dufresne, and M. Galesic<br/>
+[arXiv.org](https://arxiv.org/abs/2006.01974) 
+
 
 <div class="end-of-post"></div>
 
