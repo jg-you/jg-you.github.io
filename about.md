@@ -6,7 +6,7 @@ title: About
 ## About
 
 I am an independent Postdoctoral Fellow at the [Center for the Study of Complex Systems](http://lsa.umich.edu/cscs/) at the University of Michigan, supported by the [James S. McDonnell Foundation Fellowship](https://www.jsmf.org/apply/fellowship/).
-I focus on epidemics, physics, and [statistical inference](https://en.m.wikipedia.org/wiki/Statistical_inference) for complex systems and complex networks.
+I focus on epidemiology, physics, and [statistical inference](https://en.m.wikipedia.org/wiki/Statistical_inference) for complex systems and complex networks.
 I obtained my PhD in Physics from  Université Laval, where I was advised by [Prof. Louis J. Dubé](http://www.dynamica.phy.ulaval.ca) and [Prof. Patrick Desrosiers](https://scholar.google.ca/citations?user=YAqE0O0AAAAJ&hl=en).
 
 <div class="end-of-post"></div>
