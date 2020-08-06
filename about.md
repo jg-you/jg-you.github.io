@@ -16,7 +16,7 @@ I obtained my PhD in Physics from  Université Laval, under the guidance of [Pro
 
 <ul class="contact-list">
 <li class="contact-list-item"> 
-<a href="mailto:jgyou@umich.edu"><i class="fa fa-envelope-o" aria-hidden="true"></i> jgyou@umich.edu </a>  
+<a href="mailto:jean-Gabriel.young@uvm.edu"><i class="fa fa-envelope-o" aria-hidden="true"></i> Jean-Gabriel.Young@uvm.edu </a>  
 </li> 
 <li class="contact-list-item"> 
 <a href="http://www.twitter.com/_jgyou"><i class="fa fa-twitter" aria-hidden="true"></i> Twitter </a>
