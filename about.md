@@ -6,8 +6,8 @@ title: About
 ## About
 I am Research Assistant Professor at the [Department of Computer Science](https://www.uvm.edu/cems/cs) of The University of Vermont, VT, USA. I also hold an appointment at the [Vermont Complex Systems Center](https://vermontcomplexsystems.org/). My research is at the intersection of statistical inference and complex systems.
 
-Previously, I was a [James S. McDonnell Foundation Fellow](https://www.jsmf.org/apply/fellowship/) at the [Center for the Study of Complex Systems](http://lsa.umich.edu/cscs/) of the University of Michigan, where I was mentored by [Mark Newman](http://www-personal.umich.edu/~mejn/).
-I obtained my PhD in Physics from  Université Laval, where I was advised by [Prof. Louis J. Dubé](http://www.dynamica.phy.ulaval.ca) and [Prof. Patrick Desrosiers](https://scholar.google.ca/citations?user=YAqE0O0AAAAJ&hl=en).
+Previously, I was a [James S. McDonnell Foundation Fellow](https://www.jsmf.org/apply/fellowship/) at the [Center for the Study of Complex Systems](http://lsa.umich.edu/cscs/) of the University of Michigan, where I was mentored by [Prof. Mark Newman](http://www-personal.umich.edu/~mejn/).
+I obtained my PhD in Physics from  Université Laval, under the guidance of [Prof. Louis J. Dubé](http://www.dynamica.phy.ulaval.ca) and [Prof. Patrick Desrosiers](https://scholar.google.ca/citations?user=YAqE0O0AAAAJ&hl=en).
 
 
 <div class="end-of-post"></div>
