@@ -26,6 +26,10 @@ R. J. Gallagher, **J.-G. Young** and B. Foucault Welles<br/>
 J. Garland, K. Ghazi-Zahedi, **J.-G. Young**, L. Hébert-Dufresne, and M. Galesic<br/>
 [arXiv.org](https://arxiv.org/abs/2006.01974) 
 
+* <span class="pub-title">Robust Bayesian inference of network structure from unreliable data</span><br/>
+**J.-G. Young**, G. T. Cantwell and M. E. J. Newman <br/>
+[arXiv.org](https://arxiv.org/abs/2008.03334) | [Software](https://github.com/jg-you/noisy-networks-measurements) 
+
 
 <div class="end-of-post"></div>
 
