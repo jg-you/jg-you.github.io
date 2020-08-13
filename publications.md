@@ -31,7 +31,7 @@ J. Garland, K. Ghazi-Zahedi, **J.-G. Young**, L. Hébert-Dufresne, and M. Galesi
 [arXiv.org](https://arxiv.org/abs/2008.03334) | [Software](https://github.com/jg-you/noisy-networks-measurements) 
 
 * <span class="pub-title">Hypergraph reconstruction from network data</span><br/>
-**J.-G. Young**, Giovanni Petri, and Tiago P. Peixoto <br/>
+**J.-G. Young**, G. Petri, and T. P. Peixoto <br/>
 [arXiv.org](https://arxiv.org/abs/2008.04948) | [Software](https://graph-tool.skewed.de/) 
 
 
