@@ -47,7 +47,7 @@ J. Garland, K. Ghazi-Zahedi, **J.-G. Young**, L. Hébert-Dufresne, and M. Galesi
 
 * <span class="pub-title">Networks beyond pairwise interactions: structure and dynamics</span><br/>
 F. Battiston, G. Cencetti, I. Iacopini, V. Latora, M. Lucas, A. Patania, **J.-G. Young**, and G. Petri <br/>
-Phys. Rep. (2020)<br/>
+Phys. Rep. **874** (2020)<br/>
 [arXiv.org](https://arxiv.org/abs/2006.01764) | [Journal <i class="ai ai-open-access" aria-hidden="true"></i>](https://doi.org/10.1016/j.physrep.2020.05.004)
 
 
