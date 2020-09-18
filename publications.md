@@ -34,6 +34,10 @@ J. Garland, K. Ghazi-Zahedi, **J.-G. Young**, L. Hébert-Dufresne, and M. Galesi
 **J.-G. Young**, G. Petri, and T. P. Peixoto <br/>
 [arXiv.org](https://arxiv.org/abs/2008.04948) | [Software](https://graph-tool.skewed.de/) 
 
+* <span class="pub-title">Impact and dynamics of hate and counter speech online</span><br/>
+J. Garland, K. Ghazi-Zahedi, **J.-G. Young**, L. Hébert-Dufresne, and M. Galesic<br/>
+[arXiv.org](https://arxiv.org/abs/2009.08392) 
+
 
 <div class="end-of-post"></div>
 
