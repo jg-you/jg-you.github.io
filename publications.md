@@ -10,7 +10,7 @@ title: Publications
 **J.-G. Young**, F. S. Valdovinos, and M. E. J. Newman <br/>
 [bioRxiv.org](https://www.biorxiv.org/content/10.1101/754077v1) | [Software](https://github.com/jg-you/plant-pollinator-inference) 
 
-* <span class="pub-title">Recovering the past states of growing trees</span><br/>
+* <span class="pub-title">Inference for growing trees</span><br/>
 G. T. Cantwell, G. St-Onge, and **J.-G. Young** <br/>
 [arXiv.org](https://arxiv.org/abs/1910.04788) | [Software](https://github.com/gcant/temporal-recovery-tree-py) 
 
