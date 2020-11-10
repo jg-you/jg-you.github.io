@@ -9,6 +9,7 @@ I am a Research Assistant Professor at the [Department of Computer Science](http
 Previously, I was a [James S. McDonnell Foundation Fellow](https://www.jsmf.org/apply/fellowship/) at the [Center for the Study of Complex Systems](http://lsa.umich.edu/cscs/) of the University of Michigan, where I was mentored by [Prof. Mark Newman](http://www-personal.umich.edu/~mejn/).
 I obtained my PhD in Physics from  Université Laval, under the guidance of [Prof. Louis J. Dubé](http://www.dynamica.phy.ulaval.ca) and [Prof. Patrick Desrosiers](https://scholar.google.ca/citations?user=YAqE0O0AAAAJ&hl=en).
 
+[Full CV available here](assets/CV.pdf)
 
 <div class="end-of-post"></div>
 
