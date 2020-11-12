@@ -26,10 +26,6 @@ R. J. Gallagher, **J.-G. Young**, and B. Foucault Welles<br/>
 J. Garland, K. Ghazi-Zahedi, **J.-G. Young**, L. Hébert-Dufresne, and M. Galesic<br/>
 [arXiv.org](https://arxiv.org/abs/2006.01974) 
 
-* <span class="pub-title">Robust Bayesian inference of network structure from unreliable data</span><br/>
-**J.-G. Young**, G. T. Cantwell, and M. E. J. Newman <br/>
-[arXiv.org](https://arxiv.org/abs/2008.03334) | [Software](https://github.com/jg-you/noisy-networks-measurements) 
-
 * <span class="pub-title">Hypergraph reconstruction from network data</span><br/>
 **J.-G. Young**, G. Petri, and T. P. Peixoto <br/>
 [arXiv.org](https://arxiv.org/abs/2008.04948) | [Software](https://graph-tool.skewed.de/) 
@@ -46,8 +42,10 @@ J. Garland, K. Ghazi-Zahedi, **J.-G. Young**, L. Hébert-Dufresne, and M. Galesi
 
 <p>(listed in inverse chronological order)</p>
 
-
-
+* <span class="pub-title">Bayesian inference of network structure from unreliable data</span><br/>
+**J.-G. Young**, G. T. Cantwell, and M. E. J. Newman <br/>
+J. Complex Netw. (in press) <br/>
+[arXiv.org](https://arxiv.org/abs/2008.03334) | [Software](https://github.com/jg-you/noisy-networks-measurements) | [Tutorial](https://github.com/jg-you/noisy-networks-measurements/blob/master/tutorial/tutorial.ipynb)
 
 * <span class="pub-title">Networks beyond pairwise interactions: structure and dynamics</span><br/>
 F. Battiston, G. Cencetti, I. Iacopini, V. Latora, M. Lucas, A. Patania, **J.-G. Young**, and G. Petri <br/>
