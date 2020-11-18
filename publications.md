@@ -22,10 +22,6 @@ A. B. Kao, A. K. Hund, F. P. Santos, **J.-G. Young**, D. Bhat, J. Garland, R. A.
 R. J. Gallagher, **J.-G. Young**, and B. Foucault Welles<br/>
 [arXiv.org](https://arxiv.org/abs/2005.10191) | [Software](https://github.com/ryanjgallagher/core_periphery_sbm) 
 
-* <span class="pub-title">Countering hate on social media: Large scale classification of hate and counter speech</span><br/>
-J. Garland, K. Ghazi-Zahedi, **J.-G. Young**, L. Hébert-Dufresne, and M. Galesic<br/>
-[arXiv.org](https://arxiv.org/abs/2006.01974) 
-
 * <span class="pub-title">Hypergraph reconstruction from network data</span><br/>
 **J.-G. Young**, G. Petri, and T. P. Peixoto <br/>
 [arXiv.org](https://arxiv.org/abs/2008.04948) | [Software](https://graph-tool.skewed.de/) 
@@ -154,11 +150,15 @@ Sci. Rep., **3**, 2171 (2013)<br/>
 
 ## Conference Proceedings
 
+* <span class="pub-title">Countering hate on social media: Large scale classification of hate and counter speech</span><br/>
+J. Garland, K. Ghazi-Zahedi, **J.-G. Young**, L. Hébert-Dufresne, and M. Galesic<br/>
+ACL 2020, Proceedings of the Fourth Workshop on Online Abuse and Harm, pp. 102-112<br/>
+[arXiv.org](https://arxiv.org/abs/2006.01974) | [Proceeding](https://www.aclweb.org/anthology/2020.alw-1.13/)
 
 * <span class="pub-title">Connected graphs with a given degree sequence: efficient sampling, correlations, community detection and robustness</span><br/>
 J. H. Ring IV, **J.-G. Young** and Laurent Hébert-Dufresne <br/>
-Proceedings of NetSci-X 2020 <br/>
-[PDF](/assets/CCM.pdf) | [Journal](https://link.springer.com/chapter/10.1007%2F978-3-030-38965-9_3)
+NetSci-X 2020, Proceedings of NetSci-X 2020: Sixth International Winter School and Conference on Network Science, pp. 33-47<br/>
+[PDF](/assets/CCM.pdf) | [Proceeding](https://link.springer.com/chapter/10.1007%2F978-3-030-38965-9_3)
 
 
 <div class="end-of-post"></div>
@@ -175,3 +175,4 @@ Ph.D. Thesis, Université Laval (2018)<br/>
 (Of community structure detection on complex networks)<br/>
 M.Sc. Thesis, Université Laval (2014)<br/>
 [Corpus](https://corpus.ulaval.ca/jspui/handle/20.500.11794/25472) | [PDF](http://dynamicalab.github.io/assets/pdf/theses/young14_master.pdf) 
+
