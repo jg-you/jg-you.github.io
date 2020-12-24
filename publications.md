@@ -51,48 +51,48 @@ Phys. Rep. **874** (2020)<br/>
 
 * <span class="pub-title">Improved mutual information measure for classification and community detection</span><br/>
 M. E. J. Newman, G. T. Cantwell, and **J.-G. Young** <br/>
-Phys. Rev. E, **101**, 042304 (2020)<br/>
+Phys. Rev. E **101**, 042304 (2020)<br/>
 [arXiv.org](https://arxiv.org/abs/1907.12581) | [Journal](https://doi.org/10.1103/PhysRevE.101.042304)
 
 
 * <span class="pub-title">Macroscopic patterns of interacting contagions are indistinguishable from social reinforcement</span><br/>
 L. Hébert-Dufresne, S. V. Scarpino, and **J.-G. Young** <br/>
-Nature Physics (2020)<br/>
+Nature Physics **16**, 426  (2020)<br/>
 [arXiv.org](https://arxiv.org/abs/1906.01147) | [Journal](https://doi.org/10.1038/s41567-020-0791-2) | [Supplementary Information](https://static-content.springer.com/esm/art%3A10.1038%2Fs41567-020-0791-2/MediaObjects/41567_2020_791_MOESM1_ESM.pdf) | ["News and views" by Sune Lehmann](https://www.nature.com/articles/s41567-020-0817-9.epdf?shared_access_token=WPV1ymOU9VdS86G9J1CqlNRgN0jAjWel9jnR3ZoTv0OTCQSm_WskCqpgL934ht-e0XiaJBsrRv9R_E6hNVPI1_ndb9rDvSmgpBLSzDSBztlSsmdDW-jfJYWvBwYm_g2IgksrPqEx4xSp2U6j95B12g%3D%3D&fbclid=IwAR0PTgJxh4Y24vGyvZniIeDNrqCuQuxmVjYKRv4iH9MxiukPWq7wwp34Vb4) | [PDF](http://scarpino.github.io/files/s41567-020-0791-2.pdf) | [Software](https://github.com/jg-you/complex-coinfection-inference/) | [Slides](https://speakerdeck.com/jgyou/bayesian-inference-of-effective-contagion-models-from-population-level-data)
 
 * <span class="pub-title">Phase transition in the recoverability of network history</span><br/>
 **J.-G. Young**, G. St-Onge, E. Laurence, C. Murphy, L. Hébert-Dufresne, and P. Desrosiers<br/>
-Phys. Rev. X, **9**, 041056 (2019) <br/>
+Phys. Rev. X **9**, 041056 (2019) <br/>
 [arXiv.org](https://arxiv.org/abs/1803.09191) | [Journal <i class="ai ai-open-access" aria-hidden="true"></i>](https://doi.org/10.1103/PhysRevX.9.041056) | [Supplementary Information](files/SI_archaeology_v2.pdf) | [Software](https://github.com/jg-you/network-archaeology) | [Slides](https://speakerdeck.com/jgyou/network-archaeology-phase-transition-in-the-recoverability-of-network-history)
 
 * <span class="pub-title">Efficient sampling of spreading processes on complex networks using a composition and rejection algorithm</span><br/>
 G. St-Onge, **J.-G. Young**, L. Hébert-Dufresne, and L. J. Dubé<br/>
-Computer Physics Communications, **240**, 30 (2019)<br/>
+Computer Physics Communications **240**, 30 (2019)<br/>
 [arXiv.org](https://arxiv.org/abs/1808.05859) | [Journal](https://doi.org/10.1016/j.cpc.2019.02.008) | [Software](https://github.com/gstonge/spreading_CR)
 
 * <span class="pub-title">Universality of the stochastic block model</span><br/>
 **J.-G. Young**, G. St-Onge, P. Desrosiers, and L. J. Dubé<br/>
-Phys. Rev. E, **98**, 032309 (2018)<br/>
+Phys. Rev. E **98**, 032309 (2018)<br/>
 [arXiv.org](http://arxiv.org/abs/1806.04214) | [Journal](https://doi.org/10.1103/PhysRevE.98.032309) | [Slides](https://speakerdeck.com/jgyou/on-the-universality-of-the-stochastic-block-model) 
 
 * <span class="pub-title">Exact analytical solution of irreversible binary dynamics on networks</span><br/>
 E. Laurence,  **J.-G. Young**, S. Melnik, and L. J. Dubé<br/>
-Phys. Rev. E, **97**, 032302 (2018)<br/>
+Phys. Rev. E **97**, 032302 (2018)<br/>
 [arXiv.org](https://arxiv.org/abs/1711.02721) | [Journal](https://doi.org/10.1103/PhysRevE.97.032302) | [Software](https://github.com/laurencee9/exact_binary_dynamics)
 
 * <span class="pub-title">Phase transition of the susceptible-infected-susceptible dynamics on time-varying configuration model networks</span><br/>
 G. St-Onge, **J.-G. Young**, E. Laurence, C. Murphy, and L. J. Dubé<br/>
-Phys. Rev. E, **97**, 022305 (2018)<br/>
+Phys. Rev. E **97**, 022305 (2018)<br/>
 [arXiv.org](https://arxiv.org/abs/1709.09257) | [Journal](https://doi.org/10.1103/PhysRevE.97.022305) | [Short note](https://arxiv.org/abs/1701.01740)
 
 * <span class="pub-title">Construction of and efficient sampling from the simplicial configuration model</span><br/>
 **J.-G. Young**, G. Petri, F. Vaccarino, and A. Patania<br/>
-Phys. Rev. E, **96**, 032312 (2017)<br/>
+Phys. Rev. E **96**, 032312 (2017)<br/>
 [arXiv.org](https://arxiv.org/abs/1705.10298) | [Journal](https://doi.org/10.1103/PhysRevE.96.032312) | [Slides](https://speakerdeck.com/jgyou/construction-of-and-efficient-sampling-from-the-simplicial-configuration-model) | [Software](https://github.com/jg-you/scm) 
 
 * <span class="pub-title">Strategic tradeoffs in competitor dynamics on adaptive networks</span><br/>
 L. Hébert-Dufresne, A. Allard, P.-A. Noël, **J.-G. Young**,  and E. Libby<br/>
-Sci. Rep., **7**, 7576 (2017)<br/>
+Sci. Rep. **7**, 7576 (2017)<br/>
 [arXiv.org](http://arxiv.org/abs/1607.04632) | [Journal  <i class="ai ai-open-access" aria-hidden="true"></i>](http://dx.doi.org/10.1038/s41598-017-07621-x) 
 
 * <span class="pub-title">Finite size analysis of the detectability limit of the stochastic block model</span><br/>
@@ -113,12 +113,12 @@ Phys. Rev. E **93**, 032304 (2016)<br/>
 
 * <span class="pub-title">Complex networks as an emerging property of hierarchical preferential attachment</span><br/>
  L. Hébert-Dufresne, E. Laurence, A. Allard, **J.-G. Young**, and L. J. Dubé<br/>
-Phys. Rev. E, **92**, 062809 (2015)<br/>
+Phys. Rev. E **92**, 062809 (2015)<br/>
 [arXiv.org](http://arxiv.org/abs/1312.0171) | [Journal](http://dx.doi.org/10.1103/PhysRevE.92.062809) | [Poster](files/netsci2014_LHDPoster.pdf) |  [Software](https://github.com/spa-networks/hpa)
 
 * <span class="pub-title">General and exact approach to percolation on random graphs</span><br/>
  A. Allard, L. Hébert-Dufresne, **J.-G. Young**, and L. J. Dubé<br/>
-Phys. Rev. E, **92**, 062807 (2015)<br/>
+Phys. Rev. E **92**, 062807 (2015)<br/>
 [arXiv.org](http://arxiv.org/abs/1509.01207) | [Journal](http://dx.doi.org/10.1103/PhysRevE.92.062807)
 
 * <span class="pub-title">A shadowing problem in the detection of overlapping communities:<br/>
@@ -130,18 +130,18 @@ PLoS ONE **10**, e0140133 (2015)<br/>
 
 * <span class="pub-title">Coexistence of phases and the observability of random graphs</span><br/>
 A. Allard, L. Hébert-Dufresne, **J.-G. Young**, and L. J. Dubé<br/>
-Phys. Rev. E, **89**, 022801 (2014)<br/>
+Phys. Rev. E **89**, 022801 (2014)<br/>
 <i class="fa fa-star" aria-hidden="true"></i> Editors' Suggestion<br/>
 [arXiv.org](http://arxiv.org/abs/1309.7983) | [Journal](http://dx.doi.org/10.1103/PhysRevE.89.022801)
 
 * <span class="pub-title">Percolation on random networks with arbitrary k-core structure</span><br/>
 L. Hébert-Dufresne, A. Allard, **J.-G. Young**, and L. J. Dubé<br/>
-Phys. Rev. E, **88**, 062820 (2013)<br/>
+Phys. Rev. E **88**, 062820 (2013)<br/>
 [arXiv.org](http://arxiv.org/abs/1308.6537) | [Journal](http://dx.doi.org/10.1103/PhysRevE.88.062820)
 
 * <span class="pub-title">Global efficiency of local immunization on complex networks</span><br/>
 L. Hébert-Dufresne, A. Allard, **J.-G. Young**, and L. J. Dubé<br/>
-Sci. Rep., **3**, 2171 (2013)<br/>
+Sci. Rep. **3**, 2171 (2013)<br/>
 [arXiv.org](http://arxiv.org/abs/1208.5768) | [Journal <i class="ai ai-open-access" aria-hidden="true"></i>](http://dx.doi.org/10.1038/srep02171) 
 
 <div class="end-of-post"></div>
