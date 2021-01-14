@@ -59,7 +59,7 @@ Phys. Rev. E **101**, 042304 (2020)<br/>
 
 * <span class="pub-title">Macroscopic patterns of interacting contagions are indistinguishable from social reinforcement</span><br/>
 L. Hébert-Dufresne, S. V. Scarpino, and **J.-G. Young** <br/>
-Nature Physics **16**, 426  (2020)<br/>
+Nat. Phys. **16**, 426  (2020)<br/>
 [arXiv.org](https://arxiv.org/abs/1906.01147) | [Journal](https://doi.org/10.1038/s41567-020-0791-2) | [Supplementary Information](https://static-content.springer.com/esm/art%3A10.1038%2Fs41567-020-0791-2/MediaObjects/41567_2020_791_MOESM1_ESM.pdf) | ["News and views" by Sune Lehmann](https://www.nature.com/articles/s41567-020-0817-9.epdf?shared_access_token=WPV1ymOU9VdS86G9J1CqlNRgN0jAjWel9jnR3ZoTv0OTCQSm_WskCqpgL934ht-e0XiaJBsrRv9R_E6hNVPI1_ndb9rDvSmgpBLSzDSBztlSsmdDW-jfJYWvBwYm_g2IgksrPqEx4xSp2U6j95B12g%3D%3D&fbclid=IwAR0PTgJxh4Y24vGyvZniIeDNrqCuQuxmVjYKRv4iH9MxiukPWq7wwp34Vb4) | [PDF](http://scarpino.github.io/files/s41567-020-0791-2.pdf) | [Software](https://github.com/jg-you/complex-coinfection-inference/) | [Slides](https://speakerdeck.com/jgyou/bayesian-inference-of-effective-contagion-models-from-population-level-data)
 
 * <span class="pub-title">Phase transition in the recoverability of network history</span><br/>
@@ -158,14 +158,26 @@ ACL 2020, Proceedings of the Fourth Workshop on Online Abuse and Harm, pp. 102-1
 [arXiv.org](https://arxiv.org/abs/2006.01974) | [Proceeding](https://www.aclweb.org/anthology/2020.alw-1.13/)
 
 * <span class="pub-title">Connected graphs with a given degree sequence: efficient sampling, correlations, community detection and robustness</span><br/>
-J. H. Ring IV, **J.-G. Young** and Laurent Hébert-Dufresne <br/>
+J. H. Ring IV, **J.-G. Young** and L. Hébert-Dufresne <br/>
 NetSci-X 2020, Proceedings of NetSci-X 2020: Sixth International Winter School and Conference on Network Science, pp. 33-47 (2020)<br/>
 [PDF](/assets/CCM.pdf) | [Proceeding](https://link.springer.com/chapter/10.1007%2F978-3-030-38965-9_3)
 
 
 <div class="end-of-post"></div>
 
-<span id="nav-others"></span>
+<span id="nav-edited-work"></span>
+
+## Other edited work
+
+* <span class="pub-title">Open source ecosystems need equitable credit across contributions</span><br/>
+A. Casari, K. McLaughlin, M. Z. Trujillo, **J.-G. Young**, J. P. Bagrow, and L. Hébert-Dufresne <br/>
+Nat. Comput. Sci. **1**, 2 (2021)<br/>
+[Journal <i class="ai ai-open-access" aria-hidden="true"></i>](https://www.nature.com/articles/s43588-020-00011-w) 
+
+
+<div class="end-of-post"></div>
+
+<span id="nav-theses"></span>
 ## Theses
 
 * Inférence et réseaux complexes (french)<br/> 
