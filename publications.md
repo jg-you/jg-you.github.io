@@ -42,7 +42,7 @@ J. Complex Netw. (in press) <br/>
 
 * <span class="pub-title">Inference, model selection, and the combinatorics of growing trees</span><br/>
 G. T. Cantwell, G. St-Onge, and **J.-G. Young** <br/>
-Phys. Rev. Lett. **126**, 038301<br/>
+Phys. Rev. Lett. **126**, 038301 (2021)<br/>
 [arXiv.org](https://arxiv.org/abs/1910.04788) | [Journal](https://doi.org/10.1103/PhysRevLett.126.038301) | [Software](https://github.com/gcant/temporal-recovery-tree-py)
 
 * <span class="pub-title">Networks beyond pairwise interactions: structure and dynamics</span><br/>
@@ -59,7 +59,7 @@ Phys. Rev. E **101**, 042304 (2020)<br/>
 
 * <span class="pub-title">Macroscopic patterns of interacting contagions are indistinguishable from social reinforcement</span><br/>
 L. Hébert-Dufresne, S. V. Scarpino, and **J.-G. Young** <br/>
-Nat. Phys. **16**, 426  (2020)<br/>
+Nat. Phys. **16**, 426 (2020)<br/>
 [arXiv.org](https://arxiv.org/abs/1906.01147) | [Journal](https://doi.org/10.1038/s41567-020-0791-2) | [Supplementary Information](https://static-content.springer.com/esm/art%3A10.1038%2Fs41567-020-0791-2/MediaObjects/41567_2020_791_MOESM1_ESM.pdf) | ["News and views" by Sune Lehmann](https://www.nature.com/articles/s41567-020-0817-9.epdf?shared_access_token=WPV1ymOU9VdS86G9J1CqlNRgN0jAjWel9jnR3ZoTv0OTCQSm_WskCqpgL934ht-e0XiaJBsrRv9R_E6hNVPI1_ndb9rDvSmgpBLSzDSBztlSsmdDW-jfJYWvBwYm_g2IgksrPqEx4xSp2U6j95B12g%3D%3D&fbclid=IwAR0PTgJxh4Y24vGyvZniIeDNrqCuQuxmVjYKRv4iH9MxiukPWq7wwp34Vb4) | [PDF](http://scarpino.github.io/files/s41567-020-0791-2.pdf) | [Software](https://github.com/jg-you/complex-coinfection-inference/) | [Slides](https://speakerdeck.com/jgyou/bayesian-inference-of-effective-contagion-models-from-population-level-data)
 
 * <span class="pub-title">Phase transition in the recoverability of network history</span><br/>
