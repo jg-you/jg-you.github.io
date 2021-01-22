@@ -30,11 +30,6 @@ J. Garland, K. Ghazi-Zahedi, **J.-G. Young**, L. Hébert-Dufresne, and M. Galesi
 
 <p>(listed in inverse chronological order)</p>
 
-* <span class="pub-title">Inference, model selection, and the combinatorics of growing trees</span><br/>
-G. T. Cantwell, G. St-Onge, and **J.-G. Young** <br/>
-Phys. Rev. Lett. (in press)<br/>
-[arXiv.org](https://arxiv.org/abs/1910.04788) | [Software](https://github.com/gcant/temporal-recovery-tree-py)
-
 * <span class="pub-title">A clarified typology of core-periphery structure in networks</span><br/>
 R. J. Gallagher, **J.-G. Young**, and B. Foucault Welles<br/>
 Sci. Adv. (in press) <br/>
@@ -44,6 +39,11 @@ Sci. Adv. (in press) <br/>
 **J.-G. Young**, G. T. Cantwell, and M. E. J. Newman <br/>
 J. Complex Netw. (in press) <br/>
 [arXiv.org](https://arxiv.org/abs/2008.03334) | [Software](https://github.com/jg-you/noisy-networks-measurements) | [Tutorial](https://github.com/jg-you/noisy-networks-measurements/blob/master/tutorial/tutorial.ipynb)
+
+* <span class="pub-title">Inference, model selection, and the combinatorics of growing trees</span><br/>
+G. T. Cantwell, G. St-Onge, and **J.-G. Young** <br/>
+Phys. Rev. Lett. **126**, 038301<br/>
+[arXiv.org](https://arxiv.org/abs/1910.04788) | [Journal](https://doi.org/10.1103/PhysRevLett.126.038301) | [Software](https://github.com/gcant/temporal-recovery-tree-py)
 
 * <span class="pub-title">Networks beyond pairwise interactions: structure and dynamics</span><br/>
 F. Battiston, G. Cencetti, I. Iacopini, V. Latora, M. Lucas, A. Patania, **J.-G. Young**, and G. Petri <br/>
