@@ -32,13 +32,13 @@ J. Garland, K. Ghazi-Zahedi, **J.-G. Young**, L. Hébert-Dufresne, and M. Galesi
 
 * <span class="pub-title">A clarified typology of core-periphery structure in networks</span><br/>
 R. J. Gallagher, **J.-G. Young**, and B. Foucault Welles<br/>
-Sci. Adv. (in press) <br/>
-[arXiv.org](https://arxiv.org/abs/2005.10191) | [Software](https://github.com/ryanjgallagher/core_periphery_sbm) 
+Sci. Adv. **7**, abc9800 (2021) <br/>
+[arXiv.org](https://arxiv.org/abs/2005.10191) | [Journal <i class="ai ai-open-access" aria-hidden="true"></i>](https://doi.org/10.1126/sciadv.abc9800) | [Software](https://github.com/ryanjgallagher/core_periphery_sbm) 
 
 * <span class="pub-title">Bayesian inference of network structure from unreliable data</span><br/>
 **J.-G. Young**, G. T. Cantwell, and M. E. J. Newman <br/>
 J. Complex Netw. **8**, cnaa046 (2021) <br/>
-[arXiv.org](https://arxiv.org/abs/2008.03334) | [Journal <i class="ai ai-open-access" aria-hidden="true"></i>](https://academic.oup.com/comnet/article/8/6/cnaa046/6161493) | [Software](https://github.com/jg-you/noisy-networks-measurements) | [Tutorial](https://github.com/jg-you/noisy-networks-measurements/blob/master/tutorial/tutorial.ipynb)
+[arXiv.org](https://arxiv.org/abs/2008.03334) | [Journal <i class="ai ai-open-access" aria-hidden="true"></i>](https://doi.org/10.1093/comnet/cnaa046) | [Software](https://github.com/jg-you/noisy-networks-measurements) | [Tutorial](https://github.com/jg-you/noisy-networks-measurements/blob/master/tutorial/tutorial.ipynb)
 
 * <span class="pub-title">Inference, model selection, and the combinatorics of growing trees</span><br/>
 G. T. Cantwell, G. St-Onge, and **J.-G. Young** <br/>
