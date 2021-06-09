@@ -6,17 +6,9 @@ title: Publications
 <span id="nav-preprints"></span>
 ## Preprints
 
-* <span class="pub-title">Reconstruction of plant–pollinator networks from observational data</span><br/>
-**J.-G. Young**, F. S. Valdovinos, and M. E. J. Newman <br/>
-[bioRxiv.org](https://www.biorxiv.org/content/10.1101/754077v1) | [Software](https://github.com/jg-you/plant-pollinator-inference) 
-
 * <span class="pub-title">Changes in group size during resource shifts reveal drivers of sociality across the tree of life</span><br/>
 A. B. Kao, A. K. Hund, F. P. Santos, **J.-G. Young**, D. Bhat, J. Garland, R. A. Oomen, and H. F. McCreery<br/>
 [bioRxiv.org](https://doi.org/10.1101/2020.03.17.994343)
-
-* <span class="pub-title">Hypergraph reconstruction from network data</span><br/>
-**J.-G. Young**, G. Petri, and T. P. Peixoto <br/>
-[arXiv.org](https://arxiv.org/abs/2008.04948) | [Software](https://graph-tool.skewed.de/) 
 
 * <span class="pub-title">Impact and dynamics of hate and counter speech online</span><br/>
 J. Garland, K. Ghazi-Zahedi, **J.-G. Young**, L. Hébert-Dufresne, and M. Galesic<br/>
@@ -29,6 +21,18 @@ J. Garland, K. Ghazi-Zahedi, **J.-G. Young**, L. Hébert-Dufresne, and M. Galesi
 ## Peer-Reviewed Journals
 
 <p>(listed in inverse chronological order)</p>
+
+
+* <span class="pub-title">Reconstruction of plant–pollinator networks from observational data</span><br/>
+**J.-G. Young**, F. S. Valdovinos, and M. E. J. Newman <br/>
+Nat. Commun. (in press)<br/>
+[bioRxiv.org](https://www.biorxiv.org/content/10.1101/754077v1) | [Software](https://github.com/jg-you/plant-pollinator-inference) 
+
+
+* <span class="pub-title">Hypergraph reconstruction from network data</span><br/>
+**J.-G. Young**, G. Petri, and T. P. Peixoto <br/>
+Commun. Phys. (in press)<br/>
+[arXiv.org](https://arxiv.org/abs/2008.04948) | [Software](https://graph-tool.skewed.de/) 
 
 * <span class="pub-title">A clarified typology of core-periphery structure in networks</span><br/>
 R. J. Gallagher, **J.-G. Young**, and B. Foucault Welles<br/>
@@ -155,6 +159,7 @@ Sci. Rep. **3**, 2171 (2013)<br/>
 * <span class="pub-title">Which contributions count? Analysis of attribution in open source</span><br/>
 **J.-G. Young**, A. Casari, K. McLaughlin, M. Z. Trujillo, L. Hébert-Dufresne, and J. P. Bagrow <br/>
 MSR 2021, Proceedings of the 2021 IEEE/ACM 17th International Conference on Mining Software Repositories (in press)<br/>
+<i class="fa fa-star" aria-hidden="true"></i> [FOSS Award](https://2021.msrconf.org/track/msr-2021-foss-award?)<br/>
 [arXiv.org](https://arxiv.org/abs/2103.11007) | [Software](https://doi.org/10.6084/m9.figshare.13966898.v1)
 
 * <span class="pub-title">Countering hate on social media: Large scale classification of hate and counter speech</span><br/>
