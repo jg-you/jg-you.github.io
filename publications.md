@@ -26,7 +26,7 @@ J. Garland, K. Ghazi-Zahedi, **J.-G. Young**, L. Hébert-Dufresne, and M. Galesi
 * <span class="pub-title">Reconstruction of plant–pollinator networks from observational data</span><br/>
 **J.-G. Young**, F. S. Valdovinos, and M. E. J. Newman <br/>
 Nat. Commun. (in press)<br/>
-[bioRxiv.org](https://www.biorxiv.org/content/10.1101/754077v1) | [Software](https://github.com/jg-you/plant-pollinator-inference) 
+[bioRxiv.org](https://www.biorxiv.org/content/10.1101/754077v2) | [Software](https://github.com/jg-you/plant-pollinator-inference) 
 
 
 * <span class="pub-title">Hypergraph reconstruction from network data</span><br/>
