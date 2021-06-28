@@ -25,14 +25,15 @@ J. Garland, K. Ghazi-Zahedi, **J.-G. Young**, L. Hébert-Dufresne, and M. Galesi
 
 * <span class="pub-title">Reconstruction of plant–pollinator networks from observational data</span><br/>
 **J.-G. Young**, F. S. Valdovinos, and M. E. J. Newman <br/>
-Nat. Commun. (in press)<br/>
-[bioRxiv.org](https://www.biorxiv.org/content/10.1101/754077v2) | [Software](https://github.com/jg-you/plant-pollinator-inference) 
+Nat. Commun. **12**, 3911 (2021)<br/>
+[bioRxiv.org](https://www.biorxiv.org/content/10.1101/754077v2) | [Journal <i class="ai ai-open-access" aria-hidden="true"></i>](https://doi.org/10.1038/s41467-021-24149-x) |  [Software](https://github.com/jg-you/plant-pollinator-inference) 
 
 
 * <span class="pub-title">Hypergraph reconstruction from network data</span><br/>
 **J.-G. Young**, G. Petri, and T. P. Peixoto <br/>
-Commun. Phys. (in press)<br/>
-[arXiv.org](https://arxiv.org/abs/2008.04948) | [Software](https://graph-tool.skewed.de/) 
+Commun. Phys. **4**, 135 (2021)<br/>
+<i class="fa fa-star" aria-hidden="true"></i> Focus Collection on Higher-order interaction networks<br/>
+[arXiv.org](https://arxiv.org/abs/2008.04948) | [Journal <i class="ai ai-open-access" aria-hidden="true"></i>](https://doi.org/10.1038/s42005-021-00637-w)  |  [Software](https://graph-tool.skewed.de/static/doc/inference.html#graph_tool.inference.clique_decomposition.CliqueState) 
 
 * <span class="pub-title">A clarified typology of core-periphery structure in networks</span><br/>
 R. J. Gallagher, **J.-G. Young**, and B. Foucault Welles<br/>
