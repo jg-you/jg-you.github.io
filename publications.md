@@ -36,7 +36,7 @@ Nat. Commun. **12**, 3911 (2021)<br/>
 **J.-G. Young**, G. Petri, and T. P. Peixoto <br/>
 Commun. Phys. **4**, 135 (2021)<br/>
 <i class="fa fa-star" aria-hidden="true"></i> Focus Collection on Higher-order interaction networks<br/>
-[arXiv.org](https://arxiv.org/abs/2008.04948) | [Journal <i class="ai ai-open-access" aria-hidden="true"></i>](https://doi.org/10.1038/s42005-021-00637-w)  |  [Software](https://graph-tool.skewed.de/static/doc/inference.html#graph_tool.inference.clique_decomposition.CliqueState) 
+[arXiv.org](https://arxiv.org/abs/2008.04948) | [Journal <i class="ai ai-open-access" aria-hidden="true"></i>](https://doi.org/10.1038/s42005-021-00637-w)  |  [Software](https://graph-tool.skewed.de/static/doc/inference.html#graph_tool.inference.clique_decomposition.CliqueState) | [Slides](https://speakerdeck.com/jgyou/hypergraph-reconstruction-from-network-data)
 
 * <span class="pub-title">A clarified typology of core-periphery structure in networks</span><br/>
 R. J. Gallagher, **J.-G. Young**, and B. Foucault Welles<br/>
