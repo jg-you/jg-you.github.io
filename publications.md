@@ -20,7 +20,7 @@ A. B. Kao, A. K. Hund, F. P. Santos, **J.-G. Young**, D. Bhat, J. Garland, R. A.
 
 * <span class="pub-title">Spatial epidemiology and adaptive targeted sampling to manage the Chagas disease vector Triatoma dimidiata</span><br/>
 B. K. M. Case, Jean-Gabriel Young, Daniel Penados, Laurent Hébert-Dufresne, and Lori Stevens<br/>
-[bioRxiv.org](https://arxiv.org/abs/2111.05964)
+[arXiv.org](https://arxiv.org/abs/2111.05964)
 
 <div class="end-of-post"></div>
 
