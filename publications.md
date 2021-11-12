@@ -18,6 +18,10 @@ J. Garland, K. Ghazi-Zahedi, **J.-G. Young**, L. Hébert-Dufresne, and M. Galesi
 A. B. Kao, A. K. Hund, F. P. Santos, **J.-G. Young**, D. Bhat, J. Garland, R. A. Oomen, and H. F. McCreery<br/>
 [bioRxiv.org](https://doi.org/10.1101/2020.03.17.994343)
 
+* <span class="pub-title">Spatial epidemiology and adaptive targeted sampling to manage the Chagas disease vector Triatoma dimidiata</span><br/>
+B. K. M. Case, Jean-Gabriel Young, Daniel Penados, Laurent Hébert-Dufresne, and Lori Stevens<br/>
+[bioRxiv.org](https://arxiv.org/abs/2111.05964)
+
 <div class="end-of-post"></div>
 
 <span id="nav-journals"></span>
