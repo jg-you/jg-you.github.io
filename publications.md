@@ -170,7 +170,7 @@ Sci. Rep. **3**, 2171 (2013)<br/>
 
 * <span class="pub-title">Which contributions count? Analysis of attribution in open source</span><br/>
 **J.-G. Young**, A. Casari, K. McLaughlin, M. Z. Trujillo, L. Hébert-Dufresne, and J. P. Bagrow <br/>
-MSR 2021, Proceedings of the 2021 IEEE/ACM 17th International Conference on Mining Software Repositories (in press)<br/>
+MSR 2021, Proceedings of the 2021 IEEE/ACM 17th International Conference on Mining Software Repositories (2021)<br/>
 <i class="fa fa-star" aria-hidden="true"></i> [FOSS Award](https://2021.msrconf.org/track/msr-2021-foss-award?)<br/>
 [arXiv.org](https://arxiv.org/abs/2103.11007) | [Proceeding](https://www.computer.org/csdl/proceedings-article/msr/2021/871000a242/1tB7jssgRpu) | [Software](https://doi.org/10.6084/m9.figshare.13966898.v1)
 
