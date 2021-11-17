@@ -22,6 +22,10 @@ A. B. Kao, A. K. Hund, F. P. Santos, **J.-G. Young**, D. Bhat, J. Garland, R. A.
 B. K. M. Case, **J.-G. Young**, D. Penados, L. Hébert-Dufresne, and L. Stevens<br/>
 [arXiv.org](https://arxiv.org/abs/2111.05964)
 
+* <span class="pub-title">The network epidemiology of an Ebola epidemic</span><br/>
+L. Hébert-Dufresne, **J.-G. Young**, J. Bedson, L. Skrip, D. Pedi, M. F. Jalloh, B. Raulier, O. Lapointe-Gagné, A. Jambai, A. Allard and B. Althouse<br/>
+[arXiv.org](https://arxiv.org/abs/2111.08686)
+
 <div class="end-of-post"></div>
 
 <span id="nav-journals"></span>
