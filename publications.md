@@ -10,10 +10,6 @@ title: Publications
 **J.-G. Young**, A. Kirkley, and M. E. J. Newman <br/>
 [arXiv.org](https://arxiv.org/abs/2107.07489)
 
-* <span class="pub-title">Impact and dynamics of hate and counter speech online</span><br/>
-J. Garland, K. Ghazi-Zahedi, **J.-G. Young**, L. Hébert-Dufresne, and M. Galesic<br/>
-[arXiv.org](https://arxiv.org/abs/2009.08392)
-
 * <span class="pub-title">Changes in group size during resource shifts reveal drivers of sociality across the tree of life</span><br/>
 A. B. Kao, A. K. Hund, F. P. Santos, **J.-G. Young**, D. Bhat, J. Garland, R. A. Oomen, and H. F. McCreery<br/>
 [bioRxiv.org](https://doi.org/10.1101/2020.03.17.994343)
@@ -37,6 +33,11 @@ C. De Bacco, M. Contisciani, J. Cardoso-Silva, H. Safdari, D. Baptista, T. Sweet
 
 <p>(listed in inverse chronological order)</p>
 
+
+* <span class="pub-title">Impact and dynamics of hate and counter speech online</span><br/>
+J. Garland, K. Ghazi-Zahedi, **J.-G. Young**, L. Hébert-Dufresne, and M. Galesic<br/>
+EPJ Data Sci. (accepted)<br/>
+[arXiv.org](https://arxiv.org/abs/2009.08392)
 
 * <span class="pub-title">Reconstruction of plant–pollinator networks from observational data</span><br/>
 **J.-G. Young**, F. S. Valdovinos, and M. E. J. Newman <br/>
