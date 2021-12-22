@@ -26,6 +26,10 @@ B. K. M. Case, **J.-G. Young**, D. Penados, L. Hébert-Dufresne, and L. Stevens<
 L. Hébert-Dufresne, **J.-G. Young**, J. Bedson, L. Skrip, D. Pedi, M. F. Jalloh, B. Raulier, O. Lapointe-Gagné, A. Jambai, A. Allard and B. Althouse<br/>
 [arXiv.org](https://arxiv.org/abs/2111.08686)
 
+* <span class="pub-title">The network epidemiology of an Ebola epidemic</span><br/>
+C. De Bacco, M. Contisciani, J. Cardoso-Silva, H. Safdari, D. Baptista, T. Sweet, **J.-G. Young**, J. Koster, C. T. Ross, R. McElreath, D. Redhead, E. A. Power<br/>
+[arXiv.org](https://arxiv.org/abs/2112.11396)
+
 <div class="end-of-post"></div>
 
 <span id="nav-journals"></span>
