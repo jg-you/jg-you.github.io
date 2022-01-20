@@ -174,7 +174,7 @@ Sci. Rep. **3**, 2171 (2013)<br/>
 
 ## Conference Proceedings
 
-* <span class="pub-title">Cutting through the noise to infer autonomous system Topology</span><br/>
+* <span class="pub-title">Cutting through the noise to infer autonomous system topology</span><br/>
 K. G. Leyba, J. J. Daymude, **J.-G. Young**, M. E. J. Newman, J. Rexford, and S. Forrest <br/>
 INFOCOM 2022, IEEE Conference on Computer Communications (2022)<br/>
 [arXiv.org](https://arxiv.org/abs/2201.07328) 
