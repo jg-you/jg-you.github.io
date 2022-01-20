@@ -174,6 +174,11 @@ Sci. Rep. **3**, 2171 (2013)<br/>
 
 ## Conference Proceedings
 
+* <span class="pub-title">Cutting through the noise to infer autonomous system Topology</span><br/>
+K. G. Leyba, J. J. Daymude, **J.-G. Young**, M. E. J. Newman, J. Rexford, and S. Forrest <br/>
+INFOCOM 2022, IEEE Conference on Computer Communications (2022)<br/>
+[arXiv.org](https://arxiv.org/abs/2201.07328) 
+
 * <span class="pub-title">Which contributions count? Analysis of attribution in open source</span><br/>
 **J.-G. Young**, A. Casari, K. McLaughlin, M. Z. Trujillo, L. Hébert-Dufresne, and J. P. Bagrow <br/>
 MSR 2021, Proceedings of the 2021 IEEE/ACM 17th International Conference on Mining Software Repositories (2021)<br/>
