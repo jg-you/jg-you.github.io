@@ -20,7 +20,7 @@ L. Hébert-Dufresne, **J.-G. Young**, J. Bedson, L. Skrip, D. Pedi, M. F. Jalloh
 
 * <span class="pub-title">Latent network models to account for noisy, multiply-reported social network data</span><br/>
 C. De Bacco, M. Contisciani, J. Cardoso-Silva, H. Safdari, D. Baptista, T. Sweet, **J.-G. Young**, J. Koster, C. T. Ross, R. McElreath, D. Redhead, E. A. Power<br/>
-[arXiv.org](https://arxiv.org/abs/2112.11396)
+[arXiv.org](https://arxiv.org/abs/2112.11396)  | [Software](https://github.com/latentnetworks/vimure)
 
 <div class="end-of-post"></div>
 
@@ -33,7 +33,7 @@ C. De Bacco, M. Contisciani, J. Cardoso-Silva, H. Safdari, D. Baptista, T. Sweet
 * <span class="pub-title">Clustering of heterogeneous populations of networks</span><br/>
 **J.-G. Young**, A. Kirkley, and M. E. J. Newman <br/>
 Phys. Rev. E (in press)<br/>
-[arXiv.org](https://arxiv.org/abs/2107.07489)
+[arXiv.org](https://arxiv.org/abs/2107.07489) | [Software](https://github.com/aleckirkley/Clustering-network-populations)
 
 * <span class="pub-title">Impact and dynamics of hate and counter speech online</span><br/>
 J. Garland, K. Ghazi-Zahedi, **J.-G. Young**, L. Hébert-Dufresne, and M. Galesic<br/>
