@@ -37,7 +37,7 @@ EPJ Data Sci. (in press)<br/>
 
 * <span class="pub-title">Clustering of heterogeneous populations of networks</span><br/>
 **J.-G. Young**, A. Kirkley, and M. E. J. Newman <br/>
-Phys. Rev. E **105**, 014312 (2020)<br/>
+Phys. Rev. E **105**, 014312 (2022)<br/>
 [arXiv.org](https://arxiv.org/abs/2107.07489) | [Journal](https://doi.org/10.1103/PhysRevE.105.014312) | [Software](https://github.com/aleckirkley/Clustering-network-populations)
 
 * <span class="pub-title">Reconstruction of plant–pollinator networks from observational data</span><br/>
