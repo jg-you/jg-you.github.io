@@ -31,8 +31,8 @@ C. De Bacco, M. Contisciani, J. Cardoso-Silva, H. Safdari, D. Baptista, T. Sweet
 
 * <span class="pub-title">Impact and dynamics of hate and counter speech online</span><br/>
 J. Garland, K. Ghazi-Zahedi, **J.-G. Young**, L. Hébert-Dufresne, and M. Galesic<br/>
-EPJ Data Sci. (in press)<br/>
-[arXiv.org](https://arxiv.org/abs/2009.08392)
+EPJ Data Sci. **11**, 3 (2022)<br/>
+[arXiv.org](https://arxiv.org/abs/2009.08392) | [Journal <i class="ai ai-open-access" aria-hidden="true"></i>](https://doi.org/10.1140/epjds/s13688-021-00314-6)
 
 
 * <span class="pub-title">Clustering of heterogeneous populations of networks</span><br/>
