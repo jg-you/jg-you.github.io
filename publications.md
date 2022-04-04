@@ -174,6 +174,11 @@ Sci. Rep. **3**, 2171 (2013)<br/>
 
 ## Conference Proceedings
 
+* <span class="pub-title">The OCEAN mailing list data set: Network analysis spanning mailing lists and code repositories</span><br/>
+M. Warrick, S. F. Rosenblatt, **J.-G. Young**, A. Casari, L. Hébert-Dufresne, and J. P. Bagrow <br/>
+MSR 2022, Proceedings of the 2022 IEEE/ACM 18th International Conference on Mining Software Repositories (2022)<br/>
+[arXiv.org](https://arxiv.org/abs/2204.00603) |  [Dataset](https://doi.org/10.6084/m9.figshare.19082540.v2)
+
 * <span class="pub-title">Cutting through the noise to infer autonomous system topology</span><br/>
 K. G. Leyba, J. J. Daymude, **J.-G. Young**, M. E. J. Newman, J. Rexford, and S. Forrest <br/>
 INFOCOM 2022, IEEE Conference on Computer Communications (2022)<br/>
