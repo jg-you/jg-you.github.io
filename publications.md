@@ -22,6 +22,10 @@ L. Hébert-Dufresne, **J.-G. Young**, J. Bedson, L. Skrip, D. Pedi, M. F. Jalloh
 C. De Bacco, M. Contisciani, J. Cardoso-Silva, H. Safdari, D. Baptista, T. Sweet, **J.-G. Young**, J. Koster, C. T. Ross, R. McElreath, D. Redhead, E. A. Power<br/>
 [arXiv.org](https://arxiv.org/abs/2112.11396)  | [Software](https://github.com/latentnetworks/vimure)
 
+* <span class="pub-title">Network Onion Divergence: Network representation and comparison using nested configuration models with fixed connectivity, correlation and centrality patterns</span><br/>
+L. Hébert-Dufresne, **J.-G. Young**, A. Daniels and A. Allard<br/>
+[arXiv.org](https://arxiv.org/abs/2204.08444)
+
 <div class="end-of-post"></div>
 
 <span id="nav-journals"></span>
