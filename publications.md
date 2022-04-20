@@ -10,9 +10,6 @@ title: Publications
 A. B. Kao, A. K. Hund, F. P. Santos, **J.-G. Young**, D. Bhat, J. Garland, R. A. Oomen, and H. F. McCreery<br/>
 [bioRxiv.org](https://doi.org/10.1101/2020.03.17.994343)
 
-* <span class="pub-title">Spatial epidemiology and adaptive targeted sampling to manage the Chagas disease vector Triatoma dimidiata</span><br/>
-B. K. M. Case, **J.-G. Young**, D. Penados, L. Hébert-Dufresne, and L. Stevens<br/>
-[arXiv.org](https://arxiv.org/abs/2111.05964)
 
 * <span class="pub-title">The network epidemiology of an Ebola epidemic</span><br/>
 L. Hébert-Dufresne, **J.-G. Young**, J. Bedson, L. Skrip, D. Pedi, M. F. Jalloh, B. Raulier, O. Lapointe-Gagné, A. Jambai, A. Allard and B. Althouse<br/>
@@ -32,6 +29,11 @@ L. Hébert-Dufresne, **J.-G. Young**, A. Daniels and A. Allard<br/>
 ## Peer-Reviewed Journals
 
 <p>(listed in inverse chronological order)</p>
+
+* <span class="pub-title">Spatial epidemiology and adaptive targeted sampling to manage the Chagas disease vector Triatoma dimidiata</span><br/>
+B. K. M. Case, **J.-G. Young**, D. Penados, L. Hébert-Dufresne, and L. Stevens<br/>
+PLOS Negl. Trop. Dis. (In press)<br/>
+[arXiv.org](https://arxiv.org/abs/2111.05964) | [Software](https://zenodo.org/record/6462160#.YmAsqlvMLvk)
 
 * <span class="pub-title">Impact and dynamics of hate and counter speech online</span><br/>
 J. Garland, K. Ghazi-Zahedi, **J.-G. Young**, L. Hébert-Dufresne, and M. Galesic<br/>
