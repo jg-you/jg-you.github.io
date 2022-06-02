@@ -32,8 +32,8 @@ L. Hébert-Dufresne, **J.-G. Young**, A. Daniels and A. Allard<br/>
 
 * <span class="pub-title">Spatial epidemiology and adaptive targeted sampling to manage the Chagas disease vector Triatoma dimidiata</span><br/>
 B. K. M. Case, **J.-G. Young**, D. Penados, L. Hébert-Dufresne, and L. Stevens<br/>
-PLOS Negl. Trop. Dis. (In press)<br/>
-[arXiv.org](https://arxiv.org/abs/2111.05964) | [Software](https://zenodo.org/record/6462160#.YmAsqlvMLvk)
+PLOS Negl. Trop. Dis. **16**, e0010436 (2022)<br/>
+[arXiv.org](https://arxiv.org/abs/2111.05964) | [Journal <i class="ai ai-open-access" aria-hidden="true"></i>](https://doi.org/10.1371/journal.pntd.0010436) | [Software](https://zenodo.org/record/6462160#.YmAsqlvMLvk)
 
 * <span class="pub-title">Impact and dynamics of hate and counter speech online</span><br/>
 J. Garland, K. Ghazi-Zahedi, **J.-G. Young**, L. Hébert-Dufresne, and M. Galesic<br/>
