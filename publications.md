@@ -187,8 +187,8 @@ MSR 2022, Proceedings of the 2022 IEEE/ACM 18th International Conference on Mini
 
 * <span class="pub-title">Cutting through the noise to infer autonomous system topology</span><br/>
 K. G. Leyba, J. J. Daymude, **J.-G. Young**, M. E. J. Newman, J. Rexford, and S. Forrest <br/>
-INFOCOM 2022, IEEE Conference on Computer Communications (2022)<br/>
-[arXiv.org](https://arxiv.org/abs/2201.07328) 
+INFOCOM 2022, IEEE Conference on Computer Communications, pp. 1609-1618 (2022)<br/>
+[arXiv.org](https://arxiv.org/abs/2201.07328)  | [Proceeding](https://ieeexplore.ieee.org/document/9796874) | [Software](https://kirtusleyba.github.io/noisynets)
 
 * <span class="pub-title">Which contributions count? Analysis of attribution in open source</span><br/>
 **J.-G. Young**, A. Casari, K. McLaughlin, M. Z. Trujillo, L. Hébert-Dufresne, and J. P. Bagrow <br/>
