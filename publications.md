@@ -23,6 +23,10 @@ C. De Bacco, M. Contisciani, J. Cardoso-Silva, H. Safdari, D. Baptista, T. Sweet
 L. Hébert-Dufresne, **J.-G. Young**, A. Daniels and A. Allard<br/>
 [arXiv.org](https://arxiv.org/abs/2204.08444)
 
+* <span class="pub-title">The promise of cross-species coexpression analysis in studying the coevolution and ecology of host-symbiont interactions</span><br/>
+A. K. Hund, P. Tiffin, **J.-G. Young**, and  D. I. Bolnick<br/>
+[arXiv.org](https://arxiv.org/abs/2206.12711)
+
 <div class="end-of-post"></div>
 
 <span id="nav-journals"></span>
