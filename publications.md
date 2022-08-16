@@ -10,7 +10,6 @@ title: Publications
 A. B. Kao, A. K. Hund, F. P. Santos, **J.-G. Young**, D. Bhat, J. Garland, R. A. Oomen, and H. F. McCreery<br/>
 [bioRxiv.org](https://doi.org/10.1101/2020.03.17.994343)
 
-
 * <span class="pub-title">The network epidemiology of an Ebola epidemic</span><br/>
 L. Hébert-Dufresne, **J.-G. Young**, J. Bedson, L. Skrip, D. Pedi, M. F. Jalloh, B. Raulier, O. Lapointe-Gagné, A. Jambai, A. Allard and B. Althouse<br/>
 [arXiv.org](https://arxiv.org/abs/2111.08686)
@@ -26,6 +25,10 @@ L. Hébert-Dufresne, **J.-G. Young**, A. Daniels and A. Allard<br/>
 * <span class="pub-title">The promise of cross-species coexpression analysis in studying the coevolution and ecology of host-symbiont interactions</span><br/>
 A. K. Hund, P. Tiffin, **J.-G. Young**, and  D. I. Bolnick<br/>
 [arXiv.org](https://arxiv.org/abs/2206.12711)
+
+* <span class="pub-title">Higher-order network reconstruction from noisy data</span><br/>
+S.Lizotte, **J.-G. Young** and A. Allard<br/>
+[arXiv.org](https://arxiv.org/abs/2208.06503)
 
 <div class="end-of-post"></div>
 
