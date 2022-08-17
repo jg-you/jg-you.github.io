@@ -26,7 +26,7 @@ L. Hébert-Dufresne, **J.-G. Young**, A. Daniels and A. Allard<br/>
 A. K. Hund, P. Tiffin, **J.-G. Young**, and  D. I. Bolnick<br/>
 [arXiv.org](https://arxiv.org/abs/2206.12711)
 
-* <span class="pub-title">Higher-order network reconstruction from noisy data</span><br/>
+* <span class="pub-title">Hypergraph reconstruction from noisy data</span><br/>
 S.Lizotte, **J.-G. Young** and A. Allard<br/>
 [arXiv.org](https://arxiv.org/abs/2208.06503)
 
