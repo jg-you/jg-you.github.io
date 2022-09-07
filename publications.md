@@ -219,6 +219,11 @@ NetSci-X 2020, Proceedings of NetSci-X 2020: Sixth International Winter School a
 
 ## Other edited work
 
+* <span class="pub-title">Book review: Advances in Network Clustering and Blockmodeling</span><br/>
+**J.-G. Young**<br/>
+J. Soc. Struct. **23**, 47 (2022)<br/>
+[Journal <i class="ai ai-open-access" aria-hidden="true"></i>](https://dx.doi.org/10.21307/joss-2022-005)
+
 * <span class="pub-title">Open source ecosystems need equitable credit across contributions</span><br/>
 A. Casari, K. McLaughlin, M. Z. Trujillo, **J.-G. Young**, J. P. Bagrow, and L. Hébert-Dufresne <br/>
 Nat. Comput. Sci. **1**, 2 (2021)<br/>
