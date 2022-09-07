@@ -56,7 +56,7 @@ Phys. Rev. E **105**, 014312 (2022)<br/>
 * <span class="pub-title">Reconstruction of plant–pollinator networks from observational data</span><br/>
 **J.-G. Young**, F. S. Valdovinos, and M. E. J. Newman <br/>
 Nat. Commun. **12**, 3911 (2021)<br/>
-[bioRxiv.org](https://www.biorxiv.org/content/10.1101/754077v2) | [Journal <i class="ai ai-open-access" aria-hidden="true"></i>](https://dx.doi.org/10.1038/s41467-021-24149-x) |  [Software](https://github.com/jg-you/plant-pollinator-inference) 
+[bioRxiv.org](https://www.biorxiv.org/content/10.1101/754077v2) | [Journal <i class="ai ai-open-access" aria-hidden="true"></i>](https://dx.doi.org/10.1038/s41467-021-24149-x) |  [Software](https://github.com/jg-you/plant-pollinator-inference)
 
 
 * <span class="pub-title">Hypergraph reconstruction from network data</span><br/>
@@ -68,7 +68,7 @@ Commun. Phys. **4**, 135 (2021)<br/>
 * <span class="pub-title">A clarified typology of core-periphery structure in networks</span><br/>
 R. J. Gallagher, **J.-G. Young**, and B. Foucault Welles<br/>
 Sci. Adv. **7**, abc9800 (2021) <br/>
-[arXiv.org](https://dx.doi.org/10.48550/arXiv.2005.10191) | [Journal <i class="ai ai-open-access" aria-hidden="true"></i>](https://dx.doi.org/10.1126/sciadv.abc9800) | [Software](https://github.com/ryanjgallagher/core_periphery_sbm) 
+[arXiv.org](https://dx.doi.org/10.48550/arXiv.2005.10191) | [Journal <i class="ai ai-open-access" aria-hidden="true"></i>](https://dx.doi.org/10.1126/sciadv.abc9800) | [Software](https://github.com/ryanjgallagher/core_periphery_sbm)
 
 * <span class="pub-title">Bayesian inference of network structure from unreliable data</span><br/>
 **J.-G. Young**, G. T. Cantwell, and M. E. J. Newman <br/>
@@ -110,7 +110,7 @@ Computer Physics Communications **240**, 30 (2019)<br/>
 * <span class="pub-title">Universality of the stochastic block model</span><br/>
 **J.-G. Young**, G. St-Onge, P. Desrosiers, and L. J. Dubé<br/>
 Phys. Rev. E **98**, 032309 (2018)<br/>
-[arXiv.org](https://dx.doi.org/10.48550/arXiv.1806.04214) | [Journal](https://dx.doi.org/10.1103/PhysRevE.98.032309) | [Slides](https://speakerdeck.com/jgyou/on-the-universality-of-the-stochastic-block-model) 
+[arXiv.org](https://dx.doi.org/10.48550/arXiv.1806.04214) | [Journal](https://dx.doi.org/10.1103/PhysRevE.98.032309) | [Slides](https://speakerdeck.com/jgyou/on-the-universality-of-the-stochastic-block-model)
 
 * <span class="pub-title">Exact analytical solution of irreversible binary dynamics on networks</span><br/>
 E. Laurence,  **J.-G. Young**, S. Melnik, and L. J. Dubé<br/>
@@ -125,12 +125,12 @@ Phys. Rev. E **97**, 022305 (2018)<br/>
 * <span class="pub-title">Construction of and efficient sampling from the simplicial configuration model</span><br/>
 **J.-G. Young**, G. Petri, F. Vaccarino, and A. Patania<br/>
 Phys. Rev. E **96**, 032312 (2017)<br/>
-[arXiv.org](https://dx.doi.org/10.48550/arXiv.1705.10298) | [Journal](https://dx.doi.org/10.1103/PhysRevE.96.032312) | [Slides](https://speakerdeck.com/jgyou/construction-of-and-efficient-sampling-from-the-simplicial-configuration-model) | [Software](https://github.com/jg-you/scm) 
+[arXiv.org](https://dx.doi.org/10.48550/arXiv.1705.10298) | [Journal](https://dx.doi.org/10.1103/PhysRevE.96.032312) | [Slides](https://speakerdeck.com/jgyou/construction-of-and-efficient-sampling-from-the-simplicial-configuration-model) | [Software](https://github.com/jg-you/scm)
 
 * <span class="pub-title">Strategic tradeoffs in competitor dynamics on adaptive networks</span><br/>
 L. Hébert-Dufresne, A. Allard, P.-A. Noël, **J.-G. Young**,  and E. Libby<br/>
 Sci. Rep. **7**, 7576 (2017)<br/>
-[arXiv.org](https://dx.doi.org/10.48550/arXiv.1607.04632) | [Journal  <i class="ai ai-open-access" aria-hidden="true"></i>](http://dx.doi.org/10.1038/s41598-017-07621-x) 
+[arXiv.org](https://dx.doi.org/10.48550/arXiv.1607.04632) | [Journal  <i class="ai ai-open-access" aria-hidden="true"></i>](http://dx.doi.org/10.1038/s41598-017-07621-x)
 
 * <span class="pub-title">Finite size analysis of the detectability limit of the stochastic block model</span><br/>
 **J.-G. Young**, P. Desrosiers, L. Hébert-Dufresne, E. Laurence, and L. J. Dubé<br/>
