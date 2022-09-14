@@ -238,10 +238,9 @@ Nat. Comput. Sci. **1**, 2 (2021)<br/>
 * Inférence et réseaux complexes (french)<br/> 
 (Inference and complex networks)<br/>
 Ph.D. Thesis, Université Laval (2018)<br/>
-[Corpus](https://corpus.ulaval.ca/jspui/handle/20.500.11794/31824) | [PDF](https://dynamicalab.github.io/assets/pdf/theses/young18_thesis.pdf) 
+[Corpus](http://hdl.handle.net/20.500.11794/31824) | [PDF](https://dynamicalab.github.io/assets/pdf/theses/young18_thesis.pdf)
 
 * De la détection de la structure communautaire des réseaux complexes (french)<br/> 
 (Of community structure detection on complex networks)<br/>
 M.Sc. Thesis, Université Laval (2014)<br/>
-[Corpus](https://corpus.ulaval.ca/jspui/handle/20.500.11794/25472) | [PDF](http://dynamicalab.github.io/assets/pdf/theses/young14_master.pdf) 
-
+[Corpus](http://hdl.handle.net/20.500.11794/25472) | [PDF](http://dynamicalab.github.io/assets/pdf/theses/young14_master.pdf)
