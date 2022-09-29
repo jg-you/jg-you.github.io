@@ -27,8 +27,12 @@ A. K. Hund, P. Tiffin, **J.-G. Young**, and  D. I. Bolnick<br/>
 [arXiv.org](https://dx.doi.org/10.48550/arXiv.2206.12711)
 
 * <span class="pub-title">Hypergraph reconstruction from noisy data</span><br/>
-S.Lizotte, **J.-G. Young** and A. Allard<br/>
+S.Lizotte, **J.-G. Young**, and A. Allard<br/>
 [arXiv.org](https://dx.doi.org/10.48550/arXiv.2208.06503)
+
+* <span class="pub-title">Compressing network populations with modal networks reveals structural diversity</span><br/>
+A. Kirkley, A. Rojas, M. Rosvall, ,and **J.-G. Young**<br/>
+[arXiv.org](https://doi.org/10.48550/arXiv.2209.13827)
 
 <div class="end-of-post"></div>
 
