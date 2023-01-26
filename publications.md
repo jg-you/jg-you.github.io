@@ -29,7 +29,7 @@ A. Kirkley, A. Rojas, M. Rosvall, and **J.-G. Young**<br/>
 
 * <span class="pub-title">Accurately summarizing an outbreak using epidemiological models takes time</span><br/>
 B. K. M. Case, **J.-G. Young**, and L. Hébert-Dufresne<br/>
-[arXiv.org](https://dx.doi.org/10.48550/arXiv.2301.08799) | [Software](https://github.com/brendandaisy/MarginalDivergence.jl)
+[arXiv.org](https://arxiv.org/abs/2301.08799) | [Software](https://github.com/brendandaisy/MarginalDivergence.jl)
 
 
 * <span class="pub-title">Exact and rapid linear clustering of networks with dynamic programming</span><br/>
