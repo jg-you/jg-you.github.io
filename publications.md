@@ -47,7 +47,7 @@ A. Patania, A. Allard, and **J.-G. Young**<br/>
 
 * <span class="pub-title">Latent network models to account for noisy, multiply-reported social network data</span><br/>
 C. De Bacco, M. Contisciani, J. Cardoso-Silva, H. Safdari, G. Borges, D. Baptista, T. Sweet, **J.-G. Young**, J. Koster, C. T. Ross, R. McElreath, D. Redhead, and E. A. Power<br/>
-J. R. Stat. Soc. A (2023)<br/>
+J. R. Stat. Soc. A, qnac004(2023)<br/>
 [arXiv.org](https://dx.doi.org/10.48550/arXiv.2112.11396)  | [Journal <i class="ai ai-open-access" aria-hidden="true"></i>](https://doi.org/10.1093/jrsssa/qnac004) | [Software](https://latentnetworks.github.io/vimure/)
 
 
