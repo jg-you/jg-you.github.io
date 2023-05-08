@@ -42,7 +42,7 @@ I obtained my PhD in Physics from  Université Laval, under the guidance of [Pro
 <a href="http://stackexchange.com/users/2079477/jgyou?tab=accounts"><i class="fa fa-stack-exchange" aria-hidden="true"></i> StackExchange </a>
 </li>
 <li class="contact-list-item"> 
-<a href="https://publons.com/author/1643175/jean-gabriel-young"><i class="ai ai-publons" aria-hidden="true"></i> Publons </a>
+<a href="https://www.webofscience.com/wos/author/record/1689626"><i class="ai ai-clarivate" aria-hidden="true"></i> Web of Science </a>
 </li>
 <li class="contact-list-item"> 
 <a href="https://aur.archlinux.org/account/jg-you/"><i class="fa fa-linux" aria-hidden="true"></i> AUR  </a>
