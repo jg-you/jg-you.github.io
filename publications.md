@@ -23,18 +23,11 @@ A. K. Hund, P. Tiffin, **J.-G. Young**, and  D. I. Bolnick<br/>
 S.Lizotte, **J.-G. Young**, and A. Allard<br/>
 [arXiv.org](https://dx.doi.org/10.48550/arXiv.2208.06503)
 
-* <span class="pub-title">Compressing network populations with modal networks reveals structural diversity</span><br/>
-A. Kirkley, A. Rojas, M. Rosvall, and **J.-G. Young**<br/>
-[arXiv.org](https://doi.org/10.48550/arXiv.2209.13827)
 
 * <span class="pub-title">Accurately summarizing an outbreak using epidemiological models takes time</span><br/>
 B. K. M. Case, **J.-G. Young**, and L. Hébert-Dufresne<br/>
 [arXiv.org](https://arxiv.org/abs/2301.08799) | [Software](https://github.com/brendandaisy/MarginalDivergence.jl)
 
-
-* <span class="pub-title">Exact and rapid linear clustering of networks with dynamic programming</span><br/>
-A. Patania, A. Allard, and **J.-G. Young**<br/>
-[arXiv.org](https://dx.doi.org/10.48550/arXiv.2301.10403) | [Software](https://github.com/jg-you/dyvider)
 
 
 <div class="end-of-post"></div>
@@ -44,17 +37,26 @@ A. Patania, A. Allard, and **J.-G. Young**<br/>
 
 <p>(listed in inverse chronological order)</p>
 
+* <span class="pub-title">Opposing responses to scarcity emerge from functionally unique sociality drivers</span><br/>
+A. B. Kao, A. K. Hund, F. P. Santos, **J.-G. Young**, D. Bhat, J. Garland, R. A. Oomen, and H. F. McCreery<br/>
+Am. Nat. **202**, 3<br/>
+[bioRxiv.org](https://dx.doi.org/10.1101/2020.03.17.994343) | [Journal](https://doi.org/10.1086/725426)
+
+* <span class="pub-title">Exact and rapid linear clustering of networks with dynamic programming</span><br/>
+A. Patania, A. Allard, and **J.-G. Young**<br/>
+Proc. R. Soc. A **479**, 2275<br/>
+[arXiv.org](https://dx.doi.org/10.48550/arXiv.2301.10403) | [Journal](https://doi.org/10.1098/rspa.2023.0159) | [Software](https://github.com/jg-you/dyvider)
+
+* <span class="pub-title">Compressing network populations with modal networks reveals structural diversity</span><br/>
+A. Kirkley, A. Rojas, M. Rosvall, and **J.-G. Young**<br/>
+Commun. Phys. **6**, 148 (2023)<br/>
+[arXiv.org](https://doi.org/10.48550/arXiv.2209.13827) | [Journal  <i class="ai ai-open-access" aria-hidden="true"></i>](https://doi.org/10.1038/s42005-023-01270-5) | [Software](https://github.com/aleckirkley/MDL-network-population-clustering)
 
 * <span class="pub-title">Latent network models to account for noisy, multiply-reported social network data</span><br/>
 C. De Bacco, M. Contisciani, J. Cardoso-Silva, H. Safdari, G. Borges, D. Baptista, T. Sweet, **J.-G. Young**, J. Koster, C. T. Ross, R. McElreath, D. Redhead, and E. A. Power<br/>
-J. R. Stat. Soc. A, qnac004(2023)<br/>
+J. R. Stat. Soc. A **186**, 355 (2023)<br/>
 [arXiv.org](https://dx.doi.org/10.48550/arXiv.2112.11396)  | [Journal <i class="ai ai-open-access" aria-hidden="true"></i>](https://doi.org/10.1093/jrsssa/qnac004) | [Software](https://latentnetworks.github.io/vimure/)
 
-
-* <span class="pub-title">Opposing responses to scarcity emerge from functionally unique sociality drivers</span><br/>
-A. B. Kao, A. K. Hund, F. P. Santos, **J.-G. Young**, D. Bhat, J. Garland, R. A. Oomen, and H. F. McCreery<br/>
-Am. Nat. (in press)<br/>
-[bioRxiv.org](https://dx.doi.org/10.1101/2020.03.17.994343)
 
 * <span class="pub-title">Spatial epidemiology and adaptive targeted sampling to manage the Chagas disease vector Triatoma dimidiata</span><br/>
 B. K. M. Case, **J.-G. Young**, D. Penados, L. Hébert-Dufresne, and L. Stevens<br/>
