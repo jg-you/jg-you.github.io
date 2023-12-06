@@ -46,12 +46,12 @@ R. Soc. Open Sci. **10**, 230634<br/>
 
 * <span class="pub-title">Opposing responses to scarcity emerge from functionally unique sociality drivers</span><br/>
 A. B. Kao, A. K. Hund, F. P. Santos, **J.-G. Young**, D. Bhat, J. Garland, R. A. Oomen, and H. F. McCreery<br/>
-Am. Nat. **202**, 3<br/>
+Am. Nat. **202**, 3 (2023)<br/>
 [bioRxiv.org](https://dx.doi.org/10.1101/2020.03.17.994343) | [Journal](https://doi.org/10.1086/725426)
 
 * <span class="pub-title">Exact and rapid linear clustering of networks with dynamic programming</span><br/>
 A. Patania, A. Allard, and **J.-G. Young**<br/>
-Proc. R. Soc. A **479**, 2275<br/>
+Proc. R. Soc. A **479**, 2275 (2023)<br/>
 [arXiv.org](https://dx.doi.org/10.48550/arXiv.2301.10403) | [Journal](https://doi.org/10.1098/rspa.2023.0159) | [Software](https://github.com/jg-you/dyvider)
 
 * <span class="pub-title">Compressing network populations with modal networks reveals structural diversity</span><br/>
