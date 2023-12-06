@@ -36,18 +36,18 @@ N. W. Landry, **J.-G. Young**, and  N. Eikmeier<br/>
 * <span class="pub-title">Hypergraph reconstruction from uncertain data</span><br/>
 S.Lizotte, **J.-G. Young**, and A. Allard<br/>
 Sci Rep **13**, 21364 (2023)<br/>
-[arXiv.org](https://dx.doi.org/10.48550/arXiv.2208.06503) | [Journal  <i class="ai ai-open-access" aria-hidden="true"></i>](https://doi.org/10.1038/s41598-023-48081-w)
+[arXiv.org](https://dx.doi.org/10.48550/arXiv.2208.06503) |  [Journal  <i class="ai ai-open-access" aria-hidden="true"></i>](https://doi.org/10.1038/s41598-023-48081-w) | [Software](https://github.com/DynamicaLab/hypergraph-bayesian-reconstruction)
 
 * <span class="pub-title">Accurately summarizing an outbreak using epidemiological models takes time</span><br/>
 B. K. M. Case, **J.-G. Young**, and L. Hébert-Dufresne<br/>
 R. Soc. Open Sci. **10**, 230634 (2023)<br/>
-[arXiv.org](https://arxiv.org/abs/2301.08799) | [Journal  <i class="ai ai-open-access" aria-hidden="true"></i>](https://doi.org/10.1098/rsos.230634) [Software](https://github.com/brendandaisy/MarginalDivergence.jl)
+[arXiv.org](https://arxiv.org/abs/2301.08799) | [Journal  <i class="ai ai-open-access" aria-hidden="true"></i>](https://doi.org/10.1098/rsos.230634) | [Software](https://github.com/brendandaisy/MarginalDivergence.jl)
 
 
 * <span class="pub-title">Opposing responses to scarcity emerge from functionally unique sociality drivers</span><br/>
 A. B. Kao, A. K. Hund, F. P. Santos, **J.-G. Young**, D. Bhat, J. Garland, R. A. Oomen, and H. F. McCreery<br/>
 Am. Nat. **202**, 3 (2023)<br/>
-[bioRxiv.org](https://dx.doi.org/10.1101/2020.03.17.994343) | [Journal <i class="ai ai-open-access" aria-hidden="true"></i>](https://doi.org/10.1086/725426)
+[bioRxiv.org](https://dx.doi.org/10.1101/2020.03.17.994343) |  [Journal  <i class="ai ai-open-access" aria-hidden="true"></i>](https://doi.org/10.1086/725426)
 
 * <span class="pub-title">Exact and rapid linear clustering of networks with dynamic programming</span><br/>
 A. Patania, A. Allard, and **J.-G. Young**<br/>
