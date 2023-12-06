@@ -40,7 +40,7 @@ Sci Rep **13**, 21364 (2023)<br/>
 
 * <span class="pub-title">Accurately summarizing an outbreak using epidemiological models takes time</span><br/>
 B. K. M. Case, **J.-G. Young**, and L. Hébert-Dufresne<br/>
-R. Soc. Open Sci. **10**, 230634<br/>
+R. Soc. Open Sci. **10**, 230634 (2023)<br/>
 [arXiv.org](https://arxiv.org/abs/2301.08799) | [Journal  <i class="ai ai-open-access" aria-hidden="true"></i>](https://doi.org/10.1098/rsos.230634) [Software](https://github.com/brendandaisy/MarginalDivergence.jl)
 
 
