@@ -19,14 +19,10 @@ L. Hébert-Dufresne, **J.-G. Young**, A. Daniels and A. Allard<br/>
 A. K. Hund, P. Tiffin, **J.-G. Young**, and  D. I. Bolnick<br/>
 [arXiv.org](https://dx.doi.org/10.48550/arXiv.2206.12711)
 
-* <span class="pub-title">Hypergraph reconstruction from noisy data</span><br/>
-S.Lizotte, **J.-G. Young**, and A. Allard<br/>
-[arXiv.org](https://dx.doi.org/10.48550/arXiv.2208.06503)
 
-
-* <span class="pub-title">Accurately summarizing an outbreak using epidemiological models takes time</span><br/>
-B. K. M. Case, **J.-G. Young**, and L. Hébert-Dufresne<br/>
-[arXiv.org](https://arxiv.org/abs/2301.08799) | [Software](https://github.com/brendandaisy/MarginalDivergence.jl)
+* <span class="pub-title">The simpliciality of higher-order networks</span><br/>
+N. W. Landry, **J.-G. Young**, and  N. Eikmeier<br/>
+[arXiv.org](https://doi.org/10.48550/arXiv.2308.13918) | [Software](https://github.com/nwlandry/the-simpliciality-of-higher-order-networks)
 
 
 
@@ -36,6 +32,17 @@ B. K. M. Case, **J.-G. Young**, and L. Hébert-Dufresne<br/>
 ## Peer-Reviewed Journals
 
 <p>(listed in inverse chronological order)</p>
+
+* <span class="pub-title">Hypergraph reconstruction from uncertain data</span><br/>
+S.Lizotte, **J.-G. Young**, and A. Allard<br/>
+Sci Rep **13**, 21364 (2023)<br/>
+[arXiv.org](https://dx.doi.org/10.48550/arXiv.2208.06503) | [Journal  <i class="ai ai-open-access" aria-hidden="true"></i>](https://doi.org/10.1038/s41598-023-48081-w)
+
+* <span class="pub-title">Accurately summarizing an outbreak using epidemiological models takes time</span><br/>
+B. K. M. Case, **J.-G. Young**, and L. Hébert-Dufresne<br/>
+R. Soc. Open Sci. **10**, 230634<br/>
+[arXiv.org](https://arxiv.org/abs/2301.08799) | [Journal  <i class="ai ai-open-access" aria-hidden="true"></i>](https://doi.org/10.1098/rsos.230634) [Software](https://github.com/brendandaisy/MarginalDivergence.jl)
+
 
 * <span class="pub-title">Opposing responses to scarcity emerge from functionally unique sociality drivers</span><br/>
 A. B. Kao, A. K. Hund, F. P. Santos, **J.-G. Young**, D. Bhat, J. Garland, R. A. Oomen, and H. F. McCreery<br/>
