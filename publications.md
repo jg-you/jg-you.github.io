@@ -19,6 +19,10 @@ L. Hébert-Dufresne, **J.-G. Young**, A. Daniels and A. Allard<br/>
 A. K. Hund, P. Tiffin, **J.-G. Young**, and  D. I. Bolnick<br/>
 [arXiv.org](https://dx.doi.org/10.48550/arXiv.2206.12711)
 
+* <span class="pub-title">Complex contagions can outperform simple contagions for network reconstruction with dense networks or saturated dynamics</span><br/>
+N. W. Landry, W. H. W. Thompson, L. Hébert-Dufresne, and **J.-G. Young**<br/>
+[arXiv.org](https://dx.doi.org/10.48550/arXiv.2405.00129)  |  [Software](https://github.com/nwlandry/complex-network-reconstruction)
+
 
 <div class="end-of-post"></div>
 
@@ -31,7 +35,7 @@ A. K. Hund, P. Tiffin, **J.-G. Young**, and  D. I. Bolnick<br/>
 * <span class="pub-title">The simpliciality of higher-order networks</span><br/>
 N. W. Landry, **J.-G. Young**, and  N. Eikmeier<br/>
 EPJ Data Sci. **13**, 17 (2024)<br/>
-[arXiv.org](https://doi.org/10.48550/arXiv.2308.13918)  |  [Journal  <i class="ai ai-open-access" aria-hidden="true"></i>](https://doi.org/10.1140/epjds/s13688-024-00458-1)| [Software](https://github.com/nwlandry/the-simpliciality-of-higher-order-networks)
+[arXiv.org](https://dx.doi.org/10.48550/arXiv.2308.13918)  |  [Journal  <i class="ai ai-open-access" aria-hidden="true"></i>](https://doi.org/10.1140/epjds/s13688-024-00458-1) | [Software](https://github.com/nwlandry/the-simpliciality-of-higher-order-networks)
 
 * <span class="pub-title">Hypergraph reconstruction from uncertain data</span><br/>
 S.Lizotte, **J.-G. Young**, and A. Allard<br/>
@@ -41,7 +45,7 @@ Sci. Rep. **13**, 21364 (2023)<br/>
 * <span class="pub-title">Accurately summarizing an outbreak using epidemiological models takes time</span><br/>
 B. K. M. Case, **J.-G. Young**, and L. Hébert-Dufresne<br/>
 R. Soc. Open Sci. **10**, 230634 (2023)<br/>
-[arXiv.org](https://arxiv.org/abs/2301.08799) | [Journal  <i class="ai ai-open-access" aria-hidden="true"></i>](https://doi.org/10.1098/rsos.230634) | [Software](https://github.com/brendandaisy/MarginalDivergence.jl)
+[arXiv.org](https://dx.doi.org/10.48550/arXiv.2301.08799) | [Journal  <i class="ai ai-open-access" aria-hidden="true"></i>](https://doi.org/10.1098/rsos.230634) | [Software](https://github.com/brendandaisy/MarginalDivergence.jl)
 
 
 * <span class="pub-title">Opposing responses to scarcity emerge from functionally unique sociality drivers</span><br/>
