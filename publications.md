@@ -24,6 +24,11 @@ N. W. Landry, W. H. W. Thompson, L. Hébert-Dufresne, and **J.-G. Young**<br/>
 [arXiv.org](https://dx.doi.org/10.48550/arXiv.2405.00129)  |  [Software](https://github.com/nwlandry/complex-network-reconstruction)
 
 
+* <span class="pub-title">Symmetry-driven embedding of networks in hyperbolic space</span><br/>
+S. Lizotte, **J.-G. Young**, and A. Allard<br/>
+[arXiv.org](https://doi.org/10.48550/arXiv.2406.10711)  |  [Software](https://github.com/DynamicaLab/bigue)
+
+
 <div class="end-of-post"></div>
 
 <span id="nav-journals"></span>
