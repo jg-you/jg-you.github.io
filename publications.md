@@ -28,8 +28,8 @@ S. Lizotte, **J.-G. Young**, and A. Allard<br/>
 <p>(listed in inverse chronological order)</p>
 
 * <span class="pub-title">Reconstructing networks from simple and complex contagions</span><br/>
-N. W. Landry, W. H. W. Thompson, L. Hébert-Dufresne, and **J.-G. Young** (in press)<br/>
-Phys. Rev. E *Letters*<br/>
+N. W. Landry, W. H. W. Thompson, L. Hébert-Dufresne, and **J.-G. Young**<br/>
+Phys. Rev. E Letters  (in press)<br/>
 [arXiv.org](https://dx.doi.org/10.48550/arXiv.2405.00129)  |  [Software](https://github.com/nwlandry/complex-network-reconstruction)
 
 * <span class="pub-title">Network compression with configuration models and the minimum description length</span><br/>
