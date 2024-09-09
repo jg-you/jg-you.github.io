@@ -11,18 +11,9 @@ title: Publications
 L. Hébert-Dufresne, **J.-G. Young**, J. Bedson, L. Skrip, D. Pedi, M. F. Jalloh, B. Raulier, O. Lapointe-Gagné, A. Jambai, A. Allard and B. Althouse<br/>
 [arXiv.org](https://dx.doi.org/10.48550/arXiv.2111.08686)
 
-* <span class="pub-title">Network Onion Divergence: Network representation and comparison using nested configuration models with fixed connectivity, correlation and centrality patterns</span><br/>
-L. Hébert-Dufresne, **J.-G. Young**, A. Daniels and A. Allard<br/>
-[arXiv.org](https://dx.doi.org/10.48550/arXiv.2204.08444)
-
 * <span class="pub-title">The promise of cross-species coexpression analysis in studying the coevolution and ecology of host-symbiont interactions</span><br/>
 A. K. Hund, P. Tiffin, **J.-G. Young**, and  D. I. Bolnick<br/>
 [arXiv.org](https://dx.doi.org/10.48550/arXiv.2206.12711)
-
-* <span class="pub-title">Complex contagions can outperform simple contagions for network reconstruction with dense networks or saturated dynamics</span><br/>
-N. W. Landry, W. H. W. Thompson, L. Hébert-Dufresne, and **J.-G. Young**<br/>
-[arXiv.org](https://dx.doi.org/10.48550/arXiv.2405.00129)  |  [Software](https://github.com/nwlandry/complex-network-reconstruction)
-
 
 * <span class="pub-title">Symmetry-driven embedding of networks in hyperbolic space</span><br/>
 S. Lizotte, **J.-G. Young**, and A. Allard<br/>
@@ -36,6 +27,15 @@ S. Lizotte, **J.-G. Young**, and A. Allard<br/>
 
 <p>(listed in inverse chronological order)</p>
 
+* <span class="pub-title">Reconstructing networks from simple and complex contagions</span><br/>
+N. W. Landry, W. H. W. Thompson, L. Hébert-Dufresne, and **J.-G. Young** (in press)<br/>
+Phys. Rev. E *Letters*<br/>
+[arXiv.org](https://dx.doi.org/10.48550/arXiv.2405.00129)  |  [Software](https://github.com/nwlandry/complex-network-reconstruction)
+
+* <span class="pub-title">Network compression with configuration models and the minimum description length</span><br/>
+L. Hébert-Dufresne, **J.-G. Young**, A. Daniels, A. Kirkley and A. Allard<br/>
+Phys. Rev. E **105**, 014312 (2024)<br/>
+[arXiv.org](https://dx.doi.org/10.48550/arXiv.2204.08444) | [Journal](https://doi.org/10.1103/PhysRevE.110.034305)
 
 * <span class="pub-title">The simpliciality of higher-order networks</span><br/>
 N. W. Landry, **J.-G. Young**, and  N. Eikmeier<br/>
