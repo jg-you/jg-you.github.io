@@ -1,14 +1,20 @@
 ---
 layout: page
-title: 
+title: test
 ---
 
-I am an Assistant Professor of [Mathematics and Statistics](https://www.uvm.edu/cems/mathstat) at The University of Vermont, VT, USA. I also am a faculty of the [Translational Global Infectious diseases Research Center](https://www.med.uvm.edu/tgircobre/home) and the [Vermont Complex Systems Center](https://vermontcomplexsystems.org/). My research is at the intersection of statistical inference, epidemiology, and complex systems.
+👋 I am an Assistant Professor of [Mathematics and Statistics](https://www.uvm.edu/cems/mathstat) at The University of Vermont, VT, USA. I also am a faculty of the [Translational Global Infectious diseases Research Center](https://www.med.uvm.edu/tgircobre/home) and the [Vermont Complex Systems Center](https://vermontcomplexsystems.org/). My research is at the intersection of statistical inference, epidemiology, and complex systems. 
 
 Previously, I was a [James S. McDonnell Foundation Fellow](https://www.jsmf.org/apply/fellowship/) at the [Center for the Study of Complex Systems](http://lsa.umich.edu/cscs/) of the University of Michigan, where I was mentored by [Prof. Mark Newman](http://www-personal.umich.edu/~mejn/).
 I obtained my PhD in Physics from  Université Laval, under the guidance of [Prof. Louis J. Dubé](http://www.dynamica.phy.ulaval.ca) and [Prof. Patrick Desrosiers](https://scholar.google.ca/citations?user=YAqE0O0AAAAJ&hl=en).
 
-[CV available here (PDF file).](assets/CV.pdf)
+
+[**📃 CV available here (PDF file)**](assets/CV.pdf)
+
+[**🌐 My lab's website**](https://joint-lab.github.io/)
+
+[**⬇️ Scroll to contacts**](#nav-contact)
+
 
 <div class="end-of-post"></div>
 
@@ -293,48 +299,51 @@ M.Sc. Thesis, Université Laval (2014)<br/>
 [Corpus](http://hdl.handle.net/20.500.11794/25472) | [PDF](http://dynamicalab.github.io/assets/pdf/theses/young14_master.pdf)
 
 
+<div class="end-of-post"></div>
+
 <span id="nav-contact"></span>
 ## Contact
 
 <ul class="contact-list">
 <li class="contact-list-item"> 
-    <a href="mailto:jean-Gabriel.young@uvm.edu"><i class="fa fa-envelope-o" aria-hidden="true"></i> Jean-Gabriel.Young@uvm.edu </a>  
+    <a href="mailto:jean-Gabriel.young@uvm.edu"><i class="fa-regular fa-envelope" aria-hidden="true"></i> Jean-Gabriel.Young@uvm.edu </a>  
 </li> 
 <li class="contact-list-item"> 
-    <a href="https://joint-lab.github.io/"><i class="fa fa-globe" aria-hidden="true"></i> Lab website </a>
-</li>
-    <a href="http://www.twitter.com/_jgyou"><i class="fa fa-twitter" aria-hidden="true"></i> Twitter </a>
+    <a href="https://scholar.google.ca/citations?user=qmKcNSoAAAAJ&hl=en"><i class="ai ai-google-scholar" aria-hidden="true"></i>  Google Scholar </a>
 </li>
 <li class="contact-list-item"> 
-    <a href="https://bsky.app/profile/jgyou.bsky.social"><i class="fa fa-bluesky" aria-hidden="true"></i> Bluesky </a>
+    <a href="https://joint-lab.github.io/"><i class="fa fa-globe" aria-hidden="true"></i> Lab website </a>
 </li>
 <li class="contact-list-item"> 
     <a href="https://arxiv.org/a/young_j_1.html"><i class="ai ai-arxiv" aria-hidden="true"></i>  arXiv.org </a>
 </li>
 <li class="contact-list-item"> 
-    <a href="https://scholar.google.ca/citations?user=qmKcNSoAAAAJ&hl=en"><i class="ai ai-google-scholar" aria-hidden="true"></i>  Google Scholar </a>
-</li>
-<li class="contact-list-item"> 
     <a href="https://www.researchgate.net/profile/Jean_Gabriel_Young"><i class="ai ai-researchgate" aria-hidden="true"></i>  ResearchGate  </a></li>
 <li class="contact-list-item"> 
-    <a href="https://impactstory.org/u/0000-0002-4464-2692"><i class="ai ai-impactstory" aria-hidden="true"></i>  Impactstory  </a></li>
-<li class="contact-list-item"> 
     <a href="http://orcid.org/0000-0002-4464-2692"><i class="ai ai-orcid" aria-hidden="true"></i>  ORCID</a>
-</li>
-<li class="contact-list-item"> 
-    <a href="https://github.com/jg-you/"><i class="fa fa-github" aria-hidden="true"></i> github </a>
-</li>
-<li class="contact-list-item"> 
-    <a href="http://stackexchange.com/users/2079477/jgyou?tab=accounts"><i class="fa fa-stack-exchange" aria-hidden="true"></i> StackExchange </a>
 </li>
 <li class="contact-list-item"> 
     <a href="https://www.webofscience.com/wos/author/record/1689626"><i class="ai ai-clarivate" aria-hidden="true"></i> Web of Science </a>
 </li>
 <li class="contact-list-item"> 
-    <a href="https://aur.archlinux.org/account/jg-you/"><i class="fa fa-linux" aria-hidden="true"></i> AUR  </a>
+    <a href="https://impactstory.org/u/0000-0002-4464-2692"><i class="ai ai-impactstory" aria-hidden="true"></i>  Impactstory  </a></li>
+<li class="contact-list-item"> 
+    <a href="http://www.linkedin.com/pub/jean-gabriel-young/59/577/698"><i class="fa-brands fa-linkedin" aria-hidden="true"></i> Linkedin </a>
 </li>
 <li class="contact-list-item"> 
-    <a href="http://www.linkedin.com/pub/jean-gabriel-young/59/577/698"><i class="fa fa-linkedin" aria-hidden="true"></i> Linkedin </a>
+    <a href="https://github.com/jg-you/"><i class="fa-brands fa-github" aria-hidden="true"></i> github </a>
+</li>
+<li class="contact-list-item"> 
+    <a href="http://stackexchange.com/users/2079477/jgyou?tab=accounts"><i class="fa-brands fa-stack-exchange" aria-hidden="true"></i> StackExchange </a>
+</li>
+<li class="contact-list-item"> 
+    <a href="http://www.twitter.com/_jgyou"><i class="fa-brands fa-twitter" aria-hidden="true"></i> Twitter </a>
+</li>
+<li class="contact-list-item"> 
+    <a href="https://bsky.app/profile/jgyou.bsky.social"><i class="fa-brands fa-bluesky" aria-hidden="true"></i> Bluesky </a>
+</li>
+<li class="contact-list-item"> 
+    <a href="https://aur.archlinux.org/account/jg-you/"><i class="fa-brands fa-linux" aria-hidden="true"></i> AUR  </a>
 </li>
 </ul>
 <div class="end-of-post"></div>
