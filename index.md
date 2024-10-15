@@ -1,6 +1,6 @@
 ---
 layout: page
-title: test
+title: 
 ---
 
 👋 I am an Assistant Professor of [Mathematics and Statistics](https://www.uvm.edu/cems/mathstat) at The University of Vermont, VT, USA. I also am a faculty of the [Translational Global Infectious diseases Research Center](https://www.med.uvm.edu/tgircobre/home) and the [Vermont Complex Systems Center](https://vermontcomplexsystems.org/). My research is at the intersection of statistical inference, epidemiology, and complex systems. 
@@ -12,8 +12,6 @@ I obtained my PhD in Physics from  Université Laval, under the guidance of [Pro
 [**📃 CV available here (PDF file)**](assets/CV.pdf)
 
 [**🌐 My lab's website**](https://joint-lab.github.io/)
-
-[**⬇️ Scroll to contacts**](#nav-contact)
 
 
 <div class="end-of-post"></div>
@@ -45,8 +43,7 @@ S. Lizotte, **J.-G. Young**, and A. Allard<br/>
 * <span class="pub-title">Reconstructing networks from simple and complex contagions</span><br/>
 N. W. Landry, W. H. W. Thompson, L. Hébert-Dufresne, and **J.-G. Young**<br/>
 Phys. Rev. E *110*, L042301 (2024)<br/>
-[arXiv.org](https://dx.doi.org/10.48550/arXiv.2405.00129)  |  
-[Journal](https://doi.org/10.1103/PhysRevE.110.L042301)  |  [Software](https://github.com/nwlandry/complex-network-reconstruction)
+[arXiv.org](https://dx.doi.org/10.48550/arXiv.2405.00129)  |  [Journal](https://doi.org/10.1103/PhysRevE.110.L042301)  |  [Software](https://github.com/nwlandry/complex-network-reconstruction)
 
 * <span class="pub-title">Network compression with configuration models and the minimum description length</span><br/>
 L. Hébert-Dufresne, **J.-G. Young**, A. Daniels, A. Kirkley and A. Allard<br/>
