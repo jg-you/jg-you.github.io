@@ -33,6 +33,12 @@ S. Lizotte, **J.-G. Young**, and A. Allard<br/>
 [arXiv.org](https://doi.org/10.48550/arXiv.2406.10711)  |  [Software](https://github.com/DynamicaLab/bigue)
 
 
+* <span class="pub-title">Governance as a complex, networked, democratic, satisfiability problem</span><br/>
+L. Hébert-Dufresne, N. W. Landry, J. Lovato, J. St-Onge, **J.-G.** Young, M.-E. Couture-Ménard, S. Bernatchez, C. Choquette, and A. A. Cohen<br/>
+[arXiv.org](https://doi.org/10.48550/arXiv.2412.03421)  |  [Software](https://doi.org/10.5281/zenodo.14257344)
+
+
+
 <div class="end-of-post"></div>
 
 <span id="nav-journals"></span>
