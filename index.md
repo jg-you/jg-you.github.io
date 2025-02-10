@@ -3,7 +3,7 @@ layout: page
 title: 
 ---
 
-👋 I am an Assistant Professor of [Mathematics and Statistics](https://www.uvm.edu/cems/mathstat) at The University of Vermont, VT, USA. I also am a faculty of the [Translational Global Infectious diseases Research Center](https://www.med.uvm.edu/tgircobre/home) and the [Vermont Complex Systems Center](https://vermontcomplexsystems.org/). My research is at the intersection of statistical inference, epidemiology, and complex systems. 
+👋 I am an Assistant Professor of [Mathematics and Statistics](https://www.uvm.edu/cems/mathstat) at The University of Vermont, VT, USA. I also am a faculty of the [Translational Global Infectious diseases Research Center](https://www.med.uvm.edu/tgircobre/home) and the [Vermont Complex Systems Institute](https://vermontcomplexsystems.org/). My research is at the intersection of statistical inference, epidemiology, and complex systems. 
 
 Previously, I was a [James S. McDonnell Foundation Fellow](https://www.jsmf.org/apply/fellowship/) at the [Center for the Study of Complex Systems](http://lsa.umich.edu/cscs/) of the University of Michigan, where I was mentored by [Prof. Mark Newman](http://www-personal.umich.edu/~mejn/).
 I obtained my PhD in Physics from  Université Laval, under the guidance of [Prof. Louis J. Dubé](http://www.dynamica.phy.ulaval.ca) and [Prof. Patrick Desrosiers](https://scholar.google.ca/citations?user=YAqE0O0AAAAJ&hl=en).
