@@ -33,7 +33,6 @@ S. Lizotte, **J.-G. Young**, and A. Allard<br/>
 [arXiv.org](https://doi.org/10.48550/arXiv.2406.10711)  |  [Software](https://github.com/DynamicaLab/bigue)
 
 * <span class="pub-title">One pathogen does not an epidemic make: A review of interacting contagions, diseases, beliefs and stories</span><br/>
-S. Lizotte, **J.-G. Young**, and A. Allard<br/>
 L. Hébert-Dufresne, Y.-Y. Ahn, A. Allard, J. W. Crothers, P. Sheridan Dodds, M. Galesic, F. Ghanbarnejad, D. Gravel, R. A. Hammond, K. Lerman, J. Lovato, J. J. Openshaw, S. Redner, S. V. Scarpino, G. St-Onge, T. R. Tangherlini, and **J.-G. Young**<br/>
 [arXiv.org](https://doi.org/10.48550/arXiv.2504.15053)
 
