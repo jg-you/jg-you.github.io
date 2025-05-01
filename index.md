@@ -47,8 +47,8 @@ L. Hébert-Dufresne, Y.-Y. Ahn, A. Allard, J. W. Crothers, P. Sheridan Dodds, M.
 
 * <span class="pub-title">Governance as a complex, networked, democratic, satisfiability problem</span><br/>
 L. Hébert-Dufresne, N. W. Landry, J. Lovato, J. St-Onge, **J.-G.** Young, M.-E. Couture-Ménard, S. Bernatchez, C. Choquette, and A. A. Cohen<br/>
-npj Complexity (in press) <br/>
-[arXiv.org](https://doi.org/10.48550/arXiv.2412.03421)  |  [Software](https://doi.org/10.5281/zenodo.14257344)
+npj Complexity *2*, 14 (2025) <br/>
+[arXiv.org](https://doi.org/10.48550/arXiv.2412.03421) |  [Journal](https://doi.org/10.1038/s44260-025-00041-3) |  [Software](https://doi.org/10.5281/zenodo.14257344)
 
 * <span class="pub-title">Reconstructing networks from simple and complex contagions</span><br/>
 N. W. Landry, W. H. W. Thompson, L. Hébert-Dufresne, and **J.-G. Young**<br/>
