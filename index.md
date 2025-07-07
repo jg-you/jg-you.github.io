@@ -32,6 +32,9 @@ A. K. Hund, P. Tiffin, **J.-G. Young**, and  D. I. Bolnick<br/>
 L. Hébert-Dufresne, Y.-Y. Ahn, A. Allard, J. W. Crothers, P. Sheridan Dodds, M. Galesic, F. Ghanbarnejad, D. Gravel, R. A. Hammond, K. Lerman, J. Lovato, J. J. Openshaw, S. Redner, S. V. Scarpino, G. St-Onge, T. R. Tangherlini, and **J.-G. Young**<br/>
 [arXiv.org](https://doi.org/10.48550/arXiv.2504.15053)
 
+* <span class="pub-title">Sensitivity analysis of epidemic forecasting and spreading on networks with probability generating functions</span><br/>
+M. Boudreau, W. H. W. Thompson, C. Danforth, **J.-G. Young**, and L. Hébert-Dufresne<br/>
+[arXiv.org](https://doi.org/10.48550/arXiv.2506.24103)
 
 <div class="end-of-post"></div>
 
