@@ -38,7 +38,7 @@ M. Boudreau, W. H. W. Thompson, C. Danforth, **J.-G. Young**, and L. Hébert-Duf
 
 * <span class="pub-title">Five misunderstandings in animal social network analysis</span><br/>
 D. Redhead, B. Kawam, **J.-G. Young**, D. Franks, C. S Philson, M. van Duijn, J. Hart, M. B. McElreath, R. McElreath, E. A. Power, C. Ross, S. Sosa, C. Steglich, M. Weiss, and L. J. N. Brent<br/>
-[evoecorxiv.org](https://doi.org/10.32942/X2W93X)
+[ecoevorxiv.org](https://doi.org/10.32942/X2W93X)
 
 <div class="end-of-post"></div>
 
