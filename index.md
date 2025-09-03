@@ -44,7 +44,7 @@ D. Redhead, B. Kawam, **J.-G. Young**, D. Franks, C. S Philson, M. van Duijn, J.
 <p>(listed in inverse chronological order)</p>
 
 * <span class="pub-title">One pathogen does not an epidemic make: A review of interacting contagions, diseases, beliefs and stories</span><br/>
-L. Hébert-Dufresne, Y.-Y. Ahn, A. Allard,  Vittoria Colizza, J. W. Crothers, P. Sheridan Dodds, M. Galesic, F. Ghanbarnejad, D. Gravel, R. A. Hammond, K. Lerman, J. Lovato, J. J. Openshaw, S. Redner, S. V. Scarpino, G. St-Onge, T. R. Tangherlini, and **J.-G. Young**<br/>
+L. Hébert-Dufresne, Y.-Y. Ahn, A. Allard, V. Colizza, J. W. Crothers, P. Sheridan Dodds, M. Galesic, F. Ghanbarnejad, D. Gravel, R. A. Hammond, K. Lerman, J. Lovato, J. J. Openshaw, S. Redner, S. V. Scarpino, G. St-Onge, T. R. Tangherlini, and **J.-G. Young**<br/>
 npj Complexity **2**, 26 (2025) <br/>
 [arXiv.org](https://doi.org/10.48550/arXiv.2504.15053) |   [Journal  <i class="ai ai-open-access" aria-hidden="true"></i>](https://doi.org/10.1038/s44260-025-00050-2)
 
