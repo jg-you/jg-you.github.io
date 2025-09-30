@@ -36,6 +36,11 @@ M. Boudreau, W. H. W. Thompson, C. Danforth, **J.-G. Young**, and L. Hébert-Duf
 D. Redhead, B. Kawam, **J.-G. Young**, D. Franks, C. S Philson, M. van Duijn, J. Hart, M. B. McElreath, R. McElreath, E. A. Power, C. Ross, S. Sosa, C. Steglich, M. Weiss, and L. J. N. Brent<br/>
 [ecoevorxiv.org](https://doi.org/10.32942/X2W93X)
 
+
+* <span class="pub-title">Message passing for epidemiological interventions on networks with loops</span><br/>
+E. Weis, L. Hébert-Dufresne, and **J.-G. Young**<br/>
+[arXiv.org](https://doi.org/10.48550/arXiv.2509.21596) | [Software](http://github.com/erikweis/loopy-MP-interventions/)
+
 <div class="end-of-post"></div>
 
 <span id="nav-journals"></span>
