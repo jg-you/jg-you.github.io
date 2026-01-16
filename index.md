@@ -41,6 +41,10 @@ D. Redhead, B. Kawam, **J.-G. Young**, D. Franks, C. S Philson, M. van Duijn, J.
 E. Weis, L. Hébert-Dufresne, and **J.-G. Young**<br/>
 [arXiv.org](https://doi.org/10.48550/arXiv.2509.21596) | [Software](http://github.com/erikweis/loopy-MP-interventions/)
 
+* <span class="pub-title">Inferring signed social networks from contact patterns</span><br/>
+D. Ferenczi, and **J.-G. Young**, and L. Peel<br/>
+[arXiv.org](https://doi.org/10.48550/arXiv.2601.10565) | [Software](https://github.com/ferenczid/signed_net_inf)
+
 <div class="end-of-post"></div>
 
 <span id="nav-journals"></span>
