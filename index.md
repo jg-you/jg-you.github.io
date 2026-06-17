@@ -28,10 +28,6 @@ L. Hébert-Dufresne, **J.-G. Young**, J. Bedson, L. Skrip, D. Pedi, M. F. Jalloh
 A. K. Hund, P. Tiffin, **J.-G. Young**, and  D. I. Bolnick<br/>
 [arXiv.org](https://dx.doi.org/10.48550/arXiv.2206.12711)
 
-* <span class="pub-title">Sensitivity analysis of epidemic forecasting and spreading on networks with probability generating functions</span><br/>
-M. Boudreau, W. H. W. Thompson, C. Danforth, **J.-G. Young**, and L. Hébert-Dufresne<br/>
-[arXiv.org](https://doi.org/10.48550/arXiv.2506.24103)
-
 * <span class="pub-title">Five misunderstandings in animal social network analysis</span><br/>
 D. Redhead, B. Kawam, **J.-G. Young**, D. Franks, C. S Philson, M. van Duijn, J. Hart, M. B. McElreath, R. McElreath, E. A. Power, C. Ross, S. Sosa, C. Steglich, M. Weiss, and L. J. N. Brent<br/>
 [ecoevorxiv.org](https://doi.org/10.32942/X2W93X)
@@ -41,9 +37,13 @@ D. Redhead, B. Kawam, **J.-G. Young**, D. Franks, C. S Philson, M. van Duijn, J.
 E. Weis, L. Hébert-Dufresne, and **J.-G. Young**<br/>
 [arXiv.org](https://doi.org/10.48550/arXiv.2509.21596) | [Software](http://github.com/erikweis/loopy-MP-interventions/)
 
-* <span class="pub-title">Inferring signed social networks from contact patterns</span><br/>
-D. Ferenczi, and **J.-G. Young**, and L. Peel<br/>
-[arXiv.org](https://doi.org/10.48550/arXiv.2601.10565) | [Software](https://github.com/ferenczid/signed_net_inf)
+* <span class="pub-title">Simpson's paradox explains the ubiquity of nonlinear, threshold, and complex contagions</span><br/>
+L. Hébert-Dufresne, A. Allard, **J.-G. Young**, W. H. W. Thompson, and G. St-Onge<br/>
+[arXiv.org](https://doi.org/10.48550/arXiv.2605.00791)
+
+* <span class="pub-title">The nestedness of higher-order networks</span><br/>
+T. LaRock, Y. Zhang, **J.-G. Young**, N. Eikmeier, R. Lambiotte, and N. W. Landry<br/>
+[arXiv.org](https://doi.org/10.48550/arXiv.2605.18420)
 
 <div class="end-of-post"></div>
 
@@ -51,6 +51,16 @@ D. Ferenczi, and **J.-G. Young**, and L. Peel<br/>
 ## Peer-Reviewed Journals
 
 <p>(listed in inverse chronological order)</p>
+
+* <span class="pub-title">Inferring signed social networks from contact patterns</span><br/>
+D. Ferenczi, **J.-G. Young**, and L. Peel<br/>
+J. Phys. Complex. **7**, 025018 (2026)<br/>
+[arXiv.org](https://doi.org/10.48550/arXiv.2601.10565) | [Journal <i class="ai ai-open-access" aria-hidden="true"></i>](https://doi.org/10.1088/2632-072X/ae76ae) | [Software](https://github.com/ferenczid/signed_net_inf)
+
+* <span class="pub-title">Sensitivity analysis of epidemic forecasting and spreading on networks with probability generating functions</span><br/>
+M. Boudreau, W. H. W. Thompson, C. Danforth, **J.-G. Young**, and L. Hébert-Dufresne<br/>
+J. R. Soc. Interface **23**, 20250686 (2026)<br/>
+[arXiv.org](https://doi.org/10.48550/arXiv.2506.24103) | [Journal <i class="ai ai-open-access" aria-hidden="true"></i>](https://doi.org/10.1098/rsif.2025.0686)
 
 * <span class="pub-title">One pathogen does not an epidemic make: A review of interacting contagions, diseases, beliefs and stories</span><br/>
 L. Hébert-Dufresne, Y.-Y. Ahn, A. Allard, V. Colizza, J. W. Crothers, P. Sheridan Dodds, M. Galesic, F. Ghanbarnejad, D. Gravel, R. A. Hammond, K. Lerman, J. Lovato, J. J. Openshaw, S. Redner, S. V. Scarpino, G. St-Onge, T. R. Tangherlini, and **J.-G. Young**<br/>
@@ -74,7 +84,7 @@ Phys. Rev. E **110**, L042301 (2024)<br/>
 
 * <span class="pub-title">Network compression with configuration models and the minimum description length</span><br/>
 L. Hébert-Dufresne, **J.-G. Young**, A. Daniels, A. Kirkley and A. Allard<br/>
-Phys. Rev. E **105**, 014312 (2024)<br/>
+Phys. Rev. E **110**, 034305 (2024)<br/>
 [arXiv.org](https://dx.doi.org/10.48550/arXiv.2204.08444) | [Journal](https://doi.org/10.1103/PhysRevE.110.034305)
 
 * <span class="pub-title">The simpliciality of higher-order networks</span><br/>
