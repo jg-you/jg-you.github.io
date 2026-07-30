@@ -45,6 +45,10 @@ L. Hébert-Dufresne, A. Allard, **J.-G. Young**, W. H. W. Thompson, and G. St-On
 T. LaRock, Y. Zhang, **J.-G. Young**, N. Eikmeier, R. Lambiotte, and N. W. Landry<br/>
 [arXiv.org](https://doi.org/10.48550/arXiv.2605.18420)
 
+* <span class="pub-title">Emergent contagion complexity: Disentangling mechanistic complexity from correlated heterogeneity</span><br/>
+K. Tang, D. Kaiser, W. H. W. Thompson, **J.-G. Young**, L. Hébert-Dufresne, and N. W. Landry<br/>
+[arXiv.org](https://doi.org/10.48550/arXiv.2607.25139) | [Software](https://github.com/kaiser-dan/heterogeneous-infection-kernels)
+
 <div class="end-of-post"></div>
 
 <span id="nav-journals"></span>
