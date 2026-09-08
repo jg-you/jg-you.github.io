@@ -72,7 +72,7 @@ npj Complexity **2**, 26 (2025) <br/>
 [arXiv.org](https://doi.org/10.48550/arXiv.2504.15053) |   [Journal  <i class="ai ai-open-access" aria-hidden="true"></i>](https://doi.org/10.1038/s44260-025-00050-2)
 
 * <span class="pub-title">Symmetry-driven embedding of networks in hyperbolic space</span><br/>
-S. Lizotte, **J.-G. Young**, and A. Allard<br/>
+A. Lizotte, **J.-G. Young**, and A. Allard<br/>
 Commun. Phys. **8**, 199 (2025)<br/>
 [arXiv.org](https://doi.org/10.48550/arXiv.2406.10711)  |   [Journal  <i class="ai ai-open-access" aria-hidden="true"></i>](https://doi.org/10.1038/s42005-025-02122-0) | [Software](https://github.com/DynamicaLab/bigue)
 
@@ -97,7 +97,7 @@ EPJ Data Sci. **13**, 17 (2024)<br/>
 [arXiv.org](https://dx.doi.org/10.48550/arXiv.2308.13918)  |  [Journal  <i class="ai ai-open-access" aria-hidden="true"></i>](https://doi.org/10.1140/epjds/s13688-024-00458-1) | [Software](https://github.com/nwlandry/the-simpliciality-of-higher-order-networks)
 
 * <span class="pub-title">Hypergraph reconstruction from uncertain data</span><br/>
-S.Lizotte, **J.-G. Young**, and A. Allard<br/>
+A. Lizotte, **J.-G. Young**, and A. Allard<br/>
 Sci. Rep. **13**, 21364 (2023)<br/>
 [arXiv.org](https://dx.doi.org/10.48550/arXiv.2208.06503) |  [Journal  <i class="ai ai-open-access" aria-hidden="true"></i>](https://doi.org/10.1038/s41598-023-48081-w) | [Software](https://github.com/DynamicaLab/hypergraph-bayesian-reconstruction)
 
