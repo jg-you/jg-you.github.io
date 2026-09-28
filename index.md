@@ -49,6 +49,10 @@ T. LaRock, Y. Zhang, **J.-G. Young**, N. Eikmeier, R. Lambiotte, and N. W. Landr
 K. Tang, D. Kaiser, W. H. W. Thompson, **J.-G. Young**, L. Hébert-Dufresne, and N. W. Landry<br/>
 [arXiv.org](https://doi.org/10.48550/arXiv.2607.25139) | [Software](https://github.com/kaiser-dan/heterogeneous-infection-kernels)
 
+* <span class="pub-title">Multiple latent orderings better predict language model preferences</span><br/>
+A. Chawla, W. H. W. Thompson, and **J.-G. Young**<br/>
+[arXiv.org](https://doi.org/10.48550/arXiv.2609.22170)
+
 <div class="end-of-post"></div>
 
 <span id="nav-journals"></span>
