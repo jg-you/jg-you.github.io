@@ -25,5 +25,4 @@ include: ['crm2016']
 
 # Build settings
 markdown: kramdown
-theme: minima
 google_analytics: true

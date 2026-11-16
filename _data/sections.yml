@@ -1,0 +1,18 @@
+# Sections of the home page, in display order.
+# `key` is the list in publications.yml; `id` is the #anchor on the page.
+- key: preprints
+  id: preprints
+  title: Preprints
+
+- key: journals
+  id: peer-reviewed-journals
+  title: Peer-reviewed journals
+  by_year: true
+
+- key: proceedings
+  id: conference-proceedings
+  title: Conference proceedings
+
+- key: other
+  id: other-edited-work
+  title: Other edited work

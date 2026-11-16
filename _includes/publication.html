@@ -1,0 +1,20 @@
+{%- assign p = include.p -%}
+<li class="pub">
+  <div class="pub-title">{{ p.title | escape }}</div>
+  {%- if p.authors %}
+  <div class="pub-authors">{{ p.authors | escape | replace: "J.-G. Young", "<strong>J.-G. Young</strong>" }}</div>
+  {%- endif %}
+  {%- if p.journal %}
+  <div class="pub-venue">{{ p.journal | escape }} <b>{{ p.volume }}</b>{% if p.pages %}, {{ p.pages | escape }}{% endif %} ({{ p.year }})</div>
+  {%- elsif p.venue %}
+  <div class="pub-venue">{{ p.venue | escape }} ({{ p.year }})</div>
+  {%- endif %}
+  {%- if p.note %}
+  <div class="pub-note">{% include icons/star.svg %} {% if p.note_url %}<a href="{{ p.note_url | escape }}">{{ p.note | escape }}</a>{% else %}{{ p.note | escape }}{% endif %}</div>
+  {%- endif %}
+  <ul class="pub-links">
+    {%- for l in p.links %}
+    <li><a href="{{ l.url | escape }}">{{ l.name | escape }}{% if l.open_access %}<span class="oa" title="Open access">{% include icons/open-access.svg %}<span class="visually-hidden"> (open access)</span></span>{% endif %}</a></li>
+    {%- endfor %}
+  </ul>
+</li>

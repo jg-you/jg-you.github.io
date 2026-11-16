@@ -1,0 +1,60 @@
+# Contact links, in display order. `icon` is a file in _includes/icons/.
+# Entries with `sidebar: true` also appear as icons under the name.
+- name: "Jean-Gabriel.Young@uvm.edu"
+  label: "Email"
+  url: "mailto:jean-gabriel.young@uvm.edu"
+  icon: envelope
+  sidebar: true
+
+- name: "Google Scholar"
+  url: "https://scholar.google.ca/citations?user=qmKcNSoAAAAJ&hl=en"
+  icon: google-scholar
+  sidebar: true
+
+- name: "Lab website"
+  url: "https://joint-lab.github.io/"
+  icon: globe
+
+- name: "Substack"
+  url: "https://jgyou.substack.com/"
+  icon: substack
+
+- name: "arXiv.org"
+  url: "https://arxiv.org/a/young_j_1.html"
+  icon: arxiv
+
+- name: "ResearchGate"
+  url: "https://www.researchgate.net/profile/Jean_Gabriel_Young"
+  icon: researchgate
+
+- name: "ORCID"
+  url: "https://orcid.org/0000-0002-4464-2692"
+  icon: orcid
+  sidebar: true
+
+- name: "Web of Science"
+  url: "https://www.webofscience.com/wos/author/record/1689626"
+  icon: clarivate
+
+- name: "LinkedIn"
+  url: "http://www.linkedin.com/pub/jean-gabriel-young/59/577/698"
+  icon: linkedin
+
+- name: "GitHub"
+  url: "https://github.com/jg-you/"
+  icon: github
+  sidebar: true
+
+- name: "StackExchange"
+  url: "http://stackexchange.com/users/2079477/jgyou?tab=accounts"
+  icon: stack-exchange
+
+- name: "X"
+  url: "https://x.com/_jgyou"
+  icon: x-twitter
+  sidebar: true
+
+- name: "Bluesky"
+  url: "https://bsky.app/profile/jgyou.bsky.social"
+  icon: bluesky
+  sidebar: true
