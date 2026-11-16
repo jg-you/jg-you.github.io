@@ -1,0 +1,44 @@
+---
+layout: default
+---
+<section class="intro">
+  {{ content }}
+</section>
+
+<div id="publications">
+{% for s in site.data.sections %}
+  {%- assign pubs = site.data.publications[s.key] %}
+  <section class="pub-section" id="{{ s.id }}" aria-labelledby="h-{{ s.id }}">
+    <h2 id="h-{{ s.id }}">{{ s.title }}</h2>
+    {%- if s.by_year %}
+    {%- assign groups = pubs | group_by: "year" %}
+    {%- for g in groups %}
+    <div class="year-group">
+      <h3 class="year">{{ g.name }}</h3>
+      <ul class="pubs">
+        {%- for p in g.items %}
+        {% include publication.html p=p %}
+        {%- endfor %}
+      </ul>
+    </div>
+    {%- endfor %}
+    {%- else %}
+    <ul class="pubs">
+      {%- for p in pubs %}
+      {% include publication.html p=p %}
+      {%- endfor %}
+    </ul>
+    {%- endif %}
+  </section>
+{% endfor %}
+  <p class="no-match" id="no-match" hidden>No publication matches that filter.</p>
+</div>
+
+<section class="contact" id="contact" aria-labelledby="h-contact">
+  <h2 id="h-contact">Contact</h2>
+  <ul class="contact-list">
+    {%- for c in site.data.contact %}
+    <li><a href="{{ c.url | escape }}">{% include icons/{{ c.icon }}.svg %}<span>{{ c.name | escape }}</span></a></li>
+    {%- endfor %}
+  </ul>
+</section>

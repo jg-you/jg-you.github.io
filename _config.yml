@@ -1,16 +1,15 @@
 title: Jean-Gabriel Young
-email: jean-gabriel.young.1@ulaval.ca
+email: jean-gabriel.young@uvm.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Personal website for the research work and blog posts of Jean-Gabriel Young
+  Jean-Gabriel Young is an Assistant Professor of Mathematics and Statistics
+  at the University of Vermont, working on statistical inference, epidemiology,
+  and complex systems. Publications and contact.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.jgyoung.ca" # the base hostname & protocol for your site
 twitter_username: _jgyou
 github_username:  jg-you
 include: ['crm2016']
-plugins:
-  - jekyll-feed
 
 # Build settings
 markdown: kramdown
-theme: minima
 

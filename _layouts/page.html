@@ -1,11 +1,9 @@
 ---
 layout: default
 ---
-<article class="post">
-
-
-            <div class="post-content">
-                {{ content}}
-            </div>
-
+<article class="prose">
+  {%- if page.title and page.title != "" %}
+  <h1 class="page-title">{{ page.title | escape }}</h1>
+  {%- endif %}
+  {{ content }}
 </article>
