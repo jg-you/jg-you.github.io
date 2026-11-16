@@ -736,26 +736,3 @@ other:
       - name: "Journal"
         url: "https://dx.doi.org/10.1038/s43588-020-00011-w"
         open_access: true
-
-theses:
-  - title: "Inférence et réseaux complexes"
-    language: "French"
-    translation: "Inference and complex networks"
-    venue: "Ph.D. Thesis, Université Laval"
-    year: 2018
-    links:
-      - name: "Corpus"
-        url: "http://hdl.handle.net/20.500.11794/31824"
-      - name: "PDF"
-        url: "https://dynamicalab.github.io/assets/pdf/theses/young18_thesis.pdf"
-
-  - title: "De la détection de la structure communautaire des réseaux complexes"
-    language: "French"
-    translation: "Of community structure detection on complex networks"
-    venue: "M.Sc. Thesis, Université Laval"
-    year: 2014
-    links:
-      - name: "Corpus"
-        url: "http://hdl.handle.net/20.500.11794/25472"
-      - name: "PDF"
-        url: "http://dynamicalab.github.io/assets/pdf/theses/young14_master.pdf"

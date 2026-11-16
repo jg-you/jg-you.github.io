@@ -36,10 +36,6 @@
   url: "https://www.webofscience.com/wos/author/record/1689626"
   icon: clarivate
 
-- name: "Impactstory"
-  url: "https://impactstory.org/u/0000-0002-4464-2692"
-  icon: impactstory
-
 - name: "LinkedIn"
   url: "http://www.linkedin.com/pub/jean-gabriel-young/59/577/698"
   icon: linkedin
@@ -62,7 +58,3 @@
   url: "https://bsky.app/profile/jgyou.bsky.social"
   icon: bluesky
   sidebar: true
-
-- name: "AUR"
-  url: "https://aur.archlinux.org/account/jg-you/"
-  icon: linux

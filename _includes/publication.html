@@ -1,9 +1,6 @@
 {%- assign p = include.p -%}
 <li class="pub">
-  <div class="pub-title">{{ p.title | escape }}{% if p.language %} <span class="pub-lang">({{ p.language | escape }})</span>{% endif %}</div>
-  {%- if p.translation %}
-  <div class="pub-translation">{{ p.translation | escape }}</div>
-  {%- endif %}
+  <div class="pub-title">{{ p.title | escape }}</div>
   {%- if p.authors %}
   <div class="pub-authors">{{ p.authors | escape | replace: "J.-G. Young", "<strong>J.-G. Young</strong>" }}</div>
   {%- endif %}
