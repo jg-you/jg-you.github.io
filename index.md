@@ -3,10 +3,10 @@ layout: home
 title:
 ---
 
-👋 I am an Assistant Professor of [Mathematics and Statistics](https://www.uvm.edu/cems/mathstat) at The University of Vermont, VT, USA. I also am a faculty of the [Translational Global Infectious diseases Research Center](https://www.med.uvm.edu/tgircobre/home) and the [Vermont Complex Systems Institute](https://vermontcomplexsystems.org/). My research is at the intersection of statistical inference, epidemiology, and complex systems. 
+👋 I am an Assistant Professor of [Mathematics and Statistics](https://www.uvm.edu/cems/mathstat) at The University of Vermont, VT, USA. I also am a faculty of the [Translational Global Infectious diseases Research Center](https://www.uvm.edu/larnermed/mmg/translational-global-infectious-disease-research-tgir) and the [Vermont Complex Systems Institute](https://vermontcomplexsystems.org/). My research is at the intersection of statistical inference, epidemiology, and complex systems.
 
-Previously, I was a [James S. McDonnell Foundation Fellow](https://www.jsmf.org/apply/fellowship/) at the [Center for the Study of Complex Systems](http://lsa.umich.edu/cscs/) of the University of Michigan, where I was mentored by [Prof. Mark Newman](http://www-personal.umich.edu/~mejn/).
-I obtained my PhD in Physics from  Université Laval, under the guidance of [Prof. Louis J. Dubé](http://www.dynamica.phy.ulaval.ca) and [Prof. Patrick Desrosiers](https://scholar.google.ca/citations?user=YAqE0O0AAAAJ&hl=en).
+Previously, I was a [James S. McDonnell Foundation Fellow](https://doi.org/10.37717/220020538) at the [Center for the Study of Complex Systems](https://lsa.umich.edu/cscs/) of the University of Michigan, where I was mentored by [Prof. Mark Newman](https://websites.umich.edu/~mejn/).
+I obtained my PhD in Physics from  Université Laval, under the guidance of [Prof. Louis J. Dubé](https://cimmul.fsg.ulaval.ca/physique) and [Prof. Patrick Desrosiers](https://scholar.google.ca/citations?user=YAqE0O0AAAAJ&hl=en).
 
 [Curriculum vitae (PDF)](/assets/CV.pdf){: .button} [My lab's website](https://joint-lab.github.io/){: .button}
 {: .actions}
