@@ -5,9 +5,10 @@
       <p class="site-name"><a href="/">Jean-Gabriel Young</a></p>
       <p class="role">Assistant Professor</p>
       <ul class="quick-links">
-        {%- for c in site.data.contact %}{% if c.sidebar %}
+        {%- assign quick = site.data.contact | where_exp: "c", "c.sidebar" | sort: "sidebar" %}
+        {%- for c in quick %}
         <li><a href="{{ c.url | escape }}" title="{{ c.label | default: c.name | escape }}" aria-label="{{ c.label | default: c.name | escape }}">{% include icons/{{ c.icon }}.svg %}</a></li>
-        {%- endif %}{% endfor %}
+        {%- endfor %}
       </ul>
     </div>
   </div>
