@@ -6,6 +6,14 @@
 # name/url pairs; add `open_access: true` to show the open-access mark.
 
 preprints:
+  - title: "Exact Bayesian layers via characteristic functions"
+    authors: "W. H. W. Thompson, G. St-Onge, L. Hébert-Dufresne, and J.-G. Young"
+    links:
+      - name: "arXiv.org"
+        url: "https://doi.org/10.48550/arXiv.2611.26426"
+      - name: "Software"
+        url: "https://github.com/WillHWThompson/cf-vi"
+
   - title: "Multiple latent orderings better predict language model preferences"
     authors: "A. Chawla, W. H. W. Thompson, and J.-G. Young"
     links:
