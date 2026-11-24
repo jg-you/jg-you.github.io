@@ -8,6 +8,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.jgyoung.ca" # the base hostname & protocol for your site
 twitter_username: _jgyou
 github_username:  jg-you
+google_analytics: G-MGQMGJMGJQ # GA4 measurement ID; loaded in production builds only
 include: ['crm2016']
 
 # Build settings
